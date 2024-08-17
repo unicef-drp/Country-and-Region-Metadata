@@ -1,0 +1,355 @@
+id,name,description,parent
+WHO_AFRO,Africa,,WHO_REG_GLOBAL
+WHO_AMRO,Americas,,WHO_REG_GLOBAL
+WHO_EMRO,Eastern Mediterranean,,WHO_REG_GLOBAL
+WHO_EURO,Europe,,WHO_REG_GLOBAL
+WHO_SEARO,Southeast Asia,,WHO_REG_GLOBAL
+WHO_WPRO,Western Pacific,,WHO_REG_GLOBAL
+WB_EAP,East Asia and Pacific,,WB_REG_GLOBAL
+WB_LAC,Latin America and the Caribbean,,WB_REG_GLOBAL
+WB_MNA,Middle East and North Africa,,WB_REG_GLOBAL
+WB_NAR,North America,,WB_REG_GLOBAL
+WB_SAR,South Asia,,WB_REG_GLOBAL
+WB_SSA,Sub-Saharan Africa,,WB_REG_GLOBAL
+WB_HI,World Bank (high income),,WB_INCOME
+WB_LI,World Bank (low income),,WB_INCOME
+WB_LMI,World Bank (lower middle income),,WB_INCOME
+WB_UMI,World Bank (upper middle income),,WB_INCOME
+UNSDG_AUSTRALIANEWZEALAND,Australia and New Zealand,,UNSDG_REGION_GLOBAL
+UNSDG_CARIBBEAN,Caribbean,,UNSDG_REGION_GLOBAL
+UNSDG_CENTRALAMR,Central America,,UNSDG_REGION_GLOBAL
+UNSDG_CENTRALASIA,Central Asia,,UNSDG_REGION_GLOBAL
+UNSDG_CENTRALASIASOUTHERNASIA,Central and Southern Asia,,UNSDG_REGION_GLOBAL
+UNSDG_EASTERNAFR,Eastern Africa,,UNSDG_REGION_GLOBAL
+UNSDG_EASTERNASIA,Eastern Asia,,UNSDG_REGION_GLOBAL
+UNSDG_EASTERNASIASOUTHEASTERNASIA,Eastern and South-Eastern Asia,,UNSDG_REGION_GLOBAL
+UNSDG_EASTERNEUROPE,Eastern Europe,,UNSDG_REGION_GLOBAL
+UNSDG_EUROPE,Europe,,UNSDG_REGION_GLOBAL
+UNSDG_EUROPENORTHERNAMR,Europe and Northern America,,UNSDG_REGION_GLOBAL
+UNSDG_LAC,Latin America and the Caribbean,,UNSDG_REGION_GLOBAL
+UNSDG_LDC,Least developed countries,,UNSDG_REGION_GLOBAL
+UNSDG_LLDC,Landlocked developing countries (LLDCs),,UNSDG_REGION_GLOBAL
+UNSDG_MELANESIA,Melanesia,,UNSDG_REGION_GLOBAL
+UNSDG_MIDDLEAFR,Middle Africa,,UNSDG_REGION_GLOBAL
+UNSDG_NORTHAFR,Northern Africa,,UNSDG_REGION_GLOBAL
+UNSDG_NORTHERNAMR,North America,,UNSDG_REGION_GLOBAL
+UNSDG_OCEANIA,Oceania,,UNSDG_REGION_GLOBAL
+UNSDG_OCEANIAexAUSNZL,"Oceania, excluding Australia and New Zealand",,UNSDG_REGION_GLOBAL
+UNSDG_POLYNESIA,Polynesia,,UNSDG_REGION_GLOBAL
+UNSDG_SIDS,Small Island Developing States (SIDS),,UNSDG_REGION_GLOBAL
+UNSDG_SOUTHAMR,South America,,UNSDG_REGION_GLOBAL
+UNSDG_SOUTHASIA,Southern Asia,,UNSDG_REGION_GLOBAL
+UNSDG_SOUTHEASTERNASIA,South-Eastern Asia,,UNSDG_REGION_GLOBAL
+UNSDG_SOUTHERNAFR,Southern Africa,,UNSDG_REGION_GLOBAL
+UNSDG_SUBSAHARANAFRICA,Sub-Saharan Africa,,UNSDG_REGION_GLOBAL
+UNSDG_WESTERNAFR,Western Africa,,UNSDG_REGION_GLOBAL
+UNSDG_WESTERNASIA,Western Asia,,UNSDG_REGION_GLOBAL
+UNSDG_WESTERNASIANORTHERNAFR,Northern Africa and Western Asia,,UNSDG_REGION_GLOBAL
+UNICEF_ESA,Eastern and Southern Africa,,UNICEF_SSA
+UNICEF_WCA,West and Central Africa,,UNICEF_SSA
+UNICEF_EAP,East Asia and Pacific,,UNICEF_REP_REG_GLOBAL
+UNICEF_ECA,Europe and Central Asia,,UNICEF_REP_REG_GLOBAL
+UNICEF_LAC,Latin America and the Caribbean,,UNICEF_REP_REG_GLOBAL
+UNICEF_MENA,Middle East and North Africa,,UNICEF_REP_REG_GLOBAL
+UNICEF_NA,North America,,UNICEF_REP_REG_GLOBAL
+UNICEF_SA,South Asia,,UNICEF_REP_REG_GLOBAL
+UNICEF_SSA,Sub-Saharan Africa,,UNICEF_REP_REG_GLOBAL
+UNICEF_XCH,World excluding China,,UNICEF_REP_REG_GLOBAL
+UNICEF_EAPRO,East Asia and Pacific,,UNICEF_PROG_REG_GLOBAL
+UNICEF_ECARO,Europe and Central Asia,,UNICEF_PROG_REG_GLOBAL
+UNICEF_ESARO,Eastern and Southern Africa,,UNICEF_PROG_REG_GLOBAL
+UNICEF_LACRO,Latin America and the Caribbean,,UNICEF_PROG_REG_GLOBAL
+UNICEF_MENARO,Middle East and North Africa,,UNICEF_PROG_REG_GLOBAL
+UNICEF_ROSA,South Asia,,UNICEF_PROG_REG_GLOBAL
+UNICEF_WCARO,West and Central Africa,,UNICEF_PROG_REG_GLOBAL
+UNICEF_EECA,Eastern Europe and Central Asia,,UNICEF_ECA
+UNICEF_WE,Western Europe,,UNICEF_ECA
+UNFPA_AP,Asia and the Pacific,,UNFPA_REGIONS
+UNFPA_AS,Arab States,,UNFPA_REGIONS
+UNFPA_EECA,Eastern Europe and Central Asia,,UNFPA_REGIONS
+UNFPA_ESA,East and Southern Africa,,UNFPA_REGIONS
+UNFPA_LAC,Latin America and the Caribbean,,UNFPA_REGIONS
+UNFPA_WCA,West and Central Africa,,UNFPA_REGIONS
+UNDEV_002,Africa,,UNDEV_GLOBAL
+UNDEV_005,South America,,UNDEV_GLOBAL
+UNDEV_009,Oceania,,UNDEV_GLOBAL
+UNDEV_011,Western Africa,,UNDEV_GLOBAL
+UNDEV_013,Central America,,UNDEV_GLOBAL
+UNDEV_014,Eastern Africa,,UNDEV_GLOBAL
+UNDEV_015,Northern Africa,,UNDEV_GLOBAL
+UNDEV_017,Middle Africa,,UNDEV_GLOBAL
+UNDEV_018,Southern Africa,,UNDEV_GLOBAL
+UNDEV_021,Northern America,,UNDEV_GLOBAL
+UNDEV_029,Caribbean,,UNDEV_GLOBAL
+UNDEV_030,Eastern Asia,,UNDEV_GLOBAL
+UNDEV_034,Southern Asia,,UNDEV_GLOBAL
+UNDEV_035,South-eastern Asia,,UNDEV_GLOBAL
+UNDEV_053,Australia and New Zealand,,UNDEV_GLOBAL
+UNDEV_142,Asia,,UNDEV_GLOBAL
+UNDEV_143,Central Asia,,UNDEV_GLOBAL
+UNDEV_145,Western Asia,,UNDEV_GLOBAL
+UNDEV_151,Eastern Europe,,UNDEV_GLOBAL
+UNDEV_154,Northern Europe,,UNDEV_GLOBAL
+UNDEV_155,Western Europe,,UNDEV_GLOBAL
+UNDEV_39,Southern Europe,,UNDEV_GLOBAL
+UNDEV_419,Latin America and the Caribbean,,UNDEV_GLOBAL
+UNDEV_54,Melanasia,,UNDEV_GLOBAL
+UNDEV_543,"Oceania, excluding Australia and New Zealand",,UNDEV_GLOBAL
+UNDEV_57,Micronesia,,UNDEV_GLOBAL
+UNDEV_61,Polynesia,,UNDEV_GLOBAL
+UNDEV_LD,Less Developed Regions,,UNDEV_GLOBAL
+OECD_FRAGILEANY,OECD Fragile Contexts,,OECD
+FAO_LIFDC,Low income food deficient countries,,FAO_GLOBAL
+AU_AFRICA,Africa (African Union),,AU
+AU_CENTRAL_AFRICA,Central Africa (African Union),,AU
+AU_EASTERN_AFRICA,Eastern Africa (African Union),,AU
+AU_NORTHERN_AFRICA,Northern Africa (African Union),,AU
+AU_SOUTHERN_AFRICA,Southern Africa (African Union),,AU
+AU_WESTERN_AFRICA,Western Africa (African Union),,AU
+AFG,Afghanistan,,
+ALB,Albania,,
+DZA,Algeria,,
+ASM,American Samoa,,
+AND,Andorra,,
+AGO,Angola,,
+AIA,Anguilla,,
+ATG,Antigua and Barbuda,,
+ARG,Argentina,,
+ARM,Armenia,,
+ABW,Aruba,,
+AUS,Australia,,
+AUT,Austria,,
+AZE,Azerbaijan,,
+BHS,Bahamas,,
+BHR,Bahrain,,
+BGD,Bangladesh,,
+BRB,Barbados,,
+BLR,Belarus,,
+BEL,Belgium,,
+BLZ,Belize,,
+BEN,Benin,,
+BMU,Bermuda,,
+BTN,Bhutan,,
+BOL,Bolivia (Plurinational State of),,
+BES,"Bonaire, Sint Eustatius and Saba",,
+BIH,Bosnia and Herzegovina,,
+BWA,Botswana,,
+BRA,Brazil,,
+VGB,British Virgin Islands,,
+BRN,Brunei Darussalam,,
+BGR,Bulgaria,,
+BFA,Burkina Faso,,
+BDI,Burundi,,
+CPV,Cabo Verde,,
+KHM,Cambodia,,
+CMR,Cameroon,,
+CAN,Canada,,
+CYM,Cayman Islands,,
+CAF,Central African Republic,,
+TCD,Chad,,
+CHI,Channel Islands,,
+CHL,Chile,,
+CHN,China,,
+HKG,"China, Hong Kong Special Administrative Region",,
+MAC,"China, Macao Special Administrative Region",,
+TWN,"China, Taiwan Province of China",,
+COL,Colombia,,
+COM,Comoros,,
+COG,Congo,,
+COK,Cook Islands,,
+CRI,Costa Rica,,
+HRV,Croatia,,
+CUB,Cuba,,
+CUW,Curaï¿½ï,,
+CYP,Cyprus,,
+CZE,Czechia,,
+CIV,Cï¿½ï¿½te d'Iv,,
+PRK,Democratic People's Republic of Korea,,
+COD,Democratic Republic of the Congo,,
+DNK,Denmark,,
+DJI,Djibouti,,
+DMA,Dominica,,
+DOM,Dominican Republic,,
+ECU,Ecuador,,
+EGY,Egypt,,
+SLV,El Salvador,,
+GNQ,Equatorial Guinea,,
+ERI,Eritrea,,
+EST,Estonia,,
+SWZ,Eswatini,,
+ETH,Ethiopia,,
+FLK,Falkland Islands (Malvinas),,
+FRO,Faroe Islands,,
+FJI,Fiji,,
+FIN,Finland,,
+FRA,France,,
+GUF,French Guiana,,
+PYF,French Polynesia,,
+GAB,Gabon,,
+GMB,Gambia,,
+GEO,Georgia,,
+DEU,Germany,,
+GHA,Ghana,,
+GIB,Gibraltar,,
+GRC,Greece,,
+GRL,Greenland,,
+GRD,Grenada,,
+GLP,Guadeloupe,,
+GUM,Guam,,
+GTM,Guatemala,,
+GIN,Guinea,,
+GNB,Guinea-Bissau,,
+GUY,Guyana,,
+HTI,Haiti,,
+VAT,Holy See,,
+HND,Honduras,,
+HUN,Hungary,,
+ISL,Iceland,,
+IND,India,,
+IDN,Indonesia,,
+IRN,Iran (Islamic Republic of),,
+IRQ,Iraq,,
+IRL,Ireland,,
+IMN,Isle of Man,,
+ISR,Israel,,
+ITA,Italy,,
+JAM,Jamaica,,
+JPN,Japan,,
+JOR,Jordan,,
+KAZ,Kazakhstan,,
+KEN,Kenya,,
+KIR,Kiribati,,
+XKX,Kosovo (UNSCR 1244),,
+KWT,Kuwait,,
+KGZ,Kyrgyzstan,,
+LAO,Lao People's Democratic Republic,,
+LVA,Latvia,,
+LBN,Lebanon,,
+LSO,Lesotho,,
+LBR,Liberia,,
+LBY,Libya,,
+LIE,Liechtenstein,,
+LTU,Lithuania,,
+LUX,Luxembourg,,
+MDG,Madagascar,,
+MWI,Malawi,,
+MYS,Malaysia,,
+MDV,Maldives,,
+MLI,Mali,,
+MLT,Malta,,
+MHL,Marshall Islands,,
+MTQ,Martinique,,
+MRT,Mauritania,,
+MUS,Mauritius,,
+MYT,Mayotte,,
+MEX,Mexico,,
+FSM,Micronesia (Federated States of),,
+MCO,Monaco,,
+MNG,Mongolia,,
+MNE,Montenegro,,
+MSR,Montserrat,,
+MAR,Morocco,,
+MOZ,Mozambique,,
+MMR,Myanmar,,
+NAM,Namibia,,
+NRU,Nauru,,
+NPL,Nepal,,
+NLD,Netherlands (Kingdom of the),,
+NCL,New Caledonia,,
+NZL,New Zealand,,
+NIC,Nicaragua,,
+NER,Niger,,
+NGA,Nigeria,,
+NIU,Niue,,
+MKD,North Macedonia,,
+MNP,Northern Mariana Islands,,
+NOR,Norway,,
+OMN,Oman,,
+PAK,Pakistan,,
+PLW,Palau,,
+PAN,Panama,,
+PNG,Papua New Guinea,,
+PRY,Paraguay,,
+PER,Peru,,
+PHL,Philippines,,
+POL,Poland,,
+PRT,Portugal,,
+PRI,Puerto Rico,,
+QAT,Qatar,,
+KOR,Republic of Korea,,
+MDA,Republic of Moldova,,
+ROU,Romania,,
+RUS,Russian Federation,,
+RWA,Rwanda,,
+REU,Rï¿½ï¿½u,,
+BLM,Saint Barthï¿½ï¿½,,
+SHN,"Saint Helena, Ascension and Tristan da Cunha",,
+KNA,Saint Kitts and Nevis,,
+LCA,Saint Lucia,,
+MAF,Saint Martin (French part),,
+SPM,Saint Pierre and Miquelon,,
+VCT,Saint Vincent and the Grenadines,,
+WSM,Samoa,,
+SMR,San Marino,,
+STP,Sao Tome and Principe,,
+SAU,Saudi Arabia,,
+SEN,Senegal,,
+SRB,Serbia,,
+SYC,Seychelles,,
+SLE,Sierra Leone,,
+SGP,Singapore,,
+SXM,Sint Maarten,,
+SVK,Slovakia,,
+SVN,Slovenia,,
+SLB,Solomon Islands,,
+SOM,Somalia,,
+ZAF,South Africa,,
+SSD,South Sudan,,
+ESP,Spain,,
+LKA,Sri Lanka,,
+PSE,State of Palestine,,
+SDN,Sudan,,
+SUR,Suriname,,
+SWE,Sweden,,
+CHE,Switzerland,,
+SYR,Syrian Arab Republic,,
+TJK,Tajikistan,,
+THA,Thailand,,
+TLS,Timor-Leste,,
+TGO,Togo,,
+TKL,Tokelau,,
+TON,Tonga,,
+TTO,Trinidad and Tobago,,
+TUN,Tunisia,,
+TKM,Turkmenistan,,
+TCA,Turks and Caicos Islands,,
+TUV,Tuvalu,,
+TUR,Tï¿½ï¿½r,,
+UGA,Uganda,,
+UKR,Ukraine,,
+ARE,United Arab Emirates,,
+GBR,United Kingdom,,
+TZA,United Republic of Tanzania,,
+USA,United States,,
+URY,Uruguay,,
+UZB,Uzbekistan,,
+VUT,Vanuatu,,
+VEN,Venezuela (Bolivarian Republic of),,
+VNM,Viet Nam,,
+VIR,Virgin Islands U.S.,,
+WLF,Wallis and Futuna,,
+YEM,Yemen,,
+ZMB,Zambia,,
+ZWE,Zimbabwe,,
+AU,African Union,,
+FAO_GLOBAL,SOFI - Global,,
+OECD,OECD,,
+UNDEV_GLOBAL,UN regions - Global,,
+UNFPA_REGIONS,UNFPA regions,,
+UNICEF_PROG_REG_GLOBAL,UNICEF Programme Regions - Global,,
+UNICEF_REP_REG_GLOBAL,UNICEF reporting regions - Global,,
+UNSDG_REGION_GLOBAL,SDG regions - Global,,
+WB_INCOME,World Bank income groups - Global,,
+WB_REG_GLOBAL,World bank World - Global,,
+WHO_REG_GLOBAL,World Health Organisation regions - Global,,
+WORLD,World,,
