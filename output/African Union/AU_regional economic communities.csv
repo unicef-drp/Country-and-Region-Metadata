@@ -1,0 +1,107 @@
+Regional_Grouping,Region,Region_Code,Country,ISO3Code
+AU,Arab Maghreb Union (UMA),AU_UMA,Algeria,DZA
+AU,Arab Maghreb Union (UMA),AU_UMA,Libya,LBY
+AU,Arab Maghreb Union (UMA),AU_UMA,Mauritania,MRT
+AU,Arab Maghreb Union (UMA),AU_UMA,Morocco,MAR
+AU,Arab Maghreb Union (UMA),AU_UMA,Tunisia,TUN
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Burundi,BDI
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Comoros,COM
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Democratic Republic of the Congo,COD
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Djibouti,DJI
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Egypt,EGY
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Eritrea,ERI
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Ethiopia,ETH
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Kenya,KEN
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Libya,LBY
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Madagascar,MDG
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Malawi,MWI
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Mauritius,MUS
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Rwanda,RWA
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Seychelles,SYC
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Sudan,SDN
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Swaziland,SWZ
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Uganda,UGA
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Zambia,ZMB
+AU,Common Market for Eastern and Southern Africa (COMESA),AU_COMESA,Zimbabwe,ZWE
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Benin,BEN
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Burkina Faso,BFA
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Cabo Verde,CPV
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Central African Republic,CAF
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Chad,TCD
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Comoros,COM
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Côte d’Ivoire,CIV
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Djibouti,DJI
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Egypt,EGY
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Eritrea,ERI
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Gambia,GMB
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Ghana,GHA
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Guinea,GIN
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Guinea Bissau,GNB
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Kenya,KEN
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Liberia,LBR
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Libya,LBY
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Mali,MLI
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Mauritania,MRT
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Morocco,MAR
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Niger,NER
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Nigeria,NGA
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,São Tomé and Príncipe,STP
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Senegal,SEN
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Sierra Leone,SLE
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Somalia,SOM
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Sudan,SDN
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Togo,TGO
+AU,Community of Sahel-Saharan States (CEN-SAD),AU_CEN-SAD,Tunisia,TUN
+AU,East African Community (EAC),AU_EAC,Burundi,BDI
+AU,East African Community (EAC),AU_EAC,Kenya,KEN
+AU,East African Community (EAC),AU_EAC,Rwanda,RWA
+AU,East African Community (EAC),AU_EAC,Uganda,UGA
+AU,East African Community (EAC),AU_EAC,Tanzania,TZA
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Angola,AGO
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Burundi,BDI
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Cameroon,CMR
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Central African Republic,CAF
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Chad,TCD
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Congo,COG
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Democratic Republic of the Congo,COD
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Equatorial Guinea,GNQ
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,Gabon,GAB
+AU,Economic Community of Central African States (ECCAS),AU_ECCAS,São Tomé and Príncipe,STP
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Benin,BEN
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Burkina Faso,BFA
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Cape Verde,CPV
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Côte d’Ivoire,CIV
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Gambia,GMB
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Ghana,GHA
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Guinea,GIN
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Guinea-Bissau,GNB
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Liberia,LBR
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Mali,MLI
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Niger,NER
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Nigeria,NGA
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Senegal,SEN
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Sierra Leone,SLE
+AU,Economic Community of West African States (ECOWAS),AU_ECOWAS,Togo,TGO
+AU,Intergovernmental Authority on Development (IGAD),AU_IGAD,Djibouti,DJI
+AU,Intergovernmental Authority on Development (IGAD),AU_IGAD,Eritrea,ERI
+AU,Intergovernmental Authority on Development (IGAD),AU_IGAD,Ethiopia,ETH
+AU,Intergovernmental Authority on Development (IGAD),AU_IGAD,Kenya,KEN
+AU,Intergovernmental Authority on Development (IGAD),AU_IGAD,Somalia,SOM
+AU,Intergovernmental Authority on Development (IGAD),AU_IGAD,South Sudan,SSD
+AU,Intergovernmental Authority on Development (IGAD),AU_IGAD,Sudan,SDN
+AU,Intergovernmental Authority on Development (IGAD),AU_IGAD,Uganda,UGA
+AU,Southern African Development Community (SADC),AU_SADC,Angola,AGO
+AU,Southern African Development Community (SADC),AU_SADC,Botswana,BWA
+AU,Southern African Development Community (SADC),AU_SADC,Democratic Republic of the Congo,COD
+AU,Southern African Development Community (SADC),AU_SADC,Lesotho,LSO
+AU,Southern African Development Community (SADC),AU_SADC,Madagascar,MDG
+AU,Southern African Development Community (SADC),AU_SADC,Malawi,MWI
+AU,Southern African Development Community (SADC),AU_SADC,Mauritius,MUS
+AU,Southern African Development Community (SADC),AU_SADC,Mozambique,MOZ
+AU,Southern African Development Community (SADC),AU_SADC,Namibia,NAM
+AU,Southern African Development Community (SADC),AU_SADC,Seychelles,SYC
+AU,Southern African Development Community (SADC),AU_SADC,South Africa,ZAF
+AU,Southern African Development Community (SADC),AU_SADC,Swaziland,SWZ
+AU,Southern African Development Community (SADC),AU_SADC,Tanzania,TZA
+AU,Southern African Development Community (SADC),AU_SADC,Zambia,ZMB
+AU,Southern African Development Community (SADC),AU_SADC,Zimbabwe,ZWE

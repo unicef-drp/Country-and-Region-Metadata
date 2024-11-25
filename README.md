@@ -1,2 +1,7 @@
 # Country-and-Region-Metadata
-for illustrative purpose
+
+## Purpose of project
+
+* Produce intermediate file that can be used as input for every sector
+* Avoid duplicated work
+
