@@ -57,9 +57,11 @@ dt_rec$Regional_Grouping <- "AUREC"
 dt_rec <- dt_rec[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
 head(dt_rec)
 table(dt_rec$Region)
+dt_rec[, Region_Code := gsub("-", "_", Region_Code)]
+table(dt_rec$Region_Code)
 # Save the data to output folder 
 fwrite(dt_rec, "output/African Union/AU_regional economic communities.csv")
 
 # 
-
+# when need wide format
 dt_rec_w <- data.table::dcast(dt_rec, ISO3Code ~ Region_Code, value.var = "Region")
