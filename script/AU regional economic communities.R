@@ -60,3 +60,6 @@ table(dt_rec$Region)
 # Save the data to output folder 
 fwrite(dt_rec, "output/African Union/AU_regional economic communities.csv")
 
+# 
+
+dt_rec_w <- data.table::dcast(dt_rec, ISO3Code ~ Region_Code, value.var = "Region")
