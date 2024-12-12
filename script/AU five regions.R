@@ -1,4 +1,4 @@
-library(data.table)
+library("data.table")
 
 
 # don't run (YL draft)

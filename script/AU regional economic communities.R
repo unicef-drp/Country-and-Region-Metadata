@@ -6,6 +6,7 @@ library(data.table)
 dir_project <- here::here() # Set the working directory to Country-and-Region-Metadata
 
 
+
 # Create the data frame
 dt_rec <- data.table(
   Region = c(
@@ -66,6 +67,16 @@ table(dt_rec$Region)
 dt_rec[, Region_Code := gsub("-", "_", Region_Code)]
 table(dt_rec$Region_Code)
 dt_rec[, uniqueN(ISO3Code), by = Region_Code]
+
+
+dcname <- fread("raw_data/country_name/geographic_areas.csv")
+dcname <- dcname[nchar(id) == 3,.(id, name)]
+setnames(dcname, "name", "Country")
+dt_rec[, Country:= NULL]
+dt_rec <- merge(dt_rec, dcname, by.x = "ISO3Code", by.y = "id", all.x = TRUE)
+dt_rec <- dt_rec[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
+setorder(dt_rec, Region, Country)
+
 # Save the data to output folder 
 fwrite(dt_rec, "output/African Union/AU_regional economic communities.csv")
 

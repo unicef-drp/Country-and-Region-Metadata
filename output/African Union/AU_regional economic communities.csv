@@ -10,8 +10,8 @@ AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Democr
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Djibouti,DJI
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Egypt,EGY
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Eritrea,ERI
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Ethiopia,ETH
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Eswatini,SWZ
+AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Ethiopia,ETH
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Kenya,KEN
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Libya,LBY
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Madagascar,MDG
@@ -31,14 +31,14 @@ AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Cabo Verde,CPV
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Central African Republic,CAF
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Chad,TCD
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Comoros,COM
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Côte d’Ivoire,CIV
+AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,C��te d'Iv,CIV
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Djibouti,DJI
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Egypt,EGY
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Eritrea,ERI
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Gambia,GMB
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Ghana,GHA
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Guinea,GIN
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Guinea Bissau,GNB
+AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Guinea-Bissau,GNB
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Kenya,KEN
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Liberia,LBR
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Libya,LBY
@@ -47,21 +47,21 @@ AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Mauritania,MRT
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Morocco,MAR
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Niger,NER
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Nigeria,NGA
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,São Tomé and Príncipe,STP
+AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Sao Tome and Principe,STP
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Senegal,SEN
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Sierra Leone,SLE
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Somalia,SOM
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Sudan,SDN
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Togo,TGO
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Tunisia,TUN
-AUREC,East African Community (EAC),AUREC_EAC,Democratic Republic of the Congo,COD
 AUREC,East African Community (EAC),AUREC_EAC,Burundi,BDI
+AUREC,East African Community (EAC),AUREC_EAC,Democratic Republic of the Congo,COD
 AUREC,East African Community (EAC),AUREC_EAC,Kenya,KEN
 AUREC,East African Community (EAC),AUREC_EAC,Rwanda,RWA
 AUREC,East African Community (EAC),AUREC_EAC,Somalia,SOM
 AUREC,East African Community (EAC),AUREC_EAC,South Sudan,SSD
 AUREC,East African Community (EAC),AUREC_EAC,Uganda,UGA
-AUREC,East African Community (EAC),AUREC_EAC,Tanzania,TZA
+AUREC,East African Community (EAC),AUREC_EAC,United Republic of Tanzania,TZA
 AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Angola,AGO
 AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Burundi,BDI
 AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Cameroon,CMR
@@ -71,12 +71,12 @@ AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Congo,COG
 AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Democratic Republic of the Congo,COD
 AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Equatorial Guinea,GNQ
 AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Gabon,GAB
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,São Tomé and Príncipe,STP
 AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Rwanda,RWA
+AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Sao Tome and Principe,STP
 AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Benin,BEN
 AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Burkina Faso,BFA
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Cape Verde,CPV
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Côte d’Ivoire,CIV
+AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Cabo Verde,CPV
+AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,C��te d'Iv,CIV
 AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Gambia,GMB
 AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Ghana,GHA
 AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Guinea,GIN
@@ -98,8 +98,9 @@ AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Sudan,SDN
 AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Uganda,UGA
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Angola,AGO
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Botswana,BWA
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Democratic Republic of the Congo,COD
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Comoros,COM
+AUREC,Southern African Development Community (SADC),AUREC_SADC,Democratic Republic of the Congo,COD
+AUREC,Southern African Development Community (SADC),AUREC_SADC,Eswatini,SWZ
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Lesotho,LSO
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Madagascar,MDG
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Malawi,MWI
@@ -108,7 +109,6 @@ AUREC,Southern African Development Community (SADC),AUREC_SADC,Mozambique,MOZ
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Namibia,NAM
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Seychelles,SYC
 AUREC,Southern African Development Community (SADC),AUREC_SADC,South Africa,ZAF
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Tanzania,TZA
+AUREC,Southern African Development Community (SADC),AUREC_SADC,United Republic of Tanzania,TZA
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Zambia,ZMB
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Zimbabwe,ZWE
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Eswatini,SWZ
