@@ -13,7 +13,7 @@ dt_rec <- data.table(
     rep("Common Market for Eastern and Southern Africa (COMESA)", 19), # 2
     rep("Community of Sahel-Saharan States (CEN-SAD)", 29), # 3
     rep("East African Community (EAC)", 5), # 1
-    rep("Economic Community of Central African States (ECCAS)", 10), # 4
+    rep("Economic Community of Central African States (ECCAS)", 11), # 4
     rep("Economic Community of West African States (ECOWAS)", 15), # 5
     rep("Intergovernmental Authority on Development (IGAD)", 8), # 4
     rep("Southern African Development Community (SADC)", 15) # 5 
@@ -34,9 +34,9 @@ dt_rec <- data.table(
     # EAC
     "Burundi", "Kenya", "Rwanda", 
     "Uganda", "Tanzania", 
-    # ECCAS (10 countries corrected)
+    # ECCAS (11 countries corrected, adding Rwanda)
     "Angola", "Burundi", "Cameroon", "Central African Republic", "Chad", "Congo",
-    "Democratic Republic of the Congo", "Equatorial Guinea", "Gabon", "São Tomé and Príncipe",
+    "Democratic Republic of the Congo", "Equatorial Guinea", "Gabon", "São Tomé and Príncipe", "Rwanda",
     # ECOWAS
     "Benin", "Burkina Faso", "Cape Verde", "Côte d’Ivoire", "Gambia", "Ghana", "Guinea",
     "Guinea-Bissau", "Liberia", "Mali", "Niger", "Nigeria", "Senegal", "Sierra Leone",
