@@ -65,6 +65,7 @@ head(dt_rec)
 table(dt_rec$Region)
 dt_rec[, Region_Code := gsub("-", "_", Region_Code)]
 table(dt_rec$Region_Code)
+dt_rec[, uniqueN(ISO3Code), by = Region_Code]
 # Save the data to output folder 
 fwrite(dt_rec, "output/African Union/AU_regional economic communities.csv")
 
