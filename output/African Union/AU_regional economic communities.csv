@@ -11,6 +11,7 @@ AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Djibou
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Egypt,EGY
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Eritrea,ERI
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Ethiopia,ETH
+AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Eswatini,SWZ
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Kenya,KEN
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Libya,LBY
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Madagascar,MDG
@@ -18,8 +19,9 @@ AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Malawi
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Mauritius,MUS
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Rwanda,RWA
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Seychelles,SYC
+AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Somalia,SOM
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Sudan,SDN
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Swaziland,SWZ
+AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Tunisia,TUN
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Uganda,UGA
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Zambia,ZMB
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Zimbabwe,ZWE
@@ -52,9 +54,12 @@ AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Somalia,SOM
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Sudan,SDN
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Togo,TGO
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Tunisia,TUN
+AUREC,East African Community (EAC),AUREC_EAC,Democratic Republic of the Congo,COD
 AUREC,East African Community (EAC),AUREC_EAC,Burundi,BDI
 AUREC,East African Community (EAC),AUREC_EAC,Kenya,KEN
 AUREC,East African Community (EAC),AUREC_EAC,Rwanda,RWA
+AUREC,East African Community (EAC),AUREC_EAC,Somalia,SOM
+AUREC,East African Community (EAC),AUREC_EAC,South Sudan,SSD
 AUREC,East African Community (EAC),AUREC_EAC,Uganda,UGA
 AUREC,East African Community (EAC),AUREC_EAC,Tanzania,TZA
 AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Angola,AGO
@@ -94,6 +99,7 @@ AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Uganda,UGA
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Angola,AGO
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Botswana,BWA
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Democratic Republic of the Congo,COD
+AUREC,Southern African Development Community (SADC),AUREC_SADC,Comoros,COM
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Lesotho,LSO
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Madagascar,MDG
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Malawi,MWI
@@ -102,7 +108,7 @@ AUREC,Southern African Development Community (SADC),AUREC_SADC,Mozambique,MOZ
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Namibia,NAM
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Seychelles,SYC
 AUREC,Southern African Development Community (SADC),AUREC_SADC,South Africa,ZAF
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Swaziland,SWZ
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Tanzania,TZA
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Zambia,ZMB
 AUREC,Southern African Development Community (SADC),AUREC_SADC,Zimbabwe,ZWE
+AUREC,Southern African Development Community (SADC),AUREC_SADC,Eswatini,SWZ
