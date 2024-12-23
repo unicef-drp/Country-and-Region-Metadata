@@ -1,9 +1,9 @@
 Regional_Grouping,Region,Region_Code,Country,ISO3Code
-AUREC,Arab Maghreb Union (UMA),AUREC_UMA,Algeria,DZA
-AUREC,Arab Maghreb Union (UMA),AUREC_UMA,Libya,LBY
-AUREC,Arab Maghreb Union (UMA),AUREC_UMA,Mauritania,MRT
-AUREC,Arab Maghreb Union (UMA),AUREC_UMA,Morocco,MAR
-AUREC,Arab Maghreb Union (UMA),AUREC_UMA,Tunisia,TUN
+AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Algeria,DZA
+AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Libya,LBY
+AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Mauritania,MRT
+AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Morocco,MAR
+AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Tunisia,TUN
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Burundi,BDI
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Comoros,COM
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Democratic Republic of the Congo,COD
@@ -27,7 +27,6 @@ AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Zambia
 AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Zimbabwe,ZWE
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Benin,BEN
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Burkina Faso,BFA
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Cabo Verde,CPV
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Central African Republic,CAF
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Chad,TCD
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Comoros,COM
@@ -37,17 +36,13 @@ AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Egypt,EGY
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Eritrea,ERI
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Gambia,GMB
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Ghana,GHA
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Guinea,GIN
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Guinea-Bissau,GNB
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Kenya,KEN
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Liberia,LBR
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Libya,LBY
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Mali,MLI
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Mauritania,MRT
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Morocco,MAR
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Niger,NER
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Nigeria,NGA
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Sao Tome and Principe,STP
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Senegal,SEN
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Sierra Leone,SLE
 AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Somalia,SOM
@@ -58,7 +53,6 @@ AUREC,East African Community (EAC),AUREC_EAC,Burundi,BDI
 AUREC,East African Community (EAC),AUREC_EAC,Democratic Republic of the Congo,COD
 AUREC,East African Community (EAC),AUREC_EAC,Kenya,KEN
 AUREC,East African Community (EAC),AUREC_EAC,Rwanda,RWA
-AUREC,East African Community (EAC),AUREC_EAC,Somalia,SOM
 AUREC,East African Community (EAC),AUREC_EAC,South Sudan,SSD
 AUREC,East African Community (EAC),AUREC_EAC,Uganda,UGA
 AUREC,East African Community (EAC),AUREC_EAC,United Republic of Tanzania,TZA
