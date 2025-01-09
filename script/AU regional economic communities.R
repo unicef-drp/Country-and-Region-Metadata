@@ -98,7 +98,7 @@ dt_rec_2025[, Region_Code := "AUREC_ECOWAS_202502"]
 dt_rec_new <- rbindlist(list(dt_rec, dt_rec_2025))
 dt_rec_new[, table(Region_Code)]
 # Save the data to output folder 
-fwrite(dt_rec, "output/African Union/AU_regional economic communities.csv")
+fwrite(dt_rec_new, "output/African Union/AU_regional economic communities.csv")
 
 
 # 
