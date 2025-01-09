@@ -7,9 +7,10 @@
 library(data.table)
 dir_project <- here::here() # Set the working directory to Country-and-Region-Metadata
 
-
+dcname <- readRDS("raw_data/country_name/country_name.rds")
 
 # Create the data frame
+# Links are the reference, not the source, data source is UNSD "9. CompositionOfRegions_RCs_20241202.xlsx"
 dt_rec <- data.table(
   Region = c(
     rep("Arab Maghreb Union (AMU)", 5), # 1
@@ -19,6 +20,7 @@ dt_rec <- data.table(
     rep("Economic Community of Central African States (ECCAS)", 11), # 4  # https://ceeac-eccas.org/en/
    
     rep("Economic Community of West African States (ECOWAS)", 15), # 5 # https://www.ecowas.int/member-states/ 
+    
     rep("Intergovernmental Authority on Development (IGAD)", 8), # 4
     
     rep("Southern African Development Community (SADC)", 16) # 5  # https://www.sadc.int/member-states (added 1)
@@ -53,6 +55,7 @@ dt_rec <- data.table(
     "Benin", "Burkina Faso", "Cape Verde", "Côte d’Ivoire", "Gambia", "Ghana", "Guinea",
     "Guinea-Bissau", "Liberia", "Mali", "Niger", "Nigeria", "Senegal", "Sierra Leone",
     "Togo",
+
     # IGAD (8)
     "Djibouti", "Eritrea", "Ethiopia", "Kenya", "Somalia", "South Sudan", "Sudan", "Uganda",
     # SADC (16 countries corrected)
@@ -70,21 +73,33 @@ dt_rec$Regional_Grouping <- "AUREC"
 dt_rec <- dt_rec[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
 head(dt_rec)
 table(dt_rec$Region)
+
 dt_rec[, Region_Code := gsub("-", "_", Region_Code)]
 table(dt_rec$Region_Code)
+# 
+# AUREC_AMU AUREC_CEN_SAD  AUREC_COMESA     AUREC_EAC   AUREC_ECCAS  AUREC_ECOWAS    AUREC_IGAD    AUREC_SADC 
+# 5            24            21             7            11            15             8            16 
+
 dt_rec[, uniqueN(ISO3Code), by = Region_Code]
-
-
-dcname <- fread("raw_data/country_name/geographic_areas.csv")
-dcname <- dcname[nchar(id) == 3,.(id, name)]
-setnames(dcname, "name", "Country")
 dt_rec[, Country:= NULL]
 dt_rec <- merge(dt_rec, dcname, by.x = "ISO3Code", by.y = "id", all.x = TRUE)
 dt_rec <- dt_rec[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
 setorder(dt_rec, Region, Country)
 
+
+
+# Burkina Faso, Mali and Niger will officially cease to be members of
+# ECOWAS as of January 29, 2025
+dt_rec_2025 <- copy(dt_rec)
+dt_rec_2025[Region_Code == "AUREC_ECOWAS" & ISO3Code %in% c("BFA", "MLI", "NER")]
+dt_rec_2025 <- dt_rec_2025[(Region_Code == "AUREC_ECOWAS" & !ISO3Code %in% c("BFA", "MLI", "NER"))]
+dt_rec_2025[, Region_Code := "AUREC_ECOWAS_202502"]
+
+dt_rec_new <- rbindlist(list(dt_rec, dt_rec_2025))
+dt_rec_new[, table(Region_Code)]
 # Save the data to output folder 
 fwrite(dt_rec, "output/African Union/AU_regional economic communities.csv")
+
 
 # 
 # when need wide format

@@ -1,9 +1,6 @@
 library("data.table")
 
-
-dcname <- fread("raw_data/country_name/geographic_areas.csv")
-dcname <- dcname[nchar(id) == 3,.(id, name)]
-setnames(dcname, "name", "Country")
+dcname <- readRDS("raw_data/country_name/country_name.rds")
 
 dc_au_input <- setDT(readxl::read_xlsx("raw_data/African Union/AfricanUnion_n_55_subregions.xlsx"))
 all(dc_au_input$iso3 %in% dcname $ id)
@@ -33,7 +30,6 @@ dc_au[, Region_Code := dplyr::recode(Region,
                                      "Southern Africa (African Union)" = "AU_SOUTHERN_AFRICA",
                                      "Western Africa (African Union)" = "AU_WESTERN_AFRICA")]
 dc_au[is.na(Region_Code)]
-setnames(dc_au, "name", "Country")
 dc_au <- dplyr::left_join(dc_au, dcname, by = c("iso3" = "id"))
 dc_au[is.na(Country), Country := name]
 setnames(dc_au, "iso3", "ISO3Code")
