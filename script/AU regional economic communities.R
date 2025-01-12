@@ -94,6 +94,7 @@ dt_rec_2025 <- copy(dt_rec)
 dt_rec_2025[Region_Code == "AUREC_ECOWAS" & ISO3Code %in% c("BFA", "MLI", "NER")]
 dt_rec_2025 <- dt_rec_2025[(Region_Code == "AUREC_ECOWAS" & !ISO3Code %in% c("BFA", "MLI", "NER"))]
 dt_rec_2025[, Region_Code := "AUREC_ECOWAS_202502"]
+dt_rec_2025[, Region := "Economic Community of West African States (ECOWAS) 202502"]
 
 dt_rec_new <- rbindlist(list(dt_rec, dt_rec_2025))
 dt_rec_new[, table(Region_Code)]
