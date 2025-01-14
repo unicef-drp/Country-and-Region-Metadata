@@ -105,3 +105,9 @@ fwrite(dt_rec_new, "output/African Union/AU_regional economic communities.csv")
 # 
 # when need wide format
 dt_rec_w <- data.table::dcast(dt_rec, ISO3Code ~ Region_Code, value.var = "Region")
+
+# codebook
+dc_au <- fread("output/African Union/AU_5regions.csv")
+dc_aurec <- fread("output/African Union/AU_regional economic communities.csv")
+dc_code <- unique(rbind(dc_au, dc_aurec)[,.(Region_Code, Region)])
+fwrite(dc_code, "output/African Union/AU_codebook.csv")
