@@ -8,10 +8,10 @@
 ## Setup
 
 We aim to align all the coding with data warehouse.   
-**raw_data**: Contains the original input files for producing the "output", folder names should follow the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL"  
-**output**: Contains files for each regional grouping (or `parent`), named by the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL.csv"  
-**scripts**: Contains the scripts to produce the output files, e.g., "UNICEF_PROG_REG_GLOBAL.R"  
-**R**: Contains general functions used by each script, e.g. "general_functions.R"  
+* **raw_data**: Contains the original input files for producing the "output", folder names should follow the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL"  
+* **output**: Contains files for each regional grouping (or `parent`), named by the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL.csv"  
+* **scripts**: Contains the scripts to produce the output files, e.g., "UNICEF_PROG_REG_GLOBAL.R"  
+* **R**: Contains general functions used by each script, e.g. "general_functions.R"  
 
 ## Output files
 
