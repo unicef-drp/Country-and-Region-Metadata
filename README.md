@@ -7,11 +7,11 @@
 
 ## Setup
 
-We aim to align all the coding with data warehouse. 
-**raw_data**: Contains the original input files for producing the "output", folder names should follow the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL"
-**output**: Contains files for each regional grouping (or `parent`), named by the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL.csv"
-**scripts**: Contains the scripts to produce the output files, e.g., "UNICEF_PROG_REG_GLOBAL.R"
-**R**: Contains general functions used by each script, e.g. "general_functions.R"
+We aim to align all the coding with data warehouse.   
+* **raw_data**: Contains the original input files for producing the "output", folder names should follow the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL"  
+* **output**: Contains files for each regional grouping (or `parent`), named by the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL.csv"  
+* **scripts**: Contains the scripts to produce the output files, e.g., "UNICEF_PROG_REG_GLOBAL.R"  
+* **R**: Contains general functions used by each script, e.g. "general_functions.R"  
 
 ## Output files
 
@@ -26,6 +26,6 @@ In this way, the data can be easily reshaped into a wide format if needed using 
 dt_unicef_prog <- fread("output/UNICEF_PROG_REG_GLOBAL.csv")
 dt_unicef_prog_wide <- data.table::dcast(dt_unicef_prog, ISO3Code ~ Region_Code, value.var = "Region")
 head(dt_unicef_prog_wide)
-
 ```
+![image](https://github.com/user-attachments/assets/d7f51c28-4cdd-440a-b2e8-c5319f956cb0)
 
