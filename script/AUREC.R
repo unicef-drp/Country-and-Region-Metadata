@@ -7,7 +7,7 @@
 library(data.table)
 dir_project <- here::here() # Set the working directory to Country-and-Region-Metadata
 
-dcname <- readRDS("raw_data/country_name/country_name.rds")
+dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
 
 # Create the data frame
 # Links are the reference, not the source, data source is UNSD "9. CompositionOfRegions_RCs_20241202.xlsx"
@@ -99,7 +99,7 @@ dt_rec_2025[, Region := "Economic Community of West African States (ECOWAS) 2025
 dt_rec_new <- rbindlist(list(dt_rec, dt_rec_2025))
 dt_rec_new[, table(Region_Code)]
 # Save the data to output folder 
-fwrite(dt_rec_new, "output/African Union/AU_regional economic communities.csv")
+fwrite(dt_rec_new, "output/AUREC.csv")
 
 
 # 
@@ -107,7 +107,7 @@ fwrite(dt_rec_new, "output/African Union/AU_regional economic communities.csv")
 dt_rec_w <- data.table::dcast(dt_rec, ISO3Code ~ Region_Code, value.var = "Region")
 
 # codebook
-dc_au <- fread("output/African Union/AU_5regions.csv")
-dc_aurec <- fread("output/African Union/AU_regional economic communities.csv")
+dc_au <- fread("output/AU.csv")
+dc_aurec <- fread("output/AUREC.csv")
 dc_code <- unique(rbind(dc_au, dc_aurec)[,.(Region_Code, Region)])
-fwrite(dc_code, "output/African Union/AU_codebook.csv")
+fwrite(dc_code, "output/AU_codebook.csv")

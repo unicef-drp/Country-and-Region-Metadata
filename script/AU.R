@@ -1,6 +1,6 @@
 library("data.table")
 
-dcname <- readRDS("raw_data/country_name/country_name.rds")
+dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
 
 dc_au_input <- setDT(readxl::read_xlsx("raw_data/African Union/AfricanUnion_n_55_subregions.xlsx"))
 all(dc_au_input$iso3 %in% dcname $ id)
@@ -39,5 +39,5 @@ table(dc_au$Region)
 setorder(dc_au, Region_Code, Country)
 
 head(dc_au)
-fwrite(dc_au, "output/African Union/AU_5regions.csv")
+fwrite(dc_au, "output/AU.csv")
 
