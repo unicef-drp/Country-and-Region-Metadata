@@ -1,22 +1,25 @@
 # Country-and-Region-Metadata
 
-## Purpose of repository
+## Overview of Repository
 
-* Produce intermediate files that can be used as input to metadata utilized by all sectors
+* **Purpose:** Create a useful metadata solution for all sectors — flexible, used by everyone, and easy to collaborate.
+* Produce modularized output (based on regional grouping) that all sectors can utilize
+* There is one csv output, one script, and one raw input folder for each regional grouping --- all named by the regional grouping
+* All outputs follow the same format and use the same code as the data warehouse
 * Avoid duplication work of cleaning raw data
 
 ## Setup
 
-We aim to align all the coding with data warehouse.   
+We aim to align all the coding with the data warehouse.   
 * **raw_data**: Contains the original input files for producing the "output", folder names should follow the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL"  
 * **output**: Contains files for each regional grouping (or `parent`), named by the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL.csv"  
 * **scripts**: Contains the scripts to produce the output files, e.g., "UNICEF_PROG_REG_GLOBAL.R"  
 * **R**: Contains general functions used by each script, e.g. "general_functions.R"  
 
-## Output files
+## Output
 
 The output files from this project serve as inputs for downstream processes.
-The data is in long format, where each region is mapped to all the `ISO3Code` values belonging to it.
+The data is in a long format, where each region is mapped to all the `ISO3Code` values belonging to it.
 
 ![image](https://github.com/user-attachments/assets/68087586-b0e1-4ca6-9d41-bd1c13066f32)
 
