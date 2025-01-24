@@ -1,0 +1,23 @@
+Regional_Grouping,Region_Code,Region
+AU,AU_AFRICA,Africa (African Union)
+AU,AU_CENTRAL_AFRICA,Central Africa (African Union)
+AU,AU_EASTERN_AFRICA,Eastern Africa (African Union)
+AU,AU_NORTHERN_AFRICA,Northern Africa (African Union)
+AU,AU_SOUTHERN_AFRICA,Southern Africa (African Union)
+AU,AU_WESTERN_AFRICA,Western Africa (African Union)
+AUREC,AUREC_AMU,Arab Maghreb Union (AMU)
+AUREC,AUREC_COMESA,Common Market for Eastern and Southern Africa (COMESA)
+AUREC,AUREC_CEN_SAD,Community of Sahel-Saharan States (CEN-SAD)
+AUREC,AUREC_EAC,East African Community (EAC)
+AUREC,AUREC_ECCAS,Economic Community of Central African States (ECCAS)
+AUREC,AUREC_ECOWAS,Economic Community of West African States (ECOWAS)
+AUREC,AUREC_IGAD,Intergovernmental Authority on Development (IGAD)
+AUREC,AUREC_SADC,Southern African Development Community (SADC)
+AUREC,AUREC_ECOWAS_202502,Economic Community of West African States (ECOWAS) 202502
+UNICEF_PROG_REG_GLOBAL,UNICEF_EAPRO,East Asia and Pacific
+UNICEF_PROG_REG_GLOBAL,UNICEF_ESARO,Eastern and Southern Africa
+UNICEF_PROG_REG_GLOBAL,UNICEF_ECARO,Europe and Central Asia
+UNICEF_PROG_REG_GLOBAL,UNICEF_LACRO,Latin America and the Caribbean
+UNICEF_PROG_REG_GLOBAL,UNICEF_MENARO,Middle East and North Africa
+UNICEF_PROG_REG_GLOBAL,UNICEF_ROSA,South Asia
+UNICEF_PROG_REG_GLOBAL,UNICEF_WCARO,West and Central Africa

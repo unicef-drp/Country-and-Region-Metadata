@@ -106,8 +106,3 @@ fwrite(dt_rec_new, "output/AUREC.csv")
 # when need wide format
 dt_rec_w <- data.table::dcast(dt_rec, ISO3Code ~ Region_Code, value.var = "Region")
 
-# codebook
-dc_au <- fread("output/AU.csv")
-dc_aurec <- fread("output/AUREC.csv")
-dc_code <- unique(rbind(dc_au, dc_aurec)[,.(Region_Code, Region)])
-fwrite(dc_code, "output/AU_codebook.csv")
