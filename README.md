@@ -19,7 +19,7 @@ We aim to align all the coding with the data warehouse.
 ## Output
 
 The output files from this project serve as inputs for downstream processes.
-The data is in a long format, where each region is mapped to all the `ISO3Code` values belonging to it.
+The data is in a long format, where each region is mapped to all the `ISO3Code` values belonging to it.  
 **Format: **: `regional_grouping` and `region_code`: uppercase, connected by underscore, e.g., "UNICEF_PROG_REG_GLOBAL"
 
 ![image](https://github.com/user-attachments/assets/68087586-b0e1-4ca6-9d41-bd1c13066f32)
