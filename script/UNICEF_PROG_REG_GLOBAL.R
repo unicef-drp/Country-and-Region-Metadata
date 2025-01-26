@@ -1,11 +1,10 @@
 # UNICEF_PROG_REG_GLOBAL
 # Please use R project to get the correct working directory
 
-# the "parent" code from data warehouse sdmx meta info
+# the "parent" code aligns with data warehouse sdmx meta info
 parent_code <- "UNICEF_PROG_REG_GLOBAL"
 
 library("data.table")
-
 source("R/general_functions.R")
 
 # raw input

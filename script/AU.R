@@ -1,12 +1,16 @@
+# The five African Union regions 
+
+# the "parent" code aligns with data warehouse sdmx meta info
+parent_code <- "AU"
+
 library("data.table")
+source("R/general_functions.R")
 
 dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
 
-dc_au_input <- setDT(readxl::read_xlsx("raw_data/African Union/AfricanUnion_n_55_subregions.xlsx"))
+dc_au_input <- setDT(readxl::read_xlsx("raw_data/AU/AfricanUnion_n_55_subregions.xlsx"))
 all(dc_au_input$iso3 %in% dcname $ id)
-dc_au_input$iso3[!dc_au_input$iso3 %in% dcname $id]
-
-# ESH  Western Sahara
+dc_au_input$iso3[!dc_au_input$iso3 %in% dcname $id] # except ESH  Western Sahara, which will be included
 
 # Region_Code, Region, Regional_Grouping
 # AU_AFRICA	Africa (African Union)		AU
@@ -21,7 +25,7 @@ dc_au_input_AF[, region:= "Africa"]
 
 dc_au <- rbindlist(list(dc_au_input, dc_au_input_AF))
 dc_au[, Region:= paste(region,  "(African Union)")]
-dc_au[, Regional_Grouping:= "AU"]
+dc_au[, Regional_Grouping:= parent_code]
 dc_au[, Region_Code := dplyr::recode(Region, 
                                      "Africa (African Union)" = "AU_AFRICA",
                                      "Central Africa (African Union)" = "AU_CENTRAL_AFRICA",

@@ -4,10 +4,12 @@
 # data source: UNSD "9. CompositionOfRegions_RCs_20241202.xlsx"
 # 
 
-library(data.table)
-dir_project <- here::here() # Set the working directory to Country-and-Region-Metadata
+# the "parent" code aligns with data warehouse sdmx meta info
+parent_code <- "AUREC"
 
-dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
+library("data.table")
+source("R/general_functions.R")
+
 
 # Create the data frame
 # Links are the reference, not the source, data source is UNSD "9. CompositionOfRegions_RCs_20241202.xlsx"
@@ -69,7 +71,7 @@ dt_rec <- data.table(
 # Extract shortnames from the Community column
 dt_rec$Region_Code <- paste0("AUREC_", sub(".*\\((.*)\\).*", "\\1", dt_rec$Region))
 dt_rec$ISO3Code <- countrycode::countrycode(dt_rec$Country, origin = "country.name", destination = "iso3c")
-dt_rec$Regional_Grouping <- "AUREC" 
+dt_rec$Regional_Grouping <- parent_code
 dt_rec <- dt_rec[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
 head(dt_rec)
 table(dt_rec$Region)
@@ -82,10 +84,7 @@ table(dt_rec$Region_Code)
 
 dt_rec[, uniqueN(ISO3Code), by = Region_Code]
 dt_rec[, Country:= NULL]
-dt_rec <- merge(dt_rec, dcname, by.x = "ISO3Code", by.y = "id", all.x = TRUE)
-dt_rec <- dt_rec[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
-setorder(dt_rec, Region, Country)
-
+dt_rec <- add.country.name(dt_rec)
 
 
 # Burkina Faso, Mali and Niger will officially cease to be members of

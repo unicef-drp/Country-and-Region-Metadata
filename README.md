@@ -20,6 +20,7 @@ We aim to align all the coding with the data warehouse.
 
 The output files from this project serve as inputs for downstream processes.
 The data is in a long format, where each region is mapped to all the `ISO3Code` values belonging to it.
+**Format: **: `regional_grouping` and `region_code`: uppercase, connected by underscore, e.g., "UNICEF_PROG_REG_GLOBAL"
 
 ![image](https://github.com/user-attachments/assets/68087586-b0e1-4ca6-9d41-bd1c13066f32)
 
@@ -32,3 +33,5 @@ head(dt_unicef_prog_wide)
 ```
 ![image](https://github.com/user-attachments/assets/d7f51c28-4cdd-440a-b2e8-c5319f956cb0)
 
+## Update  
+2025.01 add African Union, UNICEF programme region, SDGRC (Regional Commissions) 
