@@ -1,0 +1,1328 @@
+Regional_Grouping,Region,Region_Code,Country,ISO3Code
+SDGRC,ECA_AMU,ECA_AMU,Algeria,DZA
+SDGRC,ECA_AMU,ECA_AMU,Libya,LBY
+SDGRC,ECA_AMU,ECA_AMU,Mauritania,MRT
+SDGRC,ECA_AMU,ECA_AMU,Morocco,MAR
+SDGRC,ECA_AMU,ECA_AMU,Tunisia,TUN
+SDGRC,ECA_African Union Commission,AUC,Algeria,DZA
+SDGRC,ECA_African Union Commission,AUC,Angola,AGO
+SDGRC,ECA_African Union Commission,AUC,Benin,BEN
+SDGRC,ECA_African Union Commission,AUC,Botswana,BWA
+SDGRC,ECA_African Union Commission,AUC,Burkina Faso,BFA
+SDGRC,ECA_African Union Commission,AUC,Burundi,BDI
+SDGRC,ECA_African Union Commission,AUC,Cabo Verde,CPV
+SDGRC,ECA_African Union Commission,AUC,Cameroon,CMR
+SDGRC,ECA_African Union Commission,AUC,Central African Republic,CAF
+SDGRC,ECA_African Union Commission,AUC,Chad,TCD
+SDGRC,ECA_African Union Commission,AUC,Comoros,COM
+SDGRC,ECA_African Union Commission,AUC,Congo,COG
+SDGRC,ECA_African Union Commission,AUC,Côte d'Ivoire,CIV
+SDGRC,ECA_African Union Commission,AUC,Democratic Republic of the Congo,COD
+SDGRC,ECA_African Union Commission,AUC,Djibouti,DJI
+SDGRC,ECA_African Union Commission,AUC,Egypt,EGY
+SDGRC,ECA_African Union Commission,AUC,Equatorial Guinea,GNQ
+SDGRC,ECA_African Union Commission,AUC,Eritrea,ERI
+SDGRC,ECA_African Union Commission,AUC,Eswatini,SWZ
+SDGRC,ECA_African Union Commission,AUC,Ethiopia,ETH
+SDGRC,ECA_African Union Commission,AUC,Gabon,GAB
+SDGRC,ECA_African Union Commission,AUC,Gambia,GMB
+SDGRC,ECA_African Union Commission,AUC,Ghana,GHA
+SDGRC,ECA_African Union Commission,AUC,Guinea,GIN
+SDGRC,ECA_African Union Commission,AUC,Guinea-Bissau,GNB
+SDGRC,ECA_African Union Commission,AUC,Kenya,KEN
+SDGRC,ECA_African Union Commission,AUC,Lesotho,LSO
+SDGRC,ECA_African Union Commission,AUC,Liberia,LBR
+SDGRC,ECA_African Union Commission,AUC,Libya,LBY
+SDGRC,ECA_African Union Commission,AUC,Madagascar,MDG
+SDGRC,ECA_African Union Commission,AUC,Malawi,MWI
+SDGRC,ECA_African Union Commission,AUC,Mali,MLI
+SDGRC,ECA_African Union Commission,AUC,Mauritania,MRT
+SDGRC,ECA_African Union Commission,AUC,Mauritius,MUS
+SDGRC,ECA_African Union Commission,AUC,Morocco,MAR
+SDGRC,ECA_African Union Commission,AUC,Mozambique,MOZ
+SDGRC,ECA_African Union Commission,AUC,Namibia,NAM
+SDGRC,ECA_African Union Commission,AUC,Niger,NER
+SDGRC,ECA_African Union Commission,AUC,Nigeria,NGA
+SDGRC,ECA_African Union Commission,AUC,Rwanda,RWA
+SDGRC,ECA_African Union Commission,AUC,Sao Tome and Principe,STP
+SDGRC,ECA_African Union Commission,AUC,Senegal,SEN
+SDGRC,ECA_African Union Commission,AUC,Seychelles,SYC
+SDGRC,ECA_African Union Commission,AUC,Sierra Leone,SLE
+SDGRC,ECA_African Union Commission,AUC,Somalia,SOM
+SDGRC,ECA_African Union Commission,AUC,South Africa,ZAF
+SDGRC,ECA_African Union Commission,AUC,South Sudan,SSD
+SDGRC,ECA_African Union Commission,AUC,Sudan,SDN
+SDGRC,ECA_African Union Commission,AUC,Togo,TGO
+SDGRC,ECA_African Union Commission,AUC,Tunisia,TUN
+SDGRC,ECA_African Union Commission,AUC,Uganda,UGA
+SDGRC,ECA_African Union Commission,AUC,United Republic of Tanzania,TZA
+SDGRC,ECA_African Union Commission,AUC,Western Sahara,ESH
+SDGRC,ECA_African Union Commission,AUC,Zambia,ZMB
+SDGRC,ECA_African Union Commission,AUC,Zimbabwe,ZWE
+SDGRC,ECA_All countries,ECA_ALL,Algeria,DZA
+SDGRC,ECA_All countries,ECA_ALL,Angola,AGO
+SDGRC,ECA_All countries,ECA_ALL,Benin,BEN
+SDGRC,ECA_All countries,ECA_ALL,Botswana,BWA
+SDGRC,ECA_All countries,ECA_ALL,Burkina Faso,BFA
+SDGRC,ECA_All countries,ECA_ALL,Burundi,BDI
+SDGRC,ECA_All countries,ECA_ALL,Cabo Verde,CPV
+SDGRC,ECA_All countries,ECA_ALL,Cameroon,CMR
+SDGRC,ECA_All countries,ECA_ALL,Central African Republic,CAF
+SDGRC,ECA_All countries,ECA_ALL,Chad,TCD
+SDGRC,ECA_All countries,ECA_ALL,Comoros,COM
+SDGRC,ECA_All countries,ECA_ALL,Congo,COG
+SDGRC,ECA_All countries,ECA_ALL,Côte d'Ivoire,CIV
+SDGRC,ECA_All countries,ECA_ALL,Democratic Republic of the Congo,COD
+SDGRC,ECA_All countries,ECA_ALL,Djibouti,DJI
+SDGRC,ECA_All countries,ECA_ALL,Egypt,EGY
+SDGRC,ECA_All countries,ECA_ALL,Equatorial Guinea,GNQ
+SDGRC,ECA_All countries,ECA_ALL,Eritrea,ERI
+SDGRC,ECA_All countries,ECA_ALL,Eswatini,SWZ
+SDGRC,ECA_All countries,ECA_ALL,Ethiopia,ETH
+SDGRC,ECA_All countries,ECA_ALL,Gabon,GAB
+SDGRC,ECA_All countries,ECA_ALL,Gambia,GMB
+SDGRC,ECA_All countries,ECA_ALL,Ghana,GHA
+SDGRC,ECA_All countries,ECA_ALL,Guinea,GIN
+SDGRC,ECA_All countries,ECA_ALL,Guinea-Bissau,GNB
+SDGRC,ECA_All countries,ECA_ALL,Kenya,KEN
+SDGRC,ECA_All countries,ECA_ALL,Lesotho,LSO
+SDGRC,ECA_All countries,ECA_ALL,Liberia,LBR
+SDGRC,ECA_All countries,ECA_ALL,Libya,LBY
+SDGRC,ECA_All countries,ECA_ALL,Madagascar,MDG
+SDGRC,ECA_All countries,ECA_ALL,Malawi,MWI
+SDGRC,ECA_All countries,ECA_ALL,Mali,MLI
+SDGRC,ECA_All countries,ECA_ALL,Mauritania,MRT
+SDGRC,ECA_All countries,ECA_ALL,Mauritius,MUS
+SDGRC,ECA_All countries,ECA_ALL,Morocco,MAR
+SDGRC,ECA_All countries,ECA_ALL,Mozambique,MOZ
+SDGRC,ECA_All countries,ECA_ALL,Namibia,NAM
+SDGRC,ECA_All countries,ECA_ALL,Niger,NER
+SDGRC,ECA_All countries,ECA_ALL,Nigeria,NGA
+SDGRC,ECA_All countries,ECA_ALL,Rwanda,RWA
+SDGRC,ECA_All countries,ECA_ALL,Sao Tome and Principe,STP
+SDGRC,ECA_All countries,ECA_ALL,Senegal,SEN
+SDGRC,ECA_All countries,ECA_ALL,Seychelles,SYC
+SDGRC,ECA_All countries,ECA_ALL,Sierra Leone,SLE
+SDGRC,ECA_All countries,ECA_ALL,Somalia,SOM
+SDGRC,ECA_All countries,ECA_ALL,South Africa,ZAF
+SDGRC,ECA_All countries,ECA_ALL,South Sudan,SSD
+SDGRC,ECA_All countries,ECA_ALL,Sudan,SDN
+SDGRC,ECA_All countries,ECA_ALL,Togo,TGO
+SDGRC,ECA_All countries,ECA_ALL,Tunisia,TUN
+SDGRC,ECA_All countries,ECA_ALL,Uganda,UGA
+SDGRC,ECA_All countries,ECA_ALL,United Republic of Tanzania,TZA
+SDGRC,ECA_All countries,ECA_ALL,Zambia,ZMB
+SDGRC,ECA_All countries,ECA_ALL,Zimbabwe,ZWE
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Benin,BEN
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Burkina Faso,BFA
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Central African Republic,CAF
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Chad,TCD
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Comoros,COM
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Côte d'Ivoire,CIV
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Djibouti,DJI
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Egypt,EGY
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Eritrea,ERI
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Gambia,GMB
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Ghana,GHA
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Guinea-Bissau,GNB
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Libya,LBY
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Mali,MLI
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Mauritania,MRT
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Morocco,MAR
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Niger,NER
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Nigeria,NGA
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Senegal,SEN
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Sierra Leone,SLE
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Somalia,SOM
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Sudan,SDN
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Togo,TGO
+SDGRC,ECA_CEN-SAD,ECA_CEN_SAD,Tunisia,TUN
+SDGRC,ECA_COMESA,ECA_COMESA,Burundi,BDI
+SDGRC,ECA_COMESA,ECA_COMESA,Comoros,COM
+SDGRC,ECA_COMESA,ECA_COMESA,Democratic Republic of the Congo,COD
+SDGRC,ECA_COMESA,ECA_COMESA,Djibouti,DJI
+SDGRC,ECA_COMESA,ECA_COMESA,Egypt,EGY
+SDGRC,ECA_COMESA,ECA_COMESA,Eritrea,ERI
+SDGRC,ECA_COMESA,ECA_COMESA,Eswatini,SWZ
+SDGRC,ECA_COMESA,ECA_COMESA,Ethiopia,ETH
+SDGRC,ECA_COMESA,ECA_COMESA,Kenya,KEN
+SDGRC,ECA_COMESA,ECA_COMESA,Libya,LBY
+SDGRC,ECA_COMESA,ECA_COMESA,Madagascar,MDG
+SDGRC,ECA_COMESA,ECA_COMESA,Malawi,MWI
+SDGRC,ECA_COMESA,ECA_COMESA,Mauritius,MUS
+SDGRC,ECA_COMESA,ECA_COMESA,Rwanda,RWA
+SDGRC,ECA_COMESA,ECA_COMESA,Seychelles,SYC
+SDGRC,ECA_COMESA,ECA_COMESA,Somalia,SOM
+SDGRC,ECA_COMESA,ECA_COMESA,Sudan,SDN
+SDGRC,ECA_COMESA,ECA_COMESA,Tunisia,TUN
+SDGRC,ECA_COMESA,ECA_COMESA,Uganda,UGA
+SDGRC,ECA_COMESA,ECA_COMESA,Zambia,ZMB
+SDGRC,ECA_COMESA,ECA_COMESA,Zimbabwe,ZWE
+SDGRC,ECA_Central Africa,ECA_CA,Cameroon,CMR
+SDGRC,ECA_Central Africa,ECA_CA,Central African Republic,CAF
+SDGRC,ECA_Central Africa,ECA_CA,Chad,TCD
+SDGRC,ECA_Central Africa,ECA_CA,Congo,COG
+SDGRC,ECA_Central Africa,ECA_CA,Equatorial Guinea,GNQ
+SDGRC,ECA_Central Africa,ECA_CA,Gabon,GAB
+SDGRC,ECA_Central Africa,ECA_CA,Sao Tome and Principe,STP
+SDGRC,ECA_EAC,ECA_EAC,Burundi,BDI
+SDGRC,ECA_EAC,ECA_EAC,Democratic Republic of the Congo,COD
+SDGRC,ECA_EAC,ECA_EAC,Kenya,KEN
+SDGRC,ECA_EAC,ECA_EAC,Rwanda,RWA
+SDGRC,ECA_EAC,ECA_EAC,South Sudan,SSD
+SDGRC,ECA_EAC,ECA_EAC,Uganda,UGA
+SDGRC,ECA_EAC,ECA_EAC,United Republic of Tanzania,TZA
+SDGRC,ECA_ECCAS,ECA_ECCAS,Angola,AGO
+SDGRC,ECA_ECCAS,ECA_ECCAS,Burundi,BDI
+SDGRC,ECA_ECCAS,ECA_ECCAS,Cameroon,CMR
+SDGRC,ECA_ECCAS,ECA_ECCAS,Central African Republic,CAF
+SDGRC,ECA_ECCAS,ECA_ECCAS,Chad,TCD
+SDGRC,ECA_ECCAS,ECA_ECCAS,Congo,COG
+SDGRC,ECA_ECCAS,ECA_ECCAS,Democratic Republic of the Congo,COD
+SDGRC,ECA_ECCAS,ECA_ECCAS,Equatorial Guinea,GNQ
+SDGRC,ECA_ECCAS,ECA_ECCAS,Gabon,GAB
+SDGRC,ECA_ECCAS,ECA_ECCAS,Rwanda,RWA
+SDGRC,ECA_ECCAS,ECA_ECCAS,Sao Tome and Principe,STP
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Benin,BEN
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Burkina Faso,BFA
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Cabo Verde,CPV
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Côte d'Ivoire,CIV
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Gambia,GMB
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Ghana,GHA
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Guinea,GIN
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Guinea-Bissau,GNB
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Liberia,LBR
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Mali,MLI
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Niger,NER
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Nigeria,NGA
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Senegal,SEN
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Sierra Leone,SLE
+SDGRC,ECA_ECOWAS,ECA_ECOWAS,Togo,TGO
+SDGRC,ECA_Eastern Africa,ECA_EA,Burundi,BDI
+SDGRC,ECA_Eastern Africa,ECA_EA,Comoros,COM
+SDGRC,ECA_Eastern Africa,ECA_EA,Democratic Republic of the Congo,COD
+SDGRC,ECA_Eastern Africa,ECA_EA,Djibouti,DJI
+SDGRC,ECA_Eastern Africa,ECA_EA,Eritrea,ERI
+SDGRC,ECA_Eastern Africa,ECA_EA,Ethiopia,ETH
+SDGRC,ECA_Eastern Africa,ECA_EA,Kenya,KEN
+SDGRC,ECA_Eastern Africa,ECA_EA,Madagascar,MDG
+SDGRC,ECA_Eastern Africa,ECA_EA,Rwanda,RWA
+SDGRC,ECA_Eastern Africa,ECA_EA,Seychelles,SYC
+SDGRC,ECA_Eastern Africa,ECA_EA,Somalia,SOM
+SDGRC,ECA_Eastern Africa,ECA_EA,South Sudan,SSD
+SDGRC,ECA_Eastern Africa,ECA_EA,Uganda,UGA
+SDGRC,ECA_Eastern Africa,ECA_EA,United Republic of Tanzania,TZA
+SDGRC,ECA_IGAD,ECA_IGAD,Djibouti,DJI
+SDGRC,ECA_IGAD,ECA_IGAD,Eritrea,ERI
+SDGRC,ECA_IGAD,ECA_IGAD,Ethiopia,ETH
+SDGRC,ECA_IGAD,ECA_IGAD,Kenya,KEN
+SDGRC,ECA_IGAD,ECA_IGAD,Somalia,SOM
+SDGRC,ECA_IGAD,ECA_IGAD,South Sudan,SSD
+SDGRC,ECA_IGAD,ECA_IGAD,Sudan,SDN
+SDGRC,ECA_IGAD,ECA_IGAD,Uganda,UGA
+SDGRC,ECA_Island economies,ECA_IE,Cabo Verde,CPV
+SDGRC,ECA_Island economies,ECA_IE,Comoros,COM
+SDGRC,ECA_Island economies,ECA_IE,Madagascar,MDG
+SDGRC,ECA_Island economies,ECA_IE,Mauritius,MUS
+SDGRC,ECA_Island economies,ECA_IE,Sao Tome and Principe,STP
+SDGRC,ECA_Island economies,ECA_IE,Seychelles,SYC
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Burkina Faso,BFA
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Burundi,BDI
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Central African Republic,CAF
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Chad,TCD
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Ethiopia,ETH
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Lesotho,LSO
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Malawi,MWI
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Mali,MLI
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Niger,NER
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Rwanda,RWA
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,South Sudan,SSD
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Uganda,UGA
+SDGRC,ECA_Land-locked LDCs,ECA_LL_LDC,Zambia,ZMB
+SDGRC,ECA_Land-locked countries,ECA_LLC,Botswana,BWA
+SDGRC,ECA_Land-locked countries,ECA_LLC,Burkina Faso,BFA
+SDGRC,ECA_Land-locked countries,ECA_LLC,Burundi,BDI
+SDGRC,ECA_Land-locked countries,ECA_LLC,Central African Republic,CAF
+SDGRC,ECA_Land-locked countries,ECA_LLC,Chad,TCD
+SDGRC,ECA_Land-locked countries,ECA_LLC,Eswatini,SWZ
+SDGRC,ECA_Land-locked countries,ECA_LLC,Ethiopia,ETH
+SDGRC,ECA_Land-locked countries,ECA_LLC,Lesotho,LSO
+SDGRC,ECA_Land-locked countries,ECA_LLC,Malawi,MWI
+SDGRC,ECA_Land-locked countries,ECA_LLC,Mali,MLI
+SDGRC,ECA_Land-locked countries,ECA_LLC,Niger,NER
+SDGRC,ECA_Land-locked countries,ECA_LLC,Rwanda,RWA
+SDGRC,ECA_Land-locked countries,ECA_LLC,South Sudan,SSD
+SDGRC,ECA_Land-locked countries,ECA_LLC,Uganda,UGA
+SDGRC,ECA_Land-locked countries,ECA_LLC,Zambia,ZMB
+SDGRC,ECA_Land-locked countries,ECA_LLC,Zimbabwe,ZWE
+SDGRC,ECA_Least developed countries,ECA_LDC,Angola,AGO
+SDGRC,ECA_Least developed countries,ECA_LDC,Benin,BEN
+SDGRC,ECA_Least developed countries,ECA_LDC,Burkina Faso,BFA
+SDGRC,ECA_Least developed countries,ECA_LDC,Burundi,BDI
+SDGRC,ECA_Least developed countries,ECA_LDC,Central African Republic,CAF
+SDGRC,ECA_Least developed countries,ECA_LDC,Chad,TCD
+SDGRC,ECA_Least developed countries,ECA_LDC,Comoros,COM
+SDGRC,ECA_Least developed countries,ECA_LDC,Democratic Republic of the Congo,COD
+SDGRC,ECA_Least developed countries,ECA_LDC,Djibouti,DJI
+SDGRC,ECA_Least developed countries,ECA_LDC,Eritrea,ERI
+SDGRC,ECA_Least developed countries,ECA_LDC,Ethiopia,ETH
+SDGRC,ECA_Least developed countries,ECA_LDC,Gambia,GMB
+SDGRC,ECA_Least developed countries,ECA_LDC,Guinea,GIN
+SDGRC,ECA_Least developed countries,ECA_LDC,Guinea-Bissau,GNB
+SDGRC,ECA_Least developed countries,ECA_LDC,Lesotho,LSO
+SDGRC,ECA_Least developed countries,ECA_LDC,Liberia,LBR
+SDGRC,ECA_Least developed countries,ECA_LDC,Madagascar,MDG
+SDGRC,ECA_Least developed countries,ECA_LDC,Malawi,MWI
+SDGRC,ECA_Least developed countries,ECA_LDC,Mali,MLI
+SDGRC,ECA_Least developed countries,ECA_LDC,Mauritania,MRT
+SDGRC,ECA_Least developed countries,ECA_LDC,Mozambique,MOZ
+SDGRC,ECA_Least developed countries,ECA_LDC,Niger,NER
+SDGRC,ECA_Least developed countries,ECA_LDC,Rwanda,RWA
+SDGRC,ECA_Least developed countries,ECA_LDC,Senegal,SEN
+SDGRC,ECA_Least developed countries,ECA_LDC,Sierra Leone,SLE
+SDGRC,ECA_Least developed countries,ECA_LDC,Somalia,SOM
+SDGRC,ECA_Least developed countries,ECA_LDC,South Sudan,SSD
+SDGRC,ECA_Least developed countries,ECA_LDC,Sudan,SDN
+SDGRC,ECA_Least developed countries,ECA_LDC,Togo,TGO
+SDGRC,ECA_Least developed countries,ECA_LDC,Uganda,UGA
+SDGRC,ECA_Least developed countries,ECA_LDC,United Republic of Tanzania,TZA
+SDGRC,ECA_Least developed countries,ECA_LDC,Zambia,ZMB
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Algeria,DZA
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Benin,BEN
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Botswana,BWA
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Burkina Faso,BFA
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Central African Republic,CAF
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Democratic Republic of the Congo,COD
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Djibouti,DJI
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Equatorial Guinea,GNQ
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Ghana,GHA
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Guinea,GIN
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Lesotho,LSO
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Liberia,LBR
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Madagascar,MDG
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Mali,MLI
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Mauritania,MRT
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Mozambique,MOZ
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Namibia,NAM
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Niger,NER
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Rwanda,RWA
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Sierra Leone,SLE
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,South Africa,ZAF
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Sudan,SDN
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Togo,TGO
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,United Republic of Tanzania,TZA
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Zambia,ZMB
+SDGRC,ECA_Mineral-rich countries,ECA_MRC,Zimbabwe,ZWE
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Benin,BEN
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Burkina Faso,BFA
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Burundi,BDI
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Central African Republic,CAF
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Comoros,COM
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Djibouti,DJI
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Eritrea,ERI
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Ethiopia,ETH
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Gambia,GMB
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Guinea,GIN
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Guinea-Bissau,GNB
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Lesotho,LSO
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Liberia,LBR
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Madagascar,MDG
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Malawi,MWI
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Mali,MLI
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Mauritania,MRT
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Mozambique,MOZ
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Rwanda,RWA
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Senegal,SEN
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Sierra Leone,SLE
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Somalia,SOM
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Togo,TGO
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Uganda,UGA
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,United Republic of Tanzania,TZA
+SDGRC,ECA_Non-Oil LDCs,ECA_NO_LDC,Zambia,ZMB
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Benin,BEN
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Botswana,BWA
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Burkina Faso,BFA
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Burundi,BDI
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Cabo Verde,CPV
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Central African Republic,CAF
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Comoros,COM
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Djibouti,DJI
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Eritrea,ERI
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Eswatini,SWZ
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Ethiopia,ETH
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Gambia,GMB
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Guinea,GIN
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Guinea-Bissau,GNB
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Kenya,KEN
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Lesotho,LSO
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Liberia,LBR
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Madagascar,MDG
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Malawi,MWI
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Mali,MLI
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Mauritania,MRT
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Mauritius,MUS
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Morocco,MAR
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Mozambique,MOZ
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Namibia,NAM
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Rwanda,RWA
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Sao Tome and Principe,STP
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Senegal,SEN
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Seychelles,SYC
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Sierra Leone,SLE
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Somalia,SOM
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,South Africa,ZAF
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Togo,TGO
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Uganda,UGA
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,United Republic of Tanzania,TZA
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Zambia,ZMB
+SDGRC,ECA_Non-Oil Producing,ECA_NOP,Zimbabwe,ZWE
+SDGRC,ECA_North Africa,ECA_NA,Algeria,DZA
+SDGRC,ECA_North Africa,ECA_NA,Egypt,EGY
+SDGRC,ECA_North Africa,ECA_NA,Libya,LBY
+SDGRC,ECA_North Africa,ECA_NA,Mauritania,MRT
+SDGRC,ECA_North Africa,ECA_NA,Morocco,MAR
+SDGRC,ECA_North Africa,ECA_NA,Sudan,SDN
+SDGRC,ECA_North Africa,ECA_NA,Tunisia,TUN
+SDGRC,ECA_Oil LDCs,ECA_O_LDC,Angola,AGO
+SDGRC,ECA_Oil LDCs,ECA_O_LDC,Chad,TCD
+SDGRC,ECA_Oil LDCs,ECA_O_LDC,Democratic Republic of the Congo,COD
+SDGRC,ECA_Oil LDCs,ECA_O_LDC,Niger,NER
+SDGRC,ECA_Oil LDCs,ECA_O_LDC,South Sudan,SSD
+SDGRC,ECA_Oil LDCs,ECA_O_LDC,Sudan,SDN
+SDGRC,ECA_Oil producing economies,ECA_OP,Algeria,DZA
+SDGRC,ECA_Oil producing economies,ECA_OP,Angola,AGO
+SDGRC,ECA_Oil producing economies,ECA_OP,Cameroon,CMR
+SDGRC,ECA_Oil producing economies,ECA_OP,Chad,TCD
+SDGRC,ECA_Oil producing economies,ECA_OP,Congo,COG
+SDGRC,ECA_Oil producing economies,ECA_OP,Côte d'Ivoire,CIV
+SDGRC,ECA_Oil producing economies,ECA_OP,Democratic Republic of the Congo,COD
+SDGRC,ECA_Oil producing economies,ECA_OP,Egypt,EGY
+SDGRC,ECA_Oil producing economies,ECA_OP,Equatorial Guinea,GNQ
+SDGRC,ECA_Oil producing economies,ECA_OP,Gabon,GAB
+SDGRC,ECA_Oil producing economies,ECA_OP,Ghana,GHA
+SDGRC,ECA_Oil producing economies,ECA_OP,Libya,LBY
+SDGRC,ECA_Oil producing economies,ECA_OP,Niger,NER
+SDGRC,ECA_Oil producing economies,ECA_OP,Nigeria,NGA
+SDGRC,ECA_Oil producing economies,ECA_OP,South Sudan,SSD
+SDGRC,ECA_Oil producing economies,ECA_OP,Sudan,SDN
+SDGRC,ECA_Oil producing economies,ECA_OP,Tunisia,TUN
+SDGRC,ECA_SADC,ECA_SADC,Angola,AGO
+SDGRC,ECA_SADC,ECA_SADC,Botswana,BWA
+SDGRC,ECA_SADC,ECA_SADC,Comoros,COM
+SDGRC,ECA_SADC,ECA_SADC,Democratic Republic of the Congo,COD
+SDGRC,ECA_SADC,ECA_SADC,Eswatini,SWZ
+SDGRC,ECA_SADC,ECA_SADC,Lesotho,LSO
+SDGRC,ECA_SADC,ECA_SADC,Madagascar,MDG
+SDGRC,ECA_SADC,ECA_SADC,Malawi,MWI
+SDGRC,ECA_SADC,ECA_SADC,Mauritius,MUS
+SDGRC,ECA_SADC,ECA_SADC,Mozambique,MOZ
+SDGRC,ECA_SADC,ECA_SADC,Namibia,NAM
+SDGRC,ECA_SADC,ECA_SADC,Seychelles,SYC
+SDGRC,ECA_SADC,ECA_SADC,South Africa,ZAF
+SDGRC,ECA_SADC,ECA_SADC,United Republic of Tanzania,TZA
+SDGRC,ECA_SADC,ECA_SADC,Zambia,ZMB
+SDGRC,ECA_SADC,ECA_SADC,Zimbabwe,ZWE
+SDGRC,ECA_Sahel,ECA_SAHEL,Burkina Faso,BFA
+SDGRC,ECA_Sahel,ECA_SAHEL,Cameroon,CMR
+SDGRC,ECA_Sahel,ECA_SAHEL,Chad,TCD
+SDGRC,ECA_Sahel,ECA_SAHEL,Gambia,GMB
+SDGRC,ECA_Sahel,ECA_SAHEL,Guinea,GIN
+SDGRC,ECA_Sahel,ECA_SAHEL,Mali,MLI
+SDGRC,ECA_Sahel,ECA_SAHEL,Mauritania,MRT
+SDGRC,ECA_Sahel,ECA_SAHEL,Niger,NER
+SDGRC,ECA_Sahel,ECA_SAHEL,Nigeria,NGA
+SDGRC,ECA_Sahel,ECA_SAHEL,Senegal,SEN
+SDGRC,ECA_Small Island states,ECA_SIS,Cabo Verde,CPV
+SDGRC,ECA_Small Island states,ECA_SIS,Comoros,COM
+SDGRC,ECA_Small Island states,ECA_SIS,Mauritius,MUS
+SDGRC,ECA_Small Island states,ECA_SIS,Sao Tome and Principe,STP
+SDGRC,ECA_Small Island states,ECA_SIS,Seychelles,SYC
+SDGRC,ECA_Southern Africa,ECA_SA,Angola,AGO
+SDGRC,ECA_Southern Africa,ECA_SA,Botswana,BWA
+SDGRC,ECA_Southern Africa,ECA_SA,Eswatini,SWZ
+SDGRC,ECA_Southern Africa,ECA_SA,Lesotho,LSO
+SDGRC,ECA_Southern Africa,ECA_SA,Malawi,MWI
+SDGRC,ECA_Southern Africa,ECA_SA,Mauritius,MUS
+SDGRC,ECA_Southern Africa,ECA_SA,Mozambique,MOZ
+SDGRC,ECA_Southern Africa,ECA_SA,Namibia,NAM
+SDGRC,ECA_Southern Africa,ECA_SA,South Africa,ZAF
+SDGRC,ECA_Southern Africa,ECA_SA,Zambia,ZMB
+SDGRC,ECA_Southern Africa,ECA_SA,Zimbabwe,ZWE
+SDGRC,ECA_Southern Africa Customs Union (SACU),ECA_SACU,Botswana,BWA
+SDGRC,ECA_Southern Africa Customs Union (SACU),ECA_SACU,Eswatini,SWZ
+SDGRC,ECA_Southern Africa Customs Union (SACU),ECA_SACU,Lesotho,LSO
+SDGRC,ECA_Southern Africa Customs Union (SACU),ECA_SACU,Namibia,NAM
+SDGRC,ECA_Southern Africa Customs Union (SACU),ECA_SACU,South Africa,ZAF
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Angola,AGO
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Benin,BEN
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Botswana,BWA
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Burkina Faso,BFA
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Burundi,BDI
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Cabo Verde,CPV
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Cameroon,CMR
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Central African Republic,CAF
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Chad,TCD
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Comoros,COM
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Congo,COG
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Côte d'Ivoire,CIV
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Democratic Republic of the Congo,COD
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Djibouti,DJI
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Equatorial Guinea,GNQ
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Eritrea,ERI
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Eswatini,SWZ
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Ethiopia,ETH
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Gabon,GAB
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Gambia,GMB
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Ghana,GHA
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Guinea,GIN
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Guinea-Bissau,GNB
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Kenya,KEN
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Lesotho,LSO
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Liberia,LBR
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Madagascar,MDG
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Malawi,MWI
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Mali,MLI
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Mauritius,MUS
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Mozambique,MOZ
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Namibia,NAM
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Niger,NER
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Nigeria,NGA
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Rwanda,RWA
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Sao Tome and Principe,STP
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Senegal,SEN
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Seychelles,SYC
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Sierra Leone,SLE
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Somalia,SOM
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,South Africa,ZAF
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,South Sudan,SSD
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Sudan,SDN
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Togo,TGO
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Uganda,UGA
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,United Republic of Tanzania,TZA
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Zambia,ZMB
+SDGRC,ECA_Sub-Saharan Africa,ECA_SSA,Zimbabwe,ZWE
+SDGRC,ECA_West Africa,ECA_WA,Benin,BEN
+SDGRC,ECA_West Africa,ECA_WA,Burkina Faso,BFA
+SDGRC,ECA_West Africa,ECA_WA,Cabo Verde,CPV
+SDGRC,ECA_West Africa,ECA_WA,Côte d'Ivoire,CIV
+SDGRC,ECA_West Africa,ECA_WA,Gambia,GMB
+SDGRC,ECA_West Africa,ECA_WA,Ghana,GHA
+SDGRC,ECA_West Africa,ECA_WA,Guinea,GIN
+SDGRC,ECA_West Africa,ECA_WA,Guinea-Bissau,GNB
+SDGRC,ECA_West Africa,ECA_WA,Liberia,LBR
+SDGRC,ECA_West Africa,ECA_WA,Mali,MLI
+SDGRC,ECA_West Africa,ECA_WA,Niger,NER
+SDGRC,ECA_West Africa,ECA_WA,Nigeria,NGA
+SDGRC,ECA_West Africa,ECA_WA,Senegal,SEN
+SDGRC,ECA_West Africa,ECA_WA,Sierra Leone,SLE
+SDGRC,ECA_West Africa,ECA_WA,Togo,TGO
+SDGRC,ECE_All countries,ECE_ALL,Albania,ALB
+SDGRC,ECE_All countries,ECE_ALL,Andorra,AND
+SDGRC,ECE_All countries,ECE_ALL,Armenia,ARM
+SDGRC,ECE_All countries,ECE_ALL,Austria,AUT
+SDGRC,ECE_All countries,ECE_ALL,Azerbaijan,AZE
+SDGRC,ECE_All countries,ECE_ALL,Belarus,BLR
+SDGRC,ECE_All countries,ECE_ALL,Belgium,BEL
+SDGRC,ECE_All countries,ECE_ALL,Bosnia and Herzegovina,BIH
+SDGRC,ECE_All countries,ECE_ALL,Bulgaria,BGR
+SDGRC,ECE_All countries,ECE_ALL,Canada,CAN
+SDGRC,ECE_All countries,ECE_ALL,Croatia,HRV
+SDGRC,ECE_All countries,ECE_ALL,Cyprus,CYP
+SDGRC,ECE_All countries,ECE_ALL,Czechia,CZE
+SDGRC,ECE_All countries,ECE_ALL,Denmark,DNK
+SDGRC,ECE_All countries,ECE_ALL,Estonia,EST
+SDGRC,ECE_All countries,ECE_ALL,Finland,FIN
+SDGRC,ECE_All countries,ECE_ALL,France,FRA
+SDGRC,ECE_All countries,ECE_ALL,Georgia,GEO
+SDGRC,ECE_All countries,ECE_ALL,Germany,DEU
+SDGRC,ECE_All countries,ECE_ALL,Greece,GRC
+SDGRC,ECE_All countries,ECE_ALL,Hungary,HUN
+SDGRC,ECE_All countries,ECE_ALL,Iceland,ISL
+SDGRC,ECE_All countries,ECE_ALL,Ireland,IRL
+SDGRC,ECE_All countries,ECE_ALL,Israel,ISR
+SDGRC,ECE_All countries,ECE_ALL,Italy,ITA
+SDGRC,ECE_All countries,ECE_ALL,Kazakhstan,KAZ
+SDGRC,ECE_All countries,ECE_ALL,Kyrgyzstan,KGZ
+SDGRC,ECE_All countries,ECE_ALL,Latvia,LVA
+SDGRC,ECE_All countries,ECE_ALL,Liechtenstein,LIE
+SDGRC,ECE_All countries,ECE_ALL,Lithuania,LTU
+SDGRC,ECE_All countries,ECE_ALL,Luxembourg,LUX
+SDGRC,ECE_All countries,ECE_ALL,Malta,MLT
+SDGRC,ECE_All countries,ECE_ALL,Monaco,MCO
+SDGRC,ECE_All countries,ECE_ALL,Montenegro,MNE
+SDGRC,ECE_All countries,ECE_ALL,Netherlands (Kingdom of the),NLD
+SDGRC,ECE_All countries,ECE_ALL,North Macedonia,MKD
+SDGRC,ECE_All countries,ECE_ALL,Norway,NOR
+SDGRC,ECE_All countries,ECE_ALL,Poland,POL
+SDGRC,ECE_All countries,ECE_ALL,Portugal,PRT
+SDGRC,ECE_All countries,ECE_ALL,Republic of Moldova,MDA
+SDGRC,ECE_All countries,ECE_ALL,Romania,ROU
+SDGRC,ECE_All countries,ECE_ALL,Russian Federation,RUS
+SDGRC,ECE_All countries,ECE_ALL,San Marino,SMR
+SDGRC,ECE_All countries,ECE_ALL,Serbia,SRB
+SDGRC,ECE_All countries,ECE_ALL,Slovakia,SVK
+SDGRC,ECE_All countries,ECE_ALL,Slovenia,SVN
+SDGRC,ECE_All countries,ECE_ALL,Spain,ESP
+SDGRC,ECE_All countries,ECE_ALL,Sweden,SWE
+SDGRC,ECE_All countries,ECE_ALL,Switzerland,CHE
+SDGRC,ECE_All countries,ECE_ALL,Tajikistan,TJK
+SDGRC,ECE_All countries,ECE_ALL,Turkmenistan,TKM
+SDGRC,ECE_All countries,ECE_ALL,Türkiye,TUR
+SDGRC,ECE_All countries,ECE_ALL,Ukraine,UKR
+SDGRC,ECE_All countries,ECE_ALL,United Kingdom,GBR
+SDGRC,ECE_All countries,ECE_ALL,United States,USA
+SDGRC,ECE_All countries,ECE_ALL,Uzbekistan,UZB
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Armenia,ARM
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Azerbaijan,AZE
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Belarus,BLR
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Kazakhstan,KAZ
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Kyrgyzstan,KGZ
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Republic of Moldova,MDA
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Russian Federation,RUS
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Tajikistan,TJK
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Turkmenistan,TKM
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Ukraine,UKR
+SDGRC,ECE_CIS (CWG),ECE_CIS11,Uzbekistan,UZB
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Armenia,ARM
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Azerbaijan,AZE
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Belarus,BLR
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Georgia,GEO
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Kazakhstan,KAZ
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Kyrgyzstan,KGZ
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Republic of Moldova,MDA
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Russian Federation,RUS
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Tajikistan,TJK
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Turkmenistan,TKM
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Ukraine,UKR
+SDGRC,"ECE_Eastern Europe, Caucasus and Central Asia (CIS)",ECE_EECCA,Uzbekistan,UZB
+SDGRC,ECE_Eurasian Economic Union (EAEU),ECE_EAEU,Armenia,ARM
+SDGRC,ECE_Eurasian Economic Union (EAEU),ECE_EAEU,Belarus,BLR
+SDGRC,ECE_Eurasian Economic Union (EAEU),ECE_EAEU,Kazakhstan,KAZ
+SDGRC,ECE_Eurasian Economic Union (EAEU),ECE_EAEU,Kyrgyzstan,KGZ
+SDGRC,ECE_Eurasian Economic Union (EAEU),ECE_EAEU,Russian Federation,RUS
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Austria,AUT
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Belgium,BEL
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Cyprus,CYP
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Estonia,EST
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Finland,FIN
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,France,FRA
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Germany,DEU
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Greece,GRC
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Ireland,IRL
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Italy,ITA
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Latvia,LVA
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Lithuania,LTU
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Luxembourg,LUX
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Malta,MLT
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Netherlands (Kingdom of the),NLD
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Portugal,PRT
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Slovakia,SVK
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Slovenia,SVN
+SDGRC,ECE_Euro area (EMU),ECE_EU_EuroArea,Spain,ESP
+SDGRC,ECE_European Union (E25),ECE_EU27,Austria,AUT
+SDGRC,ECE_European Union (E25),ECE_EU27,Belgium,BEL
+SDGRC,ECE_European Union (E25),ECE_EU27,Bulgaria,BGR
+SDGRC,ECE_European Union (E25),ECE_EU27,Croatia,HRV
+SDGRC,ECE_European Union (E25),ECE_EU27,Cyprus,CYP
+SDGRC,ECE_European Union (E25),ECE_EU27,Czechia,CZE
+SDGRC,ECE_European Union (E25),ECE_EU27,Denmark,DNK
+SDGRC,ECE_European Union (E25),ECE_EU27,Estonia,EST
+SDGRC,ECE_European Union (E25),ECE_EU27,Finland,FIN
+SDGRC,ECE_European Union (E25),ECE_EU27,France,FRA
+SDGRC,ECE_European Union (E25),ECE_EU27,Germany,DEU
+SDGRC,ECE_European Union (E25),ECE_EU27,Greece,GRC
+SDGRC,ECE_European Union (E25),ECE_EU27,Hungary,HUN
+SDGRC,ECE_European Union (E25),ECE_EU27,Ireland,IRL
+SDGRC,ECE_European Union (E25),ECE_EU27,Italy,ITA
+SDGRC,ECE_European Union (E25),ECE_EU27,Latvia,LVA
+SDGRC,ECE_European Union (E25),ECE_EU27,Lithuania,LTU
+SDGRC,ECE_European Union (E25),ECE_EU27,Luxembourg,LUX
+SDGRC,ECE_European Union (E25),ECE_EU27,Malta,MLT
+SDGRC,ECE_European Union (E25),ECE_EU27,Netherlands (Kingdom of the),NLD
+SDGRC,ECE_European Union (E25),ECE_EU27,Poland,POL
+SDGRC,ECE_European Union (E25),ECE_EU27,Portugal,PRT
+SDGRC,ECE_European Union (E25),ECE_EU27,Romania,ROU
+SDGRC,ECE_European Union (E25),ECE_EU27,Slovakia,SVK
+SDGRC,ECE_European Union (E25),ECE_EU27,Slovenia,SVN
+SDGRC,ECE_European Union (E25),ECE_EU27,Spain,ESP
+SDGRC,ECE_European Union (E25),ECE_EU27,Sweden,SWE
+SDGRC,ECE_West Balkans (ST7),ECE_WestBalkans,Albania,ALB
+SDGRC,ECE_West Balkans (ST7),ECE_WestBalkans,Bosnia and Herzegovina,BIH
+SDGRC,ECE_West Balkans (ST7),ECE_WestBalkans,Croatia,HRV
+SDGRC,ECE_West Balkans (ST7),ECE_WestBalkans,Montenegro,MNE
+SDGRC,ECE_West Balkans (ST7),ECE_WestBalkans,North Macedonia,MKD
+SDGRC,ECE_West Balkans (ST7),ECE_WestBalkans,Serbia,SRB
+SDGRC,ECLAC_All countries,ECLAC_ALL,Anguilla,AIA
+SDGRC,ECLAC_All countries,ECLAC_ALL,Antigua and Barbuda,ATG
+SDGRC,ECLAC_All countries,ECLAC_ALL,Argentina,ARG
+SDGRC,ECLAC_All countries,ECLAC_ALL,Aruba,ABW
+SDGRC,ECLAC_All countries,ECLAC_ALL,Bahamas,BHS
+SDGRC,ECLAC_All countries,ECLAC_ALL,Barbados,BRB
+SDGRC,ECLAC_All countries,ECLAC_ALL,Belize,BLZ
+SDGRC,ECLAC_All countries,ECLAC_ALL,Bolivia (Plurinational State of),BOL
+SDGRC,ECLAC_All countries,ECLAC_ALL,"Bonaire, Sint Eustatius and Saba",BES
+SDGRC,ECLAC_All countries,ECLAC_ALL,Brazil,BRA
+SDGRC,ECLAC_All countries,ECLAC_ALL,British Virgin Islands,VGB
+SDGRC,ECLAC_All countries,ECLAC_ALL,Cayman Islands,CYM
+SDGRC,ECLAC_All countries,ECLAC_ALL,Chile,CHL
+SDGRC,ECLAC_All countries,ECLAC_ALL,Colombia,COL
+SDGRC,ECLAC_All countries,ECLAC_ALL,Costa Rica,CRI
+SDGRC,ECLAC_All countries,ECLAC_ALL,Cuba,CUB
+SDGRC,ECLAC_All countries,ECLAC_ALL,Curaçao,CUW
+SDGRC,ECLAC_All countries,ECLAC_ALL,Dominica,DMA
+SDGRC,ECLAC_All countries,ECLAC_ALL,Dominican Republic,DOM
+SDGRC,ECLAC_All countries,ECLAC_ALL,Ecuador,ECU
+SDGRC,ECLAC_All countries,ECLAC_ALL,El Salvador,SLV
+SDGRC,ECLAC_All countries,ECLAC_ALL,French Guiana,GUF
+SDGRC,ECLAC_All countries,ECLAC_ALL,Grenada,GRD
+SDGRC,ECLAC_All countries,ECLAC_ALL,Guadeloupe,GLP
+SDGRC,ECLAC_All countries,ECLAC_ALL,Guatemala,GTM
+SDGRC,ECLAC_All countries,ECLAC_ALL,Guyana,GUY
+SDGRC,ECLAC_All countries,ECLAC_ALL,Haiti,HTI
+SDGRC,ECLAC_All countries,ECLAC_ALL,Honduras,HND
+SDGRC,ECLAC_All countries,ECLAC_ALL,Jamaica,JAM
+SDGRC,ECLAC_All countries,ECLAC_ALL,Martinique,MTQ
+SDGRC,ECLAC_All countries,ECLAC_ALL,Mexico,MEX
+SDGRC,ECLAC_All countries,ECLAC_ALL,Montserrat,MSR
+SDGRC,ECLAC_All countries,ECLAC_ALL,Nicaragua,NIC
+SDGRC,ECLAC_All countries,ECLAC_ALL,Panama,PAN
+SDGRC,ECLAC_All countries,ECLAC_ALL,Paraguay,PRY
+SDGRC,ECLAC_All countries,ECLAC_ALL,Peru,PER
+SDGRC,ECLAC_All countries,ECLAC_ALL,Puerto Rico,PRI
+SDGRC,ECLAC_All countries,ECLAC_ALL,Saint Barthélemy,BLM
+SDGRC,ECLAC_All countries,ECLAC_ALL,Saint Kitts and Nevis,KNA
+SDGRC,ECLAC_All countries,ECLAC_ALL,Saint Lucia,LCA
+SDGRC,ECLAC_All countries,ECLAC_ALL,Saint Martin (French part),MAF
+SDGRC,ECLAC_All countries,ECLAC_ALL,Saint Vincent and the Grenadines,VCT
+SDGRC,ECLAC_All countries,ECLAC_ALL,Sint Maarten,SXM
+SDGRC,ECLAC_All countries,ECLAC_ALL,South Georgia and the South Sandwich Islands,SGS
+SDGRC,ECLAC_All countries,ECLAC_ALL,Suriname,SUR
+SDGRC,ECLAC_All countries,ECLAC_ALL,Trinidad and Tobago,TTO
+SDGRC,ECLAC_All countries,ECLAC_ALL,Turks and Caicos Islands,TCA
+SDGRC,ECLAC_All countries,ECLAC_ALL,Uruguay,URY
+SDGRC,ECLAC_All countries,ECLAC_ALL,Venezuela (Bolivarian Republic of),VEN
+SDGRC,ECLAC_All countries,ECLAC_ALL,Virgin Islands U.S.,VIR
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Anguilla,AIA
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Antigua and Barbuda,ATG
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Aruba,ABW
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Bahamas,BHS
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Barbados,BRB
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Belize,BLZ
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,"Bonaire, Sint Eustatius and Saba",BES
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,British Virgin Islands,VGB
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Cayman Islands,CYM
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Curaçao,CUW
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Dominica,DMA
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,French Guiana,GUF
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Grenada,GRD
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Guadeloupe,GLP
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Guyana,GUY
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Jamaica,JAM
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Martinique,MTQ
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Montserrat,MSR
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Puerto Rico,PRI
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Saint Barthélemy,BLM
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Saint Kitts and Nevis,KNA
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Saint Lucia,LCA
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Saint Martin (French part),MAF
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Saint Vincent and the Grenadines,VCT
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Sint Maarten,SXM
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Suriname,SUR
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Trinidad and Tobago,TTO
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Turks and Caicos Islands,TCA
+SDGRC,ECLAC_Carribean,ECLAC-Caribbean,Virgin Islands U.S.,VIR
+SDGRC,ECLAC_Latin America,ECLAC-LA,Argentina,ARG
+SDGRC,ECLAC_Latin America,ECLAC-LA,Bolivia (Plurinational State of),BOL
+SDGRC,ECLAC_Latin America,ECLAC-LA,Brazil,BRA
+SDGRC,ECLAC_Latin America,ECLAC-LA,Chile,CHL
+SDGRC,ECLAC_Latin America,ECLAC-LA,Colombia,COL
+SDGRC,ECLAC_Latin America,ECLAC-LA,Costa Rica,CRI
+SDGRC,ECLAC_Latin America,ECLAC-LA,Cuba,CUB
+SDGRC,ECLAC_Latin America,ECLAC-LA,Dominican Republic,DOM
+SDGRC,ECLAC_Latin America,ECLAC-LA,Ecuador,ECU
+SDGRC,ECLAC_Latin America,ECLAC-LA,El Salvador,SLV
+SDGRC,ECLAC_Latin America,ECLAC-LA,Guatemala,GTM
+SDGRC,ECLAC_Latin America,ECLAC-LA,Haiti,HTI
+SDGRC,ECLAC_Latin America,ECLAC-LA,Honduras,HND
+SDGRC,ECLAC_Latin America,ECLAC-LA,Mexico,MEX
+SDGRC,ECLAC_Latin America,ECLAC-LA,Nicaragua,NIC
+SDGRC,ECLAC_Latin America,ECLAC-LA,Panama,PAN
+SDGRC,ECLAC_Latin America,ECLAC-LA,Paraguay,PRY
+SDGRC,ECLAC_Latin America,ECLAC-LA,Peru,PER
+SDGRC,ECLAC_Latin America,ECLAC-LA,South Georgia and the South Sandwich Islands,SGS
+SDGRC,ECLAC_Latin America,ECLAC-LA,Uruguay,URY
+SDGRC,ECLAC_Latin America,ECLAC-LA,Venezuela (Bolivarian Republic of),VEN
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Brunei Darussalam,BRN
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Cambodia,KHM
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Indonesia,IDN
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Lao People's Democratic Republic,LAO
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Malaysia,MYS
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Myanmar,MMR
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Philippines,PHL
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Singapore,SGP
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Thailand,THA
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Timor-Leste,TLS
+SDGRC,ESCAP_ASEAN (ASEAN),ESCAP_ASEAN,Viet Nam,VNM
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Algeria,DZA
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Angola,AGO
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Benin,BEN
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Botswana,BWA
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Burkina Faso,BFA
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Burundi,BDI
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Cabo Verde,CPV
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Cameroon,CMR
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Central African Republic,CAF
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Chad,TCD
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Comoros,COM
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Congo,COG
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Côte d'Ivoire,CIV
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Democratic Republic of the Congo,COD
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Djibouti,DJI
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Egypt,EGY
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Equatorial Guinea,GNQ
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Eritrea,ERI
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Eswatini,SWZ
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Ethiopia,ETH
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Gabon,GAB
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Gambia,GMB
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Ghana,GHA
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Guinea,GIN
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Guinea-Bissau,GNB
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Kenya,KEN
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Lesotho,LSO
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Liberia,LBR
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Libya,LBY
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Madagascar,MDG
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Malawi,MWI
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Mali,MLI
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Mauritania,MRT
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Mauritius,MUS
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Mayotte,MYT
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Morocco,MAR
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Mozambique,MOZ
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Namibia,NAM
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Niger,NER
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Nigeria,NGA
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Rwanda,RWA
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Réunion,REU
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,"Saint Helena, Ascension and Tristan da Cunha",SHN
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Sao Tome and Principe,STP
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Senegal,SEN
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Seychelles,SYC
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Sierra Leone,SLE
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Somalia,SOM
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,South Africa,ZAF
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,South Sudan,SSD
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,South Sudan,SSD
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Sudan,SDN
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Togo,TGO
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Tunisia,TUN
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Uganda,UGA
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,United Republic of Tanzania,TZA
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Western Sahara,ESH
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Zambia,ZMB
+SDGRC,ESCAP_Africa (AFR),ESCAP_AFRICA,Zimbabwe,ZWE
+SDGRC,ESCAP_All countries,ESCAP_ALL,Afghanistan,AFG
+SDGRC,ESCAP_All countries,ESCAP_ALL,American Samoa,ASM
+SDGRC,ESCAP_All countries,ESCAP_ALL,Armenia,ARM
+SDGRC,ESCAP_All countries,ESCAP_ALL,Australia,AUS
+SDGRC,ESCAP_All countries,ESCAP_ALL,Azerbaijan,AZE
+SDGRC,ESCAP_All countries,ESCAP_ALL,Bangladesh,BGD
+SDGRC,ESCAP_All countries,ESCAP_ALL,Bhutan,BTN
+SDGRC,ESCAP_All countries,ESCAP_ALL,Brunei Darussalam,BRN
+SDGRC,ESCAP_All countries,ESCAP_ALL,Cambodia,KHM
+SDGRC,ESCAP_All countries,ESCAP_ALL,China,CHN
+SDGRC,ESCAP_All countries,ESCAP_ALL,"China, Hong Kong Special Administrative Region",HKG
+SDGRC,ESCAP_All countries,ESCAP_ALL,"China, Macao Special Administrative Region",MAC
+SDGRC,ESCAP_All countries,ESCAP_ALL,Cook Islands,COK
+SDGRC,ESCAP_All countries,ESCAP_ALL,Democratic People's Republic of Korea,PRK
+SDGRC,ESCAP_All countries,ESCAP_ALL,Fiji,FJI
+SDGRC,ESCAP_All countries,ESCAP_ALL,French Polynesia,PYF
+SDGRC,ESCAP_All countries,ESCAP_ALL,Georgia,GEO
+SDGRC,ESCAP_All countries,ESCAP_ALL,Guam,GUM
+SDGRC,ESCAP_All countries,ESCAP_ALL,India,IND
+SDGRC,ESCAP_All countries,ESCAP_ALL,Indonesia,IDN
+SDGRC,ESCAP_All countries,ESCAP_ALL,Iran (Islamic Republic of),IRN
+SDGRC,ESCAP_All countries,ESCAP_ALL,Japan,JPN
+SDGRC,ESCAP_All countries,ESCAP_ALL,Kazakhstan,KAZ
+SDGRC,ESCAP_All countries,ESCAP_ALL,Kiribati,KIR
+SDGRC,ESCAP_All countries,ESCAP_ALL,Kyrgyzstan,KGZ
+SDGRC,ESCAP_All countries,ESCAP_ALL,Lao People's Democratic Republic,LAO
+SDGRC,ESCAP_All countries,ESCAP_ALL,Malaysia,MYS
+SDGRC,ESCAP_All countries,ESCAP_ALL,Maldives,MDV
+SDGRC,ESCAP_All countries,ESCAP_ALL,Marshall Islands,MHL
+SDGRC,ESCAP_All countries,ESCAP_ALL,Micronesia (Federated States of),FSM
+SDGRC,ESCAP_All countries,ESCAP_ALL,Mongolia,MNG
+SDGRC,ESCAP_All countries,ESCAP_ALL,Myanmar,MMR
+SDGRC,ESCAP_All countries,ESCAP_ALL,Nauru,NRU
+SDGRC,ESCAP_All countries,ESCAP_ALL,Nepal,NPL
+SDGRC,ESCAP_All countries,ESCAP_ALL,New Caledonia,NCL
+SDGRC,ESCAP_All countries,ESCAP_ALL,New Zealand,NZL
+SDGRC,ESCAP_All countries,ESCAP_ALL,Niue,NIU
+SDGRC,ESCAP_All countries,ESCAP_ALL,Northern Mariana Islands,MNP
+SDGRC,ESCAP_All countries,ESCAP_ALL,Pakistan,PAK
+SDGRC,ESCAP_All countries,ESCAP_ALL,Palau,PLW
+SDGRC,ESCAP_All countries,ESCAP_ALL,Papua New Guinea,PNG
+SDGRC,ESCAP_All countries,ESCAP_ALL,Philippines,PHL
+SDGRC,ESCAP_All countries,ESCAP_ALL,Republic of Korea,KOR
+SDGRC,ESCAP_All countries,ESCAP_ALL,Russian Federation,RUS
+SDGRC,ESCAP_All countries,ESCAP_ALL,Samoa,WSM
+SDGRC,ESCAP_All countries,ESCAP_ALL,Singapore,SGP
+SDGRC,ESCAP_All countries,ESCAP_ALL,Solomon Islands,SLB
+SDGRC,ESCAP_All countries,ESCAP_ALL,Sri Lanka,LKA
+SDGRC,ESCAP_All countries,ESCAP_ALL,Tajikistan,TJK
+SDGRC,ESCAP_All countries,ESCAP_ALL,Thailand,THA
+SDGRC,ESCAP_All countries,ESCAP_ALL,Timor-Leste,TLS
+SDGRC,ESCAP_All countries,ESCAP_ALL,Tonga,TON
+SDGRC,ESCAP_All countries,ESCAP_ALL,Turkmenistan,TKM
+SDGRC,ESCAP_All countries,ESCAP_ALL,Tuvalu,TUV
+SDGRC,ESCAP_All countries,ESCAP_ALL,Türkiye,TUR
+SDGRC,ESCAP_All countries,ESCAP_ALL,Uzbekistan,UZB
+SDGRC,ESCAP_All countries,ESCAP_ALL,Vanuatu,VUT
+SDGRC,ESCAP_All countries,ESCAP_ALL,Viet Nam,VNM
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Afghanistan,AFG
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,American Samoa,ASM
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Armenia,ARM
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Azerbaijan,AZE
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Bangladesh,BGD
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Bhutan,BTN
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Cambodia,KHM
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Cook Islands,COK
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Fiji,FJI
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,French Polynesia,PYF
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Guam,GUM
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Kazakhstan,KAZ
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Kiribati,KIR
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Kyrgyzstan,KGZ
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Lao People's Democratic Republic,LAO
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Maldives,MDV
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Marshall Islands,MHL
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Micronesia (Federated States of),FSM
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Mongolia,MNG
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Myanmar,MMR
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Nauru,NRU
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Nepal,NPL
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,New Caledonia,NCL
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Niue,NIU
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Northern Mariana Islands,MNP
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Palau,PLW
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Papua New Guinea,PNG
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Samoa,WSM
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Singapore,SGP
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Solomon Islands,SLB
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Tajikistan,TJK
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Timor-Leste,TLS
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Tonga,TON
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Turkmenistan,TKM
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Tuvalu,TUV
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Uzbekistan,UZB
+SDGRC,ESCAP_Countries with Special Needs,ESCAP_CSN,Vanuatu,VUT
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Afghanistan,AFG
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Azerbaijan,AZE
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Iran (Islamic Republic of),IRN
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Kazakhstan,KAZ
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Kyrgyzstan,KGZ
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Pakistan,PAK
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Tajikistan,TJK
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Turkmenistan,TKM
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Türkiye,TUR
+SDGRC,ESCAP_ECO (ECO),ESCAP_ECO,Uzbekistan,UZB
+SDGRC,ESCAP_East and North-East Asia (ENEA),ESCAP_ENEA,China,CHN
+SDGRC,ESCAP_East and North-East Asia (ENEA),ESCAP_ENEA,"China, Hong Kong Special Administrative Region",HKG
+SDGRC,ESCAP_East and North-East Asia (ENEA),ESCAP_ENEA,"China, Macao Special Administrative Region",MAC
+SDGRC,ESCAP_East and North-East Asia (ENEA),ESCAP_ENEA,Democratic People's Republic of Korea,PRK
+SDGRC,ESCAP_East and North-East Asia (ENEA),ESCAP_ENEA,Japan,JPN
+SDGRC,ESCAP_East and North-East Asia (ENEA),ESCAP_ENEA,Mongolia,MNG
+SDGRC,ESCAP_East and North-East Asia (ENEA),ESCAP_ENEA,Republic of Korea,KOR
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Albania,ALB
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Andorra,AND
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Austria,AUT
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Belarus,BLR
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Belgium,BEL
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Bosnia and Herzegovina,BIH
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Bulgaria,BGR
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Channel Islands,CHI
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Croatia,HRV
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Cyprus,CYP
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Czechia,CZE
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Denmark,DNK
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Estonia,EST
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Faroe Islands,FRO
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Finland,FIN
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,France,FRA
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Germany,DEU
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Gibraltar,GIB
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Greece,GRC
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Guernsey,GGY
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Holy See,VAT
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Hungary,HUN
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Iceland,ISL
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Ireland,IRL
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Isle of Man,IMN
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Italy,ITA
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Jersey,JEY
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Kosovo (UNSCR 1244),XKX
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Latvia,LVA
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Liechtenstein,LIE
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Lithuania,LTU
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Luxembourg,LUX
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Malta,MLT
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Monaco,MCO
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Montenegro,MNE
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Netherlands (Kingdom of the),NLD
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,North Macedonia,MKD
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Norway,NOR
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Poland,POL
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Portugal,PRT
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Republic of Moldova,MDA
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Romania,ROU
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Saint Barthélemy,BLM
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,San Marino,SMR
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Serbia,SRB
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Slovakia,SVK
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Slovenia,SVN
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Spain,ESP
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Svalbard and Jan Mayen Islands,SJM
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Sweden,SWE
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Switzerland,CHE
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Ukraine,UKR
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,United Kingdom,GBR
+SDGRC,ESCAP_Europe (Europe),ESCAP_EUROPE,Åland Islands,ALA
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Afghanistan,AFG
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Bangladesh,BGD
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Cambodia,KHM
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Kiribati,KIR
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Lao People's Democratic Republic,LAO
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Myanmar,MMR
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Nepal,NPL
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Solomon Islands,SLB
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Timor-Leste,TLS
+SDGRC,ESCAP_LDC (LDC_E),ESCAP_LDC,Tuvalu,TUV
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Afghanistan,AFG
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Armenia,ARM
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Azerbaijan,AZE
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Bhutan,BTN
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Kazakhstan,KAZ
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Kyrgyzstan,KGZ
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Lao People's Democratic Republic,LAO
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Mongolia,MNG
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Nepal,NPL
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Tajikistan,TJK
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Turkmenistan,TKM
+SDGRC,ESCAP_LLDC (LLDC_E),ESCAP_LLDC,Uzbekistan,UZB
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Anguilla,AIA
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Antigua and Barbuda,ATG
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Argentina,ARG
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Aruba,ABW
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Bahamas,BHS
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Barbados,BRB
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Belize,BLZ
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Bolivia (Plurinational State of),BOL
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,"Bonaire, Sint Eustatius and Saba",BES
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Brazil,BRA
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,British Virgin Islands,VGB
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Cayman Islands,CYM
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Chile,CHL
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Colombia,COL
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Costa Rica,CRI
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Cuba,CUB
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Curaçao,CUW
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Dominica,DMA
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Dominican Republic,DOM
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Ecuador,ECU
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,El Salvador,SLV
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Falkland Islands (Malvinas),FLK
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,French Guiana,GUF
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Grenada,GRD
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Guadeloupe,GLP
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Guatemala,GTM
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Guyana,GUY
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Haiti,HTI
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Honduras,HND
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Jamaica,JAM
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Martinique,MTQ
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Mexico,MEX
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Montserrat,MSR
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Netherlands Antilles,ANT
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Nicaragua,NIC
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Panama,PAN
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Paraguay,PRY
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Peru,PER
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Puerto Rico,PRI
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Saint Kitts and Nevis,KNA
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Saint Lucia,LCA
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Saint Martin (French part),MAF
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Saint Vincent and the Grenadines,VCT
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Sint Maarten,SXM
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Suriname,SUR
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Trinidad and Tobago,TTO
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Turks and Caicos Islands,TCA
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Uruguay,URY
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Venezuela (Bolivarian Republic of),VEN
+SDGRC,ESCAP_Latin America (LAC),ESCAP_LATIN_AMERICA,Virgin Islands U.S.,VIR
+SDGRC,ESCAP_North America (NAM),ESCAP_NORTH_AMERICA,Bermuda,BMU
+SDGRC,ESCAP_North America (NAM),ESCAP_NORTH_AMERICA,Canada,CAN
+SDGRC,ESCAP_North America (NAM),ESCAP_NORTH_AMERICA,Greenland,GRL
+SDGRC,ESCAP_North America (NAM),ESCAP_NORTH_AMERICA,Saint Pierre and Miquelon,SPM
+SDGRC,ESCAP_North America (NAM),ESCAP_NORTH_AMERICA,United States,USA
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Armenia,ARM
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Azerbaijan,AZE
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Georgia,GEO
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Kazakhstan,KAZ
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Kyrgyzstan,KGZ
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Russian Federation,RUS
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Tajikistan,TJK
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Turkmenistan,TKM
+SDGRC,ESCAP_North and Central Asia (NCA),ESCAP_NCA,Uzbekistan,UZB
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Antarctica,ATA
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Bahrain,BHR
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Bouvet Island,BVT
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,British Indian Ocean Territory,IOT
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Christmas Island,CXR
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Cocos (Keeling) Islands,CCK
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,French Southern Territories,ATF
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Heard Island and McDonald Islands,HMD
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Iraq,IRQ
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Israel,ISR
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Jordan,JOR
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Kuwait,KWT
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Lebanon,LBN
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Norfolk Island,NFK
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Oman,OMN
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Pitcairn,PCN
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Qatar,QAT
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Saudi Arabia,SAU
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,South Georgia and the South Sandwich Islands,SGS
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,State of Palestine,PSE
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Syrian Arab Republic,SYR
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Tokelau,TKL
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,United Arab Emirates,ARE
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,United States Minor Outlying Islands,UMI
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Wallis and Futuna,WLF
+SDGRC,ESCAP_Other Area (OTH_REGION),ESCAP_OTHER_AREA,Yemen,YEM
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,American Samoa,ASM
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Australia,AUS
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Cook Islands,COK
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Fiji,FJI
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,French Polynesia,PYF
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Guam,GUM
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Kiribati,KIR
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Marshall Islands,MHL
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Micronesia (Federated States of),FSM
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Nauru,NRU
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,New Caledonia,NCL
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,New Zealand,NZL
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Niue,NIU
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Northern Mariana Islands,MNP
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Palau,PLW
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Papua New Guinea,PNG
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Samoa,WSM
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Solomon Islands,SLB
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Tonga,TON
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Tuvalu,TUV
+SDGRC,ESCAP_PACIFIC (PAC),ESCAP_PACIFIC,Vanuatu,VUT
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,American Samoa,ASM
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Cook Islands,COK
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Fiji,FJI
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,French Polynesia,PYF
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Guam,GUM
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Kiribati,KIR
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Marshall Islands,MHL
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Micronesia (Federated States of),FSM
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Nauru,NRU
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,New Caledonia,NCL
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Niue,NIU
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Northern Mariana Islands,MNP
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Palau,PLW
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Papua New Guinea,PNG
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Samoa,WSM
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Solomon Islands,SLB
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Tonga,TON
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Tuvalu,TUV
+SDGRC,ESCAP_Pacific island developing economies (PIDE),ESCAP_PIDE,Vanuatu,VUT
+SDGRC,ESCAP_SAARC (SAARC),ESCAP_SAARC,Afghanistan,AFG
+SDGRC,ESCAP_SAARC (SAARC),ESCAP_SAARC,Bangladesh,BGD
+SDGRC,ESCAP_SAARC (SAARC),ESCAP_SAARC,Bhutan,BTN
+SDGRC,ESCAP_SAARC (SAARC),ESCAP_SAARC,India,IND
+SDGRC,ESCAP_SAARC (SAARC),ESCAP_SAARC,Maldives,MDV
+SDGRC,ESCAP_SAARC (SAARC),ESCAP_SAARC,Nepal,NPL
+SDGRC,ESCAP_SAARC (SAARC),ESCAP_SAARC,Pakistan,PAK
+SDGRC,ESCAP_SAARC (SAARC),ESCAP_SAARC,Sri Lanka,LKA
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,American Samoa,ASM
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Cook Islands,COK
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Fiji,FJI
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,French Polynesia,PYF
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Guam,GUM
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Kiribati,KIR
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Maldives,MDV
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Marshall Islands,MHL
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Micronesia (Federated States of),FSM
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Nauru,NRU
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,New Caledonia,NCL
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Niue,NIU
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Northern Mariana Islands,MNP
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Palau,PLW
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Papua New Guinea,PNG
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Samoa,WSM
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Singapore,SGP
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Solomon Islands,SLB
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Timor-Leste,TLS
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Tonga,TON
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Tuvalu,TUV
+SDGRC,ESCAP_Small Islands Developing States,ESCAP_SIDS,Vanuatu,VUT
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Afghanistan,AFG
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Bangladesh,BGD
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Bhutan,BTN
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,India,IND
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Iran (Islamic Republic of),IRN
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Maldives,MDV
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Nepal,NPL
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Pakistan,PAK
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Sri Lanka,LKA
+SDGRC,ESCAP_South and South-West Asia (SSWA),ESCAP_SSWA,Türkiye,TUR
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Brunei Darussalam,BRN
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Cambodia,KHM
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Indonesia,IDN
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Lao People's Democratic Republic,LAO
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Malaysia,MYS
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Myanmar,MMR
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Philippines,PHL
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Singapore,SGP
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Thailand,THA
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Timor-Leste,TLS
+SDGRC,ESCAP_South-East Asia (SEA),ESCAP_SEA,Viet Nam,VNM
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,American Samoa,ASM
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Australia,AUS
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Brunei Darussalam,BRN
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,"China, Hong Kong Special Administrative Region",HKG
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,"China, Macao Special Administrative Region",MAC
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,French Polynesia,PYF
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Guam,GUM
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Japan,JPN
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Nauru,NRU
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,New Caledonia,NCL
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,New Zealand,NZL
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Northern Mariana Islands,MNP
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Palau,PLW
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Republic of Korea,KOR
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Russian Federation,RUS
+SDGRC,ESCAP_WB High Income Economies,ESCAP_WB_HIGH,Singapore,SGP
+SDGRC,ESCAP_WB Low Income Economies,ESCAP_WB_LOW,Afghanistan,AFG
+SDGRC,ESCAP_WB Low Income Economies,ESCAP_WB_LOW,Democratic People's Republic of Korea,PRK
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Bangladesh,BGD
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Bhutan,BTN
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Cambodia,KHM
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,India,IND
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Kiribati,KIR
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Kyrgyzstan,KGZ
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Lao People's Democratic Republic,LAO
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Micronesia (Federated States of),FSM
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Myanmar,MMR
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Nepal,NPL
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Pakistan,PAK
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Papua New Guinea,PNG
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Philippines,PHL
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Samoa,WSM
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Solomon Islands,SLB
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Sri Lanka,LKA
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Tajikistan,TJK
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Timor-Leste,TLS
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Uzbekistan,UZB
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Vanuatu,VUT
+SDGRC,ESCAP_WB Lower Middle Income Economies,ESCAP_WB_LOWER_MID,Viet Nam,VNM
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Armenia,ARM
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Azerbaijan,AZE
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,China,CHN
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Fiji,FJI
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Georgia,GEO
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Indonesia,IDN
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Iran (Islamic Republic of),IRN
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Kazakhstan,KAZ
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Malaysia,MYS
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Maldives,MDV
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Marshall Islands,MHL
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Mongolia,MNG
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Thailand,THA
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Tonga,TON
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Turkmenistan,TKM
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Tuvalu,TUV
+SDGRC,ESCAP_WB Upper Middle Income Economies,ESCAP_WB_UPPER_MID,Türkiye,TUR
+SDGRC,ESCWA_Arab High-Income Countries (HICs),ESCWA_ARAB_HIGH,Bahrain,BHR
+SDGRC,ESCWA_Arab High-Income Countries (HICs),ESCWA_ARAB_HIGH,Kuwait,KWT
+SDGRC,ESCWA_Arab High-Income Countries (HICs),ESCWA_ARAB_HIGH,Oman,OMN
+SDGRC,ESCWA_Arab High-Income Countries (HICs),ESCWA_ARAB_HIGH,Qatar,QAT
+SDGRC,ESCWA_Arab High-Income Countries (HICs),ESCWA_ARAB_HIGH,Saudi Arabia,SAU
+SDGRC,ESCWA_Arab High-Income Countries (HICs),ESCWA_ARAB_HIGH,United Arab Emirates,ARE
+SDGRC,ESCWA_Arab LDCs subregion,ESCWA_LDC,Comoros,COM
+SDGRC,ESCWA_Arab LDCs subregion,ESCWA_LDC,Djibouti,DJI
+SDGRC,ESCWA_Arab LDCs subregion,ESCWA_LDC,Mauritania,MRT
+SDGRC,ESCWA_Arab LDCs subregion,ESCWA_LDC,Somalia,SOM
+SDGRC,ESCWA_Arab LDCs subregion,ESCWA_LDC,Sudan,SDN
+SDGRC,ESCWA_Arab LDCs subregion,ESCWA_LDC,Yemen,YEM
+SDGRC,ESCWA_Arab Low-Income Countries (LICs),ESCWA_ARAB_LOW,Somalia,SOM
+SDGRC,ESCWA_Arab Low-Income Countries (LICs),ESCWA_ARAB_LOW,Sudan,SDN
+SDGRC,ESCWA_Arab Low-Income Countries (LICs),ESCWA_ARAB_LOW,Syrian Arab Republic,SYR
+SDGRC,ESCWA_Arab Low-Income Countries (LICs),ESCWA_ARAB_LOW,Yemen,YEM
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Algeria,DZA
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Comoros,COM
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Djibouti,DJI
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Egypt,EGY
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Iraq,IRQ
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Jordan,JOR
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Lebanon,LBN
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Libya,LBY
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Mauritania,MRT
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Morocco,MAR
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,State of Palestine,PSE
+SDGRC,ESCWA_Arab Middle-Income Countries (MICs),ESCWA_ARAB_MID,Tunisia,TUN
+SDGRC,ESCWA_Arab countries,Arab,Algeria,DZA
+SDGRC,ESCWA_Arab countries,Arab,Bahrain,BHR
+SDGRC,ESCWA_Arab countries,Arab,Comoros,COM
+SDGRC,ESCWA_Arab countries,Arab,Djibouti,DJI
+SDGRC,ESCWA_Arab countries,Arab,Egypt,EGY
+SDGRC,ESCWA_Arab countries,Arab,Iraq,IRQ
+SDGRC,ESCWA_Arab countries,Arab,Jordan,JOR
+SDGRC,ESCWA_Arab countries,Arab,Kuwait,KWT
+SDGRC,ESCWA_Arab countries,Arab,Lebanon,LBN
+SDGRC,ESCWA_Arab countries,Arab,Libya,LBY
+SDGRC,ESCWA_Arab countries,Arab,Mauritania,MRT
+SDGRC,ESCWA_Arab countries,Arab,Morocco,MAR
+SDGRC,ESCWA_Arab countries,Arab,Oman,OMN
+SDGRC,ESCWA_Arab countries,Arab,Qatar,QAT
+SDGRC,ESCWA_Arab countries,Arab,Saudi Arabia,SAU
+SDGRC,ESCWA_Arab countries,Arab,Somalia,SOM
+SDGRC,ESCWA_Arab countries,Arab,State of Palestine,PSE
+SDGRC,ESCWA_Arab countries,Arab,Sudan,SDN
+SDGRC,ESCWA_Arab countries,Arab,Syrian Arab Republic,SYR
+SDGRC,ESCWA_Arab countries,Arab,Tunisia,TUN
+SDGRC,ESCWA_Arab countries,Arab,United Arab Emirates,ARE
+SDGRC,ESCWA_Arab countries,Arab,Yemen,YEM
+SDGRC,ESCWA_Countries in conflict,ESCWA_CONFLICT,Iraq,IRQ
+SDGRC,ESCWA_Countries in conflict,ESCWA_CONFLICT,Libya,LBY
+SDGRC,ESCWA_Countries in conflict,ESCWA_CONFLICT,Somalia,SOM
+SDGRC,ESCWA_Countries in conflict,ESCWA_CONFLICT,State of Palestine,PSE
+SDGRC,ESCWA_Countries in conflict,ESCWA_CONFLICT,Sudan,SDN
+SDGRC,ESCWA_Countries in conflict,ESCWA_CONFLICT,Syrian Arab Republic,SYR
+SDGRC,ESCWA_Countries in conflict,ESCWA_CONFLICT,Yemen,YEM
+SDGRC,ESCWA_Gulf Cooperation Council (GCC),ESCWA_GCC,Bahrain,BHR
+SDGRC,ESCWA_Gulf Cooperation Council (GCC),ESCWA_GCC,Kuwait,KWT
+SDGRC,ESCWA_Gulf Cooperation Council (GCC),ESCWA_GCC,Oman,OMN
+SDGRC,ESCWA_Gulf Cooperation Council (GCC),ESCWA_GCC,Qatar,QAT
+SDGRC,ESCWA_Gulf Cooperation Council (GCC),ESCWA_GCC,Saudi Arabia,SAU
+SDGRC,ESCWA_Gulf Cooperation Council (GCC),ESCWA_GCC,United Arab Emirates,ARE
+SDGRC,ESCWA_Maghreb subregion,ESCWA_MAGHREB,Algeria,DZA
+SDGRC,ESCWA_Maghreb subregion,ESCWA_MAGHREB,Libya,LBY
+SDGRC,ESCWA_Maghreb subregion,ESCWA_MAGHREB,Morocco,MAR
+SDGRC,ESCWA_Maghreb subregion,ESCWA_MAGHREB,Tunisia,TUN
+SDGRC,ESCWA_Mashreq subregion,ESCWA_MASHREQ,Egypt,EGY
+SDGRC,ESCWA_Mashreq subregion,ESCWA_MASHREQ,Iraq,IRQ
+SDGRC,ESCWA_Mashreq subregion,ESCWA_MASHREQ,Jordan,JOR
+SDGRC,ESCWA_Mashreq subregion,ESCWA_MASHREQ,Lebanon,LBN
+SDGRC,ESCWA_Mashreq subregion,ESCWA_MASHREQ,State of Palestine,PSE
+SDGRC,ESCWA_Mashreq subregion,ESCWA_MASHREQ,Syrian Arab Republic,SYR
+SDGRC,ESCWA_Non-conflict middle income countries,ESCWA_NOCONFLICT_MID,Algeria,DZA
+SDGRC,ESCWA_Non-conflict middle income countries,ESCWA_NOCONFLICT_MID,Egypt,EGY
+SDGRC,ESCWA_Non-conflict middle income countries,ESCWA_NOCONFLICT_MID,Jordan,JOR
+SDGRC,ESCWA_Non-conflict middle income countries,ESCWA_NOCONFLICT_MID,Lebanon,LBN
+SDGRC,ESCWA_Non-conflict middle income countries,ESCWA_NOCONFLICT_MID,Morocco,MAR
+SDGRC,ESCWA_Non-conflict middle income countries,ESCWA_NOCONFLICT_MID,Tunisia,TUN
