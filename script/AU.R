@@ -40,6 +40,13 @@ setnames(dc_au, "iso3", "ISO3Code")
 dc_au <- dc_au[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
 head(dc_au)
 table(dc_au$Region)
+
+# Africa (African Union)  Central Africa (African Union)  Eastern Africa (African Union) 
+# 55                               9                              14 
+# Northern Africa (African Union) Southern Africa (African Union)  Western Africa (African Union) 
+# 7                              10                              15 
+# 
+
 setorder(dc_au, Region_Code, Country)
 
 head(dc_au)

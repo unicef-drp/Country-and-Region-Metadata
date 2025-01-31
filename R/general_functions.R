@@ -15,12 +15,12 @@ bind.all.output <- function(){
   dir_output <- list.files("output", full.names = TRUE)
   dir_output <- dir_output[grepl(".csv", dir_output)]
   dir_output <- dir_output[!grepl("codebook", dir_output)]
-  dt_bind <- rbindlist(lapply(dir_output, fread))
+  dt_bind <- rbindlist(lapply(dir_output, fread), fill = TRUE)
   return(dt_bind)
 }
 
 create.code.book <- function(){
   dt_bind <- bind.all.output()
-  dt_code <- unique(dt_bind[,.(Regional_Grouping, Region_Code, Region)])
+  dt_code <- unique(dt_bind[,.(Regional_Grouping, Region_Code, Region, UNSD_Code)])
   fwrite(dt_code, "output/codebook_of_region_code_and_name.csv")
 }

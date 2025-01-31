@@ -14,7 +14,7 @@ dt_in <- dt_in[!is.na(ISO3)]
 setnames(dt_in, "UNECA Subregion", "Region")
 dt_in[, table(Region)]
 
-# it is the same as SDGRC
+# check: it is the same as SDGRC
 
 # rs <- unique(dt_in$Region)
 # dc[, Region:= gsub("ECA_", "", SDGRCRegion1)]
@@ -61,6 +61,7 @@ dt_rc[, Region:= gsub(": ", "_", RC_RegionName)]
 dt_rc[, Regional_Grouping:= parent_code]
 
 unique(dt_rc[Country!=Name,.(Country, Name)])
+
 # Country <--- we use                                                 Name
 # 1:                               United Kingdom United Kingdom of Great Britain and Northern Ireland
 # 2:                                United States                             United States of America
@@ -72,7 +73,31 @@ unique(dt_rc[Country!=Name,.(Country, Name)])
 # 8:                          Kosovo (UNSCR 1244)                                               Kosovo
 # 9:                            Wallis and Futuna                            Wallis and Futuna Islands
 
-dt_rc <- dt_rc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
+dt_rc <- dt_rc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, RC_UNSDCode)]
 setorder(dt_rc, Region, Country)
+setnames(dt_rc, "RC_UNSDCode", "UNSD_Code")
 
+dt_rc[, Region_Code := toupper(Region_Code)]
+dt_rc[, Region_Code := gsub(" ", "_", Region_Code)]
+dt_rc[, Region_Code := gsub("-", "_", Region_Code)]
+dt_rc[, Region_Code := paste0(Regional_Grouping, "_", Region_Code)]
+dt_rc[, unique(Region_Code)]
 fwrite(dt_rc, "output/SDGRC.csv")
+
+
+create.code.book()
+# 
+# ECA_regions <- c("ECA_ALL", "ECA_CA", "ECA_EA", "ECA_NA", "ECA_SA", "ECA_WA")
+# dt_rc[Region_Code %in% ECA_regions, table(Region)]
+
+# Region
+# ECA_All countries  ECA_Central Africa  ECA_Eastern Africa    ECA_North Africa ECA_Southern Africa     ECA_West Africa 
+# 54                   7                  14                   7                  11                  15 
+
+# Also different from M49
+# setdiff(sort(unique(dt_rc[Region == "ECA_All countries", ISO3Code])), sort(unique(dc[M49Region1 == "Africa", ISO3Code])))
+# setdiff(sort(unique(dt_rc[Region == "ECA_Central Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Middle Africa", ISO3Code])))
+# setdiff(sort(unique(dt_rc[Region == "ECA_Eastern Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Eastern Africa", ISO3Code])))
+# setdiff(sort(unique(dt_rc[Region == "ECA_North Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Northern Africa", ISO3Code])))
+# setdiff(sort(unique(dt_rc[Region == "ECA_Southern Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Southern Africa", ISO3Code])))
+# setdiff(sort(unique(dt_rc[Region == "ECA_West Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Western Africa", ISO3Code])))
