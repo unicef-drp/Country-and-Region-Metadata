@@ -47,6 +47,8 @@ dcname[!id %in% dt_rc$ISO3Code, ]
 
 dt_rc[is.na(ISO3Code), ISO3Code := dplyr::recode(M49, "736" = "SSD", "530" = "ANT", "830" = "CHI", "412" = "XKX")]
 dt_rc[is.na(ISO3Code), unique(Name)]
+dt_rc[duplicated(dt_rc)]
+
 # Drop:
 # [1] "Africa not elsewhere specified"            "Serbia and Montenegro [former]"           
 # [3] "Yugoslavia [former]"                       "Other non-specified areas in Eastern Asia"
@@ -82,6 +84,9 @@ dt_rc[, Region_Code := gsub(" ", "_", Region_Code)]
 dt_rc[, Region_Code := gsub("-", "_", Region_Code)]
 dt_rc[, Region_Code := paste0(Regional_Grouping, "_", Region_Code)]
 dt_rc[, unique(Region_Code)]
+
+dt_rc[duplicated(dt_rc), ]
+dt_rc <- unique(dt_rc)
 fwrite(dt_rc, "output/SDGRC.csv")
 
 
