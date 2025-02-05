@@ -20,8 +20,8 @@ We aim to align all the coding with the data warehouse.
 
 The output files from this project serve as inputs for downstream processes.
 The data is in a long format, where each region is mapped to all the `ISO3Code` values belonging to it.  
-**Format: **: 
-`Regional_Grouping`: uppercase, only connected by underscore, no hypen or space, e.g., "UNICEF_PROG_REG_GLOBAL"
+**Format:**   
+`Regional_Grouping`: uppercase, only connected by underscore, no hypen or space, e.g., "UNICEF_PROG_REG_GLOBAL"  
 `Region_Code`: same code as used by the data warehouse, uppercase, only connected by underscore, no hypen or space, and lead by `Regional_Grouping`. e.g.,"SDGRC_ESCWA_NOCONFLICT_MID""
 
 
