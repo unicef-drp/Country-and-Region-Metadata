@@ -1,0 +1,219 @@
+Regional_Grouping,Region,Region_Code,Country,ISO3Code
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,American Samoa,ASM
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Australia,AUS
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Brunei Darussalam,BRN
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Cambodia,KHM
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,China,CHN
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,"China, Hong Kong Special Administrative Region",HKG
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,"China, Macao Special Administrative Region",MAC
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,"China, Taiwan Province of China",TWN
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Democratic People's Republic of Korea,PRK
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Fiji,FJI
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,French Polynesia,PYF
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Guam,GUM
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Indonesia,IDN
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Japan,JPN
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Kiribati,KIR
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Lao People's Democratic Republic,LAO
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Malaysia,MYS
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Marshall Islands,MHL
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Micronesia (Federated States of),FSM
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Mongolia,MNG
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Myanmar,MMR
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Nauru,NRU
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,New Caledonia,NCL
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,New Zealand,NZL
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Northern Mariana Islands,MNP
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Palau,PLW
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Papua New Guinea,PNG
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Philippines,PHL
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Republic of Korea,KOR
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Samoa,WSM
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Singapore,SGP
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Solomon Islands,SLB
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Thailand,THA
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Timor-Leste,TLS
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Tonga,TON
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Tuvalu,TUV
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Vanuatu,VUT
+WB_REG_GLOBAL,East Asia and Pacific,WB_EAP,Viet Nam,VNM
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Albania,ALB
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Andorra,AND
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Armenia,ARM
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Austria,AUT
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Azerbaijan,AZE
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Belarus,BLR
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Belgium,BEL
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Bosnia and Herzegovina,BIH
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Bulgaria,BGR
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Channel Islands,CHI
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Croatia,HRV
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Cyprus,CYP
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Czechia,CZE
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Denmark,DNK
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Estonia,EST
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Faroe Islands,FRO
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Finland,FIN
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,France,FRA
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Georgia,GEO
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Germany,DEU
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Gibraltar,GIB
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Greece,GRC
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Greenland,GRL
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Hungary,HUN
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Iceland,ISL
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Ireland,IRL
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Isle of Man,IMN
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Italy,ITA
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Kazakhstan,KAZ
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Kosovo (UNSCR 1244),XKX
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Kyrgyzstan,KGZ
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Latvia,LVA
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Liechtenstein,LIE
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Lithuania,LTU
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Luxembourg,LUX
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Monaco,MCO
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Montenegro,MNE
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Netherlands (Kingdom of the),NLD
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,North Macedonia,MKD
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Norway,NOR
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Poland,POL
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Portugal,PRT
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Republic of Moldova,MDA
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Romania,ROU
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Russian Federation,RUS
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,San Marino,SMR
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Serbia,SRB
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Slovakia,SVK
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Slovenia,SVN
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Spain,ESP
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Sweden,SWE
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Switzerland,CHE
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Tajikistan,TJK
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Turkmenistan,TKM
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Türkiye,TUR
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Ukraine,UKR
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,United Kingdom,GBR
+WB_REG_GLOBAL,Europe and Central Asia,WB_ECA,Uzbekistan,UZB
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Antigua and Barbuda,ATG
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Argentina,ARG
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Aruba,ABW
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Bahamas,BHS
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Barbados,BRB
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Belize,BLZ
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Bolivia (Plurinational State of),BOL
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Brazil,BRA
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,British Virgin Islands,VGB
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Cayman Islands,CYM
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Chile,CHL
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Colombia,COL
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Costa Rica,CRI
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Cuba,CUB
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Curaçao,CUW
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Dominica,DMA
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Dominican Republic,DOM
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Ecuador,ECU
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,El Salvador,SLV
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Grenada,GRD
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Guatemala,GTM
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Guyana,GUY
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Haiti,HTI
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Honduras,HND
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Jamaica,JAM
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Mexico,MEX
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Nicaragua,NIC
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Panama,PAN
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Paraguay,PRY
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Peru,PER
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Puerto Rico,PRI
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Saint Kitts and Nevis,KNA
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Saint Lucia,LCA
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Saint Martin (French part),MAF
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Saint Vincent and the Grenadines,VCT
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Sint Maarten,SXM
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Suriname,SUR
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Trinidad and Tobago,TTO
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Turks and Caicos Islands,TCA
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Uruguay,URY
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Venezuela (Bolivarian Republic of),VEN
+WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Virgin Islands U.S.,VIR
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Algeria,DZA
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Bahrain,BHR
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Djibouti,DJI
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Egypt,EGY
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Iran (Islamic Republic of),IRN
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Iraq,IRQ
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Israel,ISR
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Jordan,JOR
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Kuwait,KWT
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Lebanon,LBN
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Libya,LBY
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Malta,MLT
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Morocco,MAR
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Oman,OMN
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Qatar,QAT
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Saudi Arabia,SAU
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,State of Palestine,PSE
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Syrian Arab Republic,SYR
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Tunisia,TUN
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,United Arab Emirates,ARE
+WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Yemen,YEM
+WB_REG_GLOBAL,North America,WB_NAR,Bermuda,BMU
+WB_REG_GLOBAL,North America,WB_NAR,Canada,CAN
+WB_REG_GLOBAL,North America,WB_NAR,United States,USA
+WB_REG_GLOBAL,South Asia,WB_SAR,Afghanistan,AFG
+WB_REG_GLOBAL,South Asia,WB_SAR,Bangladesh,BGD
+WB_REG_GLOBAL,South Asia,WB_SAR,Bhutan,BTN
+WB_REG_GLOBAL,South Asia,WB_SAR,India,IND
+WB_REG_GLOBAL,South Asia,WB_SAR,Maldives,MDV
+WB_REG_GLOBAL,South Asia,WB_SAR,Nepal,NPL
+WB_REG_GLOBAL,South Asia,WB_SAR,Pakistan,PAK
+WB_REG_GLOBAL,South Asia,WB_SAR,Sri Lanka,LKA
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Angola,AGO
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Benin,BEN
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Botswana,BWA
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Burkina Faso,BFA
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Burundi,BDI
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Cabo Verde,CPV
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Cameroon,CMR
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Central African Republic,CAF
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Chad,TCD
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Comoros,COM
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Congo,COG
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Côte d'Ivoire,CIV
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Democratic Republic of the Congo,COD
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Equatorial Guinea,GNQ
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Eritrea,ERI
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Eswatini,SWZ
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Ethiopia,ETH
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Gabon,GAB
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Gambia,GMB
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Ghana,GHA
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Guinea,GIN
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Guinea-Bissau,GNB
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Kenya,KEN
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Lesotho,LSO
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Liberia,LBR
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Madagascar,MDG
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Malawi,MWI
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Mali,MLI
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Mauritania,MRT
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Mauritius,MUS
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Mozambique,MOZ
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Namibia,NAM
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Niger,NER
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Nigeria,NGA
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Rwanda,RWA
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Sao Tome and Principe,STP
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Senegal,SEN
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Seychelles,SYC
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Sierra Leone,SLE
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Somalia,SOM
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,South Africa,ZAF
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,South Sudan,SSD
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Sudan,SDN
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Togo,TGO
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Uganda,UGA
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,United Republic of Tanzania,TZA
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Zambia,ZMB
+WB_REG_GLOBAL,Sub-Saharan Africa,WB_SSA,Zimbabwe,ZWE
