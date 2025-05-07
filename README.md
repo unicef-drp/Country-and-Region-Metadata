@@ -23,16 +23,20 @@ The output files from this project serve as inputs for downstream processes. The
 `Regional_Grouping`: uppercase, only connected by underscore, no hypen or space, e.g., "UNICEF_PROG_REG_GLOBAL"\
 `Region_Code`: same code as used by the data warehouse, uppercase, only connected by underscore, no hypen or space, and lead by `Regional_Grouping`. e.g.,"SDGRC_ESCWA_NOCONFLICT_MID"" ![image](https://github.com/user-attachments/assets/68087586-b0e1-4ca6-9d41-bd1c13066f32)
 
-**To pull all the output csv into one**
+### All the _csv_ outputs into one
 
+The combined file for all regions is also saved in the "Output" folder:
+https://raw.githubusercontent.com/unicef-drp/Country-and-Region-Metadata/refs/heads/main/output/all_regions_long_format.csv
+
+It can also be created easily using an existing function: 
 ```         
 library(data.table)
 source("R/general_functions.R")
 dt_all <- bind.all.output()
 ```
 
-**Easily reshaped into a wide format**\
-Reshape using `ISO3Code ~ Region_Code`. Then every row represents an ISO3Code/Country, and every region becomes a column
+### Easily reshaped into a wide format
+Reshape the long-format output using `ISO3Code ~ Region_Code`. Then every row represents an ISO3Code/Country, and every region becomes a column
 
 ```         
 
