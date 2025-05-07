@@ -1,4 +1,12 @@
-library(tidyverse)
+# To pull all output into one ------------------------------------------------
+
+library(data.table)
+source("R/general_functions.R")
+combined_data <- bind.all.output()
+
+
+# To pull selected output into one -------------------------------------------
+library("tidyverse")
 
 # Step 1: List your CSV URLs (RAW links)
 csv_urls <- c(
