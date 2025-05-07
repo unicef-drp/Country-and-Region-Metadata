@@ -17,11 +17,11 @@ bind.all.output <- function(){
   dir_output <- dir_output[!grepl("codebook", dir_output)]
   dir_output <- dir_output[!grepl("all_output", dir_output)]
   read.csv <- function(x){
-    dt1 <- fread(x)
+    dt1 <- data.table::fread(x)
     if(dt1[ISO3Code == "" | is.na(ISO3Code),.N] > 1)message("check ISO3Code in ", x)
     dt1
   }
-  dt_bind <- rbindlist(lapply(dir_output, read.csv), fill = TRUE)
+  dt_bind <- data.table::rbindlist(lapply(dir_output, read.csv), fill = TRUE)
   return(dt_bind)
 }
 
