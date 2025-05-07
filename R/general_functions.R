@@ -11,7 +11,7 @@ add.country.name <- function(dc, dcname){
 }
 
 # create codebook of region_code and region names
-bind.all.output <- function(){
+bind.all.output <- function(save_to_output = TRUE){
   dir_output <- list.files("output", full.names = TRUE)
   dir_output <- dir_output[grepl(".csv", dir_output)]
   dir_output <- dir_output[!grepl("codebook", dir_output)]
@@ -22,6 +22,8 @@ bind.all.output <- function(){
     dt1
   }
   dt_bind <- data.table::rbindlist(lapply(dir_output, read.csv), fill = TRUE)
+  if(save_to_output)
+    fwrite(dt_bind, "output/all_regions_long_format.csv")
   return(dt_bind)
 }
 
@@ -40,7 +42,7 @@ get.sdmx <- function(x){
 save.wide.format <- function(){
   dt_all_regions <- bind.all.output()[,.(ISO3Code, Region_Code, Region)]
   dt_wide <- dcast(dt_all_regions, ISO3Code ~ Region_Code, value.var = "Region")
-  fwrite(dt_wide, "output/all_output_wide_format.csv")
+  fwrite(dt_wide, "output/all_regions_wide_format.csv")
 }
 
 
