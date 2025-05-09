@@ -28,10 +28,10 @@ dt_rec <- data.table(
     rep("Southern African Development Community (SADC)", 16) # 5  # https://www.sadc.int/member-states (added 1)
   ),
   Country = c(
-    # AMU
+    # AMU (5)
     "Algeria", "Libya", "Mauritania", "Morocco", "Tunisia",
     
-    # COMESA
+    # COMESA (21)
     "Burundi", "Comoros", "Democratic Republic of the Congo", "Djibouti", "Egypt", "Eritrea", "Ethiopia", "Eswatini",
     "Kenya", "Libya", "Madagascar", "Malawi", "Mauritius", "Rwanda", "Seychelles",
     "Somalia", "Sudan",  "Tunisia",  "Uganda", "Zambia", "Zimbabwe",
