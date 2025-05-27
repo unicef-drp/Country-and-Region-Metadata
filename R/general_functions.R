@@ -15,13 +15,14 @@ bind.all.output <- function(save_to_output = TRUE){
   dir_output <- list.files("output", full.names = TRUE)
   dir_output <- dir_output[grepl(".csv", dir_output)]
   dir_output <- dir_output[!grepl("codebook", dir_output)]
-  dir_output <- dir_output[!grepl("all_output", dir_output)]
+  dir_output <- dir_output[!grepl("all_regions", dir_output)]
   read.csv <- function(x){
     dt1 <- data.table::fread(x)
     if(dt1[ISO3Code == "" | is.na(ISO3Code),.N] > 1)message("check ISO3Code in ", x)
     dt1
   }
   dt_bind <- data.table::rbindlist(lapply(dir_output, read.csv), fill = TRUE)
+  dt_bind <- dt_bind[!duplicated(dt_bind)]
   if(save_to_output)
     fwrite(dt_bind, "output/all_regions_long_format.csv")
   return(dt_bind)

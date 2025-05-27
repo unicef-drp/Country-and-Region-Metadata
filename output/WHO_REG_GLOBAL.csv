@@ -1,0 +1,201 @@
+Regional_Grouping,Region,Region_Code,Country,ISO3Code
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Algeria,DZA
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Angola,AGO
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Benin,BEN
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Botswana,BWA
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Burkina Faso,BFA
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Burundi,BDI
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Cabo Verde,CPV
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Cameroon,CMR
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Central African Republic,CAF
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Chad,TCD
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Comoros,COM
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Congo,COG
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Côte d'Ivoire,CIV
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Democratic Republic of the Congo,COD
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Equatorial Guinea,GNQ
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Eritrea,ERI
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Eswatini,SWZ
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Ethiopia,ETH
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Gabon,GAB
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Gambia,GMB
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Ghana,GHA
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Guinea,GIN
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Guinea-Bissau,GNB
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Kenya,KEN
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Lesotho,LSO
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Liberia,LBR
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Madagascar,MDG
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Malawi,MWI
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Mali,MLI
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Mauritania,MRT
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Mauritius,MUS
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Mozambique,MOZ
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Namibia,NAM
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Niger,NER
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Nigeria,NGA
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Rwanda,RWA
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Sao Tome and Principe,STP
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Senegal,SEN
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Seychelles,SYC
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Sierra Leone,SLE
+WHO_REG_GLOBAL,Africa,WHO_AFRO,South Africa,ZAF
+WHO_REG_GLOBAL,Africa,WHO_AFRO,South Sudan,SSD
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Togo,TGO
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Uganda,UGA
+WHO_REG_GLOBAL,Africa,WHO_AFRO,United Republic of Tanzania,TZA
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Zambia,ZMB
+WHO_REG_GLOBAL,Africa,WHO_AFRO,Zimbabwe,ZWE
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Anguilla,AIA
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Antigua and Barbuda,ATG
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Argentina,ARG
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Bahamas,BHS
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Barbados,BRB
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Belize,BLZ
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Bolivia (Plurinational State of),BOL
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Brazil,BRA
+WHO_REG_GLOBAL,Americas,WHO_AMRO,British Virgin Islands,VGB
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Canada,CAN
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Chile,CHL
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Colombia,COL
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Costa Rica,CRI
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Cuba,CUB
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Dominica,DMA
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Dominican Republic,DOM
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Ecuador,ECU
+WHO_REG_GLOBAL,Americas,WHO_AMRO,El Salvador,SLV
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Grenada,GRD
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Guatemala,GTM
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Guyana,GUY
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Haiti,HTI
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Honduras,HND
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Jamaica,JAM
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Mexico,MEX
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Montserrat,MSR
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Nicaragua,NIC
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Panama,PAN
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Paraguay,PRY
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Peru,PER
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Saint Kitts and Nevis,KNA
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Saint Lucia,LCA
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Saint Vincent and the Grenadines,VCT
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Suriname,SUR
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Trinidad and Tobago,TTO
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Turks and Caicos Islands,TCA
+WHO_REG_GLOBAL,Americas,WHO_AMRO,United States,USA
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Uruguay,URY
+WHO_REG_GLOBAL,Americas,WHO_AMRO,Venezuela (Bolivarian Republic of),VEN
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Afghanistan,AFG
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Bahrain,BHR
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Djibouti,DJI
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Egypt,EGY
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Iran (Islamic Republic of),IRN
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Iraq,IRQ
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Jordan,JOR
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Kuwait,KWT
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Lebanon,LBN
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Libya,LBY
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Morocco,MAR
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Oman,OMN
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Pakistan,PAK
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Qatar,QAT
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Saudi Arabia,SAU
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Somalia,SOM
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,State of Palestine,PSE
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Sudan,SDN
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Syrian Arab Republic,SYR
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Tunisia,TUN
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,United Arab Emirates,ARE
+WHO_REG_GLOBAL,Eastern Mediterranean,WHO_EMRO,Yemen,YEM
+WHO_REG_GLOBAL,Europe,WHO_EURO,Albania,ALB
+WHO_REG_GLOBAL,Europe,WHO_EURO,Andorra,AND
+WHO_REG_GLOBAL,Europe,WHO_EURO,Armenia,ARM
+WHO_REG_GLOBAL,Europe,WHO_EURO,Austria,AUT
+WHO_REG_GLOBAL,Europe,WHO_EURO,Azerbaijan,AZE
+WHO_REG_GLOBAL,Europe,WHO_EURO,Belarus,BLR
+WHO_REG_GLOBAL,Europe,WHO_EURO,Belgium,BEL
+WHO_REG_GLOBAL,Europe,WHO_EURO,Bosnia and Herzegovina,BIH
+WHO_REG_GLOBAL,Europe,WHO_EURO,Bulgaria,BGR
+WHO_REG_GLOBAL,Europe,WHO_EURO,Croatia,HRV
+WHO_REG_GLOBAL,Europe,WHO_EURO,Cyprus,CYP
+WHO_REG_GLOBAL,Europe,WHO_EURO,Czechia,CZE
+WHO_REG_GLOBAL,Europe,WHO_EURO,Denmark,DNK
+WHO_REG_GLOBAL,Europe,WHO_EURO,Estonia,EST
+WHO_REG_GLOBAL,Europe,WHO_EURO,Finland,FIN
+WHO_REG_GLOBAL,Europe,WHO_EURO,France,FRA
+WHO_REG_GLOBAL,Europe,WHO_EURO,Georgia,GEO
+WHO_REG_GLOBAL,Europe,WHO_EURO,Germany,DEU
+WHO_REG_GLOBAL,Europe,WHO_EURO,Greece,GRC
+WHO_REG_GLOBAL,Europe,WHO_EURO,Hungary,HUN
+WHO_REG_GLOBAL,Europe,WHO_EURO,Iceland,ISL
+WHO_REG_GLOBAL,Europe,WHO_EURO,Ireland,IRL
+WHO_REG_GLOBAL,Europe,WHO_EURO,Israel,ISR
+WHO_REG_GLOBAL,Europe,WHO_EURO,Italy,ITA
+WHO_REG_GLOBAL,Europe,WHO_EURO,Kazakhstan,KAZ
+WHO_REG_GLOBAL,Europe,WHO_EURO,Kosovo (UNSCR 1244),XKX
+WHO_REG_GLOBAL,Europe,WHO_EURO,Kyrgyzstan,KGZ
+WHO_REG_GLOBAL,Europe,WHO_EURO,Latvia,LVA
+WHO_REG_GLOBAL,Europe,WHO_EURO,Lithuania,LTU
+WHO_REG_GLOBAL,Europe,WHO_EURO,Luxembourg,LUX
+WHO_REG_GLOBAL,Europe,WHO_EURO,Malta,MLT
+WHO_REG_GLOBAL,Europe,WHO_EURO,Monaco,MCO
+WHO_REG_GLOBAL,Europe,WHO_EURO,Montenegro,MNE
+WHO_REG_GLOBAL,Europe,WHO_EURO,Netherlands (Kingdom of the),NLD
+WHO_REG_GLOBAL,Europe,WHO_EURO,North Macedonia,MKD
+WHO_REG_GLOBAL,Europe,WHO_EURO,Norway,NOR
+WHO_REG_GLOBAL,Europe,WHO_EURO,Poland,POL
+WHO_REG_GLOBAL,Europe,WHO_EURO,Portugal,PRT
+WHO_REG_GLOBAL,Europe,WHO_EURO,Republic of Moldova,MDA
+WHO_REG_GLOBAL,Europe,WHO_EURO,Romania,ROU
+WHO_REG_GLOBAL,Europe,WHO_EURO,Russian Federation,RUS
+WHO_REG_GLOBAL,Europe,WHO_EURO,San Marino,SMR
+WHO_REG_GLOBAL,Europe,WHO_EURO,Serbia,SRB
+WHO_REG_GLOBAL,Europe,WHO_EURO,Slovakia,SVK
+WHO_REG_GLOBAL,Europe,WHO_EURO,Slovenia,SVN
+WHO_REG_GLOBAL,Europe,WHO_EURO,Spain,ESP
+WHO_REG_GLOBAL,Europe,WHO_EURO,Sweden,SWE
+WHO_REG_GLOBAL,Europe,WHO_EURO,Switzerland,CHE
+WHO_REG_GLOBAL,Europe,WHO_EURO,Tajikistan,TJK
+WHO_REG_GLOBAL,Europe,WHO_EURO,Turkmenistan,TKM
+WHO_REG_GLOBAL,Europe,WHO_EURO,Türkiye,TUR
+WHO_REG_GLOBAL,Europe,WHO_EURO,Ukraine,UKR
+WHO_REG_GLOBAL,Europe,WHO_EURO,United Kingdom,GBR
+WHO_REG_GLOBAL,Europe,WHO_EURO,Uzbekistan,UZB
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Bangladesh,BGD
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Bhutan,BTN
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Democratic People's Republic of Korea,PRK
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,India,IND
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Maldives,MDV
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Myanmar,MMR
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Nepal,NPL
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Sri Lanka,LKA
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Thailand,THA
+WHO_REG_GLOBAL,South-East Asia,WHO_SEARO,Timor-Leste,TLS
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Australia,AUS
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Brunei Darussalam,BRN
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Cambodia,KHM
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,China,CHN
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Cook Islands,COK
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Fiji,FJI
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Indonesia,IDN
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Japan,JPN
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Kiribati,KIR
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Lao People's Democratic Republic,LAO
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Malaysia,MYS
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Marshall Islands,MHL
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Micronesia (Federated States of),FSM
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Mongolia,MNG
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Nauru,NRU
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,New Zealand,NZL
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Niue,NIU
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Palau,PLW
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Papua New Guinea,PNG
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Philippines,PHL
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Republic of Korea,KOR
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Samoa,WSM
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Singapore,SGP
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Solomon Islands,SLB
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Tonga,TON
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Tuvalu,TUV
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Vanuatu,VUT
+WHO_REG_GLOBAL,Western Pacific,WHO_WPRO,Viet Nam,VNM
