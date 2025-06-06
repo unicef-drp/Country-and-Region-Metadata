@@ -1,372 +1,372 @@
-id,name,description,parent,UNSD_Code
-AFG,Afghanistan,,,4
-ALB,Albania,,,8
-DZA,Algeria,,,12
-ASM,American Samoa,,,16
-AND,Andorra,,,20
-AGO,Angola,,,24
-AIA,Anguilla,,,660
-ATG,Antigua and Barbuda,,,28
-ARG,Argentina,,,32
-ARM,Armenia,,,51
-ABW,Aruba,,,533
-AUS,Australia,,,36
-AUT,Austria,,,40
-AZE,Azerbaijan,,,31
-BHS,Bahamas,,,44
-BHR,Bahrain,,,48
-BGD,Bangladesh,,,50
-BRB,Barbados,,,52
-BLR,Belarus,,,112
-BEL,Belgium,,,56
-BLZ,Belize,,,84
-BEN,Benin,,,204
-BMU,Bermuda,,,60
-BTN,Bhutan,,,64
-BOL,Bolivia (Plurinational State of),,,68
-BES,"Bonaire, Sint Eustatius and Saba",,,535
-BIH,Bosnia and Herzegovina,,,70
-BWA,Botswana,,,72
-BRA,Brazil,,,76
-VGB,British Virgin Islands,,,92
-BRN,Brunei Darussalam,,,96
-BGR,Bulgaria,,,100
-BFA,Burkina Faso,,,854
-BDI,Burundi,,,108
-CPV,Cabo Verde,,,132
-KHM,Cambodia,,,116
-CMR,Cameroon,,,120
-CAN,Canada,,,124
-CYM,Cayman Islands,,,136
-CAF,Central African Republic,,,140
-TCD,Chad,,,148
-CHI,Channel Islands,,,830
-CHL,Chile,,,152
-CHN,China,,,156
-HKG,"China, Hong Kong Special Administrative Region",,,344
-MAC,"China, Macao Special Administrative Region",,,446
-TWN,"China, Taiwan Province of China",,,158
-COL,Colombia,,,170
-COM,Comoros,,,174
-COG,Congo,,,178
-COK,Cook Islands,,,184
-CRI,Costa Rica,,,188
-HRV,Croatia,,,191
-CUB,Cuba,,,192
-CUW,Curaçao,,,531
-CYP,Cyprus,,,196
-CZE,Czechia,,,203
-CIV,Côte d'Ivoire,,,384
-PRK,Democratic People's Republic of Korea,,,408
-COD,Democratic Republic of the Congo,,,180
-DNK,Denmark,,,208
-DJI,Djibouti,,,262
-DMA,Dominica,,,212
-DOM,Dominican Republic,,,214
-ECU,Ecuador,,,218
-EGY,Egypt,,,818
-SLV,El Salvador,,,222
-GNQ,Equatorial Guinea,,,226
-ERI,Eritrea,,,232
-EST,Estonia,,,233
-SWZ,Eswatini,,,748
-ETH,Ethiopia,,,231
-FLK,Falkland Islands (Malvinas),,,238
-FRO,Faroe Islands,,,234
-FJI,Fiji,,,242
-FIN,Finland,,,246
-FRA,France,,,250
-GUF,French Guiana,,,254
-PYF,French Polynesia,,,258
-GAB,Gabon,,,266
-GMB,Gambia,,,270
-GEO,Georgia,,,268
-DEU,Germany,,,276
-GHA,Ghana,,,288
-GIB,Gibraltar,,,292
-GRC,Greece,,,300
-GRL,Greenland,,,304
-GRD,Grenada,,,308
-GLP,Guadeloupe,,,312
-GUM,Guam,,,316
-GTM,Guatemala,,,320
-GIN,Guinea,,,324
-GNB,Guinea-Bissau,,,624
-GUY,Guyana,,,328
-HTI,Haiti,,,332
-VAT,Holy See,,,336
-HND,Honduras,,,340
-HUN,Hungary,,,348
-ISL,Iceland,,,352
-IND,India,,,356
-IDN,Indonesia,,,360
-IRN,Iran (Islamic Republic of),,,364
-IRQ,Iraq,,,368
-IRL,Ireland,,,372
-IMN,Isle of Man,,,833
-ISR,Israel,,,376
-ITA,Italy,,,380
-JAM,Jamaica,,,388
-JPN,Japan,,,392
-JOR,Jordan,,,400
-KAZ,Kazakhstan,,,398
-KEN,Kenya,,,404
-KIR,Kiribati,,,296
-XKX,Kosovo (UNSCR 1244),,,412
-KWT,Kuwait,,,414
-KGZ,Kyrgyzstan,,,417
-LAO,Lao People's Democratic Republic,,,418
-LVA,Latvia,,,428
-LBN,Lebanon,,,422
-LSO,Lesotho,,,426
-LBR,Liberia,,,430
-LBY,Libya,,,434
-LIE,Liechtenstein,,,438
-LTU,Lithuania,,,440
-LUX,Luxembourg,,,442
-MDG,Madagascar,,,450
-MWI,Malawi,,,454
-MYS,Malaysia,,,458
-MDV,Maldives,,,462
-MLI,Mali,,,466
-MLT,Malta,,,470
-MHL,Marshall Islands,,,584
-MTQ,Martinique,,,474
-MRT,Mauritania,,,478
-MUS,Mauritius,,,480
-MYT,Mayotte,,,175
-MEX,Mexico,,,484
-FSM,Micronesia (Federated States of),,,583
-MCO,Monaco,,,492
-MNG,Mongolia,,,496
-MNE,Montenegro,,,499
-MSR,Montserrat,,,500
-MAR,Morocco,,,504
-MOZ,Mozambique,,,508
-MMR,Myanmar,,,104
-NAM,Namibia,,,516
-NRU,Nauru,,,520
-NPL,Nepal,,,524
-NLD,Netherlands (Kingdom of the),,,528
-NCL,New Caledonia,,,540
-NZL,New Zealand,,,554
-NIC,Nicaragua,,,558
-NER,Niger,,,562
-NGA,Nigeria,,,566
-NIU,Niue,,,570
-MKD,North Macedonia,,,807
-MNP,Northern Mariana Islands,,,580
-NOR,Norway,,,578
-OMN,Oman,,,512
-PAK,Pakistan,,,586
-PLW,Palau,,,585
-PAN,Panama,,,591
-PNG,Papua New Guinea,,,598
-PRY,Paraguay,,,600
-PER,Peru,,,604
-PHL,Philippines,,,608
-POL,Poland,,,616
-PRT,Portugal,,,620
-PRI,Puerto Rico,,,630
-QAT,Qatar,,,634
-KOR,Republic of Korea,,,410
-MDA,Republic of Moldova,,,498
-ROU,Romania,,,642
-RUS,Russian Federation,,,643
-RWA,Rwanda,,,646
-REU,Réunion,,,638
-BLM,Saint Barthélemy,,,652
-SHN,"Saint Helena, Ascension and Tristan da Cunha",,,654
-KNA,Saint Kitts and Nevis,,,659
-LCA,Saint Lucia,,,662
-MAF,Saint Martin (French part),,,663
-SPM,Saint Pierre and Miquelon,,,666
-VCT,Saint Vincent and the Grenadines,,,670
-WSM,Samoa,,,882
-SMR,San Marino,,,674
-STP,Sao Tome and Principe,,,678
-SAU,Saudi Arabia,,,682
-SEN,Senegal,,,686
-SRB,Serbia,,,688
-SYC,Seychelles,,,690
-SLE,Sierra Leone,,,694
-SGP,Singapore,,,702
-SXM,Sint Maarten,,,534
-SVK,Slovakia,,,703
-SVN,Slovenia,,,705
-SLB,Solomon Islands,,,90
-SOM,Somalia,,,706
-ZAF,South Africa,,,710
-SSD,South Sudan,,,728
-ESP,Spain,,,724
-LKA,Sri Lanka,,,144
-PSE,State of Palestine,,,275
-SDN,Sudan,,,729
-SUR,Suriname,,,740
-SWE,Sweden,,,752
-CHE,Switzerland,,,756
-SYR,Syrian Arab Republic,,,760
-TJK,Tajikistan,,,762
-THA,Thailand,,,764
-TLS,Timor-Leste,,,626
-TGO,Togo,,,768
-TKL,Tokelau,,,772
-TON,Tonga,,,776
-TTO,Trinidad and Tobago,,,780
-TUN,Tunisia,,,788
-TKM,Turkmenistan,,,795
-TCA,Turks and Caicos Islands,,,796
-TUV,Tuvalu,,,798
-TUR,Türkiye,,,792
-UGA,Uganda,,,800
-UKR,Ukraine,,,804
-ARE,United Arab Emirates,,,784
-GBR,United Kingdom,,,826
-TZA,United Republic of Tanzania,,,834
-USA,United States,,,840
-URY,Uruguay,,,858
-UZB,Uzbekistan,,,860
-VUT,Vanuatu,,,548
-VEN,Venezuela (Bolivarian Republic of),,,862
-VNM,Viet Nam,,,704
-VIR,Virgin Islands U.S.,,,850
-WLF,Wallis and Futuna,,,876
-YEM,Yemen,,,887
-ZMB,Zambia,,,894
-ZWE,Zimbabwe,,,716
-AU,African Union,,,1560
-AUREC,Regional Economic Communities,,,
-AUREC_CEN_SAD,Community of Sahel-Saharan States (CEN-SAD),,AUREC,
-AUREC_COMESA,Common Market for Eastern and Southern Africa (COMESA),,AUREC,
-AUREC_EAC,East African Community (EAC),,AUREC,1563
-AUREC_ECCAS,Economic Community of Central African States (ECCAS),,AUREC,1538
-AUREC_ECOWAS,Economic Community of West African States (ECOWAS),,AUREC,1540
-AUREC_IGAD,Intergovernmental Authority on Development (IGAD),,AUREC,
-AUREC_SADC,Southern African Development Community (SADC),,AUREC,1564
-AUREC_UMA,Arab Maghreb Union (UMA),,AUREC,
-AU_AFRICA,Africa (African Union),,AU,1560
-AU_CENTRAL_AFRICA,Central Africa (African Union),,AU,2080
-AU_EASTERN_AFRICA,Eastern Africa (African Union),,AU,2081
-AU_NORTHERN_AFRICA,Northern Africa (African Union),,AU,2082
-AU_SOUTHERN_AFRICA,Southern Africa (African Union),,AU,2083
-AU_WESTERN_AFRICA,Western Africa (African Union),,AU,2084
-FAO_GLOBAL,SOFI - Global,,,
-FAO_LIFDC,Low income food deficient countries,,FAO_GLOBAL,
-OECD,OECD,,,1505
-OECD_FRAGILEANY,OECD Fragile Contexts,,OECD,
-UNDEV_002,Africa,,UNDEV_GLOBAL,903
-UNDEV_005,South America,,UNDEV_GLOBAL,931
-UNDEV_009,Oceania,,UNDEV_GLOBAL,909
-UNDEV_011,Western Africa,,UNDEV_GLOBAL,914
-UNDEV_013,Central America,,UNDEV_GLOBAL,916
-UNDEV_014,Eastern Africa,,UNDEV_GLOBAL,910
-UNDEV_015,Northern Africa,,UNDEV_GLOBAL,912
-UNDEV_017,Middle Africa,,UNDEV_GLOBAL,911
-UNDEV_018,Southern Africa,,UNDEV_GLOBAL,913
-UNDEV_021,Northern America,,UNDEV_GLOBAL,905
-UNDEV_029,Caribbean,,UNDEV_GLOBAL,915
-UNDEV_030,Eastern Asia,,UNDEV_GLOBAL,906
-UNDEV_034,Southern Asia,,UNDEV_GLOBAL,5501
-UNDEV_035,South-eastern Asia,,UNDEV_GLOBAL,920
-UNDEV_053,Australia and New Zealand,,UNDEV_GLOBAL,927
-UNDEV_142,Asia,,UNDEV_GLOBAL,935
-UNDEV_143,Central Asia,,UNDEV_GLOBAL,5500
-UNDEV_145,Western Asia,,UNDEV_GLOBAL,922
-UNDEV_151,Eastern Europe,,UNDEV_GLOBAL,923
-UNDEV_154,Northern Europe,,UNDEV_GLOBAL,924
-UNDEV_155,Western Europe,,UNDEV_GLOBAL,926
-UNDEV_39,Southern Europe,,UNDEV_GLOBAL,925
-UNDEV_419,Latin America and the Caribbean,,UNDEV_GLOBAL,904
-UNDEV_54,Melanesia,,UNDEV_GLOBAL,928
-UNDEV_543,"Oceania, excluding Australia and New Zealand",,UNDEV_GLOBAL,
-UNDEV_57,Micronesia,,UNDEV_GLOBAL,954
-UNDEV_61,Polynesia,,UNDEV_GLOBAL,957
-UNDEV_GLOBAL,UN regions - Global,,,
-UNDEV_LD,Less Developed Regions,,UNDEV_GLOBAL,
-UNFPA_AP,Asia and the Pacific,,UNFPA_REGIONS,1610
-UNFPA_AS,Arab States,,UNFPA_REGIONS,1611
-UNFPA_EECA,Eastern Europe and Central Asia,,UNFPA_REGIONS,1612
-UNFPA_ESA,East and Southern Africa,,UNFPA_REGIONS,1703
-UNFPA_LAC,Latin America and the Caribbean,,UNFPA_REGIONS,1613
-UNFPA_REGIONS,UNFPA regions,,,1819
-UNFPA_WCA,West and Central Africa,,UNFPA_REGIONS,1704
-UNICEF_EAP,East Asia and Pacific,,UNICEF_REP_REG_GLOBAL,2036
-UNICEF_EAPRO,East Asia and Pacific,,UNICEF_PROG_REG_GLOBAL,1586
-UNICEF_EAPR_OPS,EAPR (operational region),,UNICEF_OPS_REG_GLOBAL,
-UNICEF_ECA,Europe and Central Asia,,UNICEF_REP_REG_GLOBAL,2034
-UNICEF_ECARO,Europe and Central Asia,,UNICEF_PROG_REG_GLOBAL,
-UNICEF_ECAR_OPS,ECAR (operational region),,UNICEF_OPS_REG_GLOBAL,
-UNICEF_EECA,Eastern Europe and Central Asia,,UNICEF_ECA,2034
-UNICEF_ESA,Eastern and Southern Africa,,UNICEF_SSA,2039
-UNICEF_ESARO,Eastern and Southern Africa,,UNICEF_PROG_REG_GLOBAL,1587
-UNICEF_ESAR_OPS,ESAR (operational region),,UNICEF_OPS_REG_GLOBAL,
-UNICEF_LAC,Latin America and the Caribbean,,UNICEF_REP_REG_GLOBAL,2031
-UNICEF_LACRO,Latin America and the Caribbean,,UNICEF_PROG_REG_GLOBAL,1589
-UNICEF_LACR_OPS,LACR (operational region),,UNICEF_OPS_REG_GLOBAL,
-UNICEF_MENA,Middle East and North Africa,,UNICEF_REP_REG_GLOBAL,2037
-UNICEF_MENARO,Middle East and North Africa,,UNICEF_PROG_REG_GLOBAL,1590
-UNICEF_MENA_OPS,MENA (operational region),,UNICEF_OPS_REG_GLOBAL,
-UNICEF_NA,North America,,UNICEF_REP_REG_GLOBAL,2032
-UNICEF_OPS_REG_GLOBAL,UNICEF operational regions,,,
-UNICEF_PROG_REG_GLOBAL,UNICEF Programme Regions - Global,,,1818
-UNICEF_REP_REG_GLOBAL,UNICEF reporting regions - Global,,,2035
-UNICEF_ROSA,South Asia,,UNICEF_PROG_REG_GLOBAL,1591
-UNICEF_ROSA_OPS,ROSA (operational region),,UNICEF_OPS_REG_GLOBAL,
-UNICEF_SA,South Asia,,UNICEF_REP_REG_GLOBAL,2038
-UNICEF_SSA,Sub-Saharan Africa,,UNICEF_REP_REG_GLOBAL,2033
-UNICEF_WCA,West and Central Africa,,UNICEF_SSA,2040
-UNICEF_WCARO,West and Central Africa,,UNICEF_PROG_REG_GLOBAL,1592
-UNICEF_WCAR_OPS,WCAR (operational region),,UNICEF_OPS_REG_GLOBAL,
-UNICEF_WE,Western Europe,,UNICEF_ECA,2030
-UNICEF_XCH,World excluding China,,UNICEF_REP_REG_GLOBAL,
-UNSDG_AUSTRALIANEWZEALAND,Australia and New Zealand,,UNSDG_REGION_GLOBAL,1836
-UNSDG_CARIBBEAN,Caribbean,,UNSDG_REGION_GLOBAL,
-UNSDG_CENTRALAMR,Central America,,UNSDG_REGION_GLOBAL,
-UNSDG_CENTRALASIA,Central Asia,,UNSDG_REGION_GLOBAL,
-UNSDG_CENTRALASIASOUTHERNASIA,Central and Southern Asia,,UNSDG_REGION_GLOBAL,1831
-UNSDG_EASTERNAFR,Eastern Africa,,UNSDG_REGION_GLOBAL,
-UNSDG_EASTERNASIA,Eastern Asia,,UNSDG_REGION_GLOBAL,
-UNSDG_EASTERNASIASOUTHEASTERNASIA,Eastern and South-Eastern Asia,,UNSDG_REGION_GLOBAL,1832
-UNSDG_EASTERNEUROPE,Eastern Europe,,UNSDG_REGION_GLOBAL,
-UNSDG_EUROPE,Europe,,UNSDG_REGION_GLOBAL,
-UNSDG_EUROPENORTHERNAMR,Europe and Northern America,,UNSDG_REGION_GLOBAL,1829
-UNSDG_LAC,Latin America and the Caribbean,,UNSDG_REGION_GLOBAL,1830
-UNSDG_LDC,Least developed countries,,UNSDG_REGION_GLOBAL,
-UNSDG_LLDC,Landlocked developing countries (LLDCs),,UNSDG_REGION_GLOBAL,
-UNSDG_MELANESIA,Melanesia,,UNSDG_REGION_GLOBAL,
-UNSDG_MIDDLEAFR,Middle Africa,,UNSDG_REGION_GLOBAL,
-UNSDG_NORTHAFR,Northern Africa,,UNSDG_REGION_GLOBAL,
-UNSDG_NORTHERNAMR,North America,,UNSDG_REGION_GLOBAL,
-UNSDG_OCEANIA,Oceania,,UNSDG_REGION_GLOBAL,
-UNSDG_OCEANIAexAUSNZL,"Oceania, excluding Australia and New Zealand",,UNSDG_REGION_GLOBAL,1835
-UNSDG_POLYNESIA,Polynesia,,UNSDG_REGION_GLOBAL,
-UNSDG_REGION_GLOBAL,SDG regions - Global,,,
-UNSDG_SIDS,Small Island Developing States (SIDS),,UNSDG_REGION_GLOBAL,
-UNSDG_SOUTHAMR,South America,,UNSDG_REGION_GLOBAL,
-UNSDG_SOUTHASIA,Southern Asia,,UNSDG_REGION_GLOBAL,
-UNSDG_SOUTHEASTERNASIA,South-Eastern Asia,,UNSDG_REGION_GLOBAL,
-UNSDG_SOUTHERNAFR,Southern Africa,,UNSDG_REGION_GLOBAL,
-UNSDG_SUBSAHARANAFRICA,Sub-Saharan Africa,,UNSDG_REGION_GLOBAL,1834
-UNSDG_WESTERNAFR,Western Africa,,UNSDG_REGION_GLOBAL,
-UNSDG_WESTERNASIA,Western Asia,,UNSDG_REGION_GLOBAL,
-UNSDG_WESTERNASIANORTHERNAFR,Northern Africa and Western Asia,,UNSDG_REGION_GLOBAL,1833
-WB_EAP,East Asia and Pacific,,WB_REG_GLOBAL,
-WB_HI,World Bank (high income),,WB_INCOME,
-WB_INCOME,World Bank income groups - Global,,,
-WB_LAC,Latin America and the Caribbean,,WB_REG_GLOBAL,
-WB_LI,World Bank (low income),,WB_INCOME,
-WB_LMI,World Bank (lower middle income),,WB_INCOME,
-WB_MNA,Middle East and North Africa,,WB_REG_GLOBAL,
-WB_NAR,North America,,WB_REG_GLOBAL,
-WB_REG_GLOBAL,World bank World - Global,,,
-WB_SAR,South Asia,,WB_REG_GLOBAL,
-WB_SSA,Sub-Saharan Africa,,WB_REG_GLOBAL,
-WB_UMI,World Bank (upper middle income),,WB_INCOME,
-WHO_AFRO,Africa,,WHO_REG_GLOBAL,1593
-WHO_AMRO,Americas,,WHO_REG_GLOBAL,1596
-WHO_EMRO,Eastern Mediterranean,,WHO_REG_GLOBAL,1595
-WHO_EURO,Europe,,WHO_REG_GLOBAL,1594
-WHO_REG_GLOBAL,World Health Organisation regions - Global,,,1820
-WHO_SEARO,Southeast Asia,,WHO_REG_GLOBAL,1597
-WHO_WPRO,Western Pacific,,WHO_REG_GLOBAL,1598
-WORLD,World,,,900
+id,name,description,parent,UNSD_Code,name_abbr
+AFG,Afghanistan,,,4,Afghanistan
+ALB,Albania,,,8,Albania
+DZA,Algeria,,,12,Algeria
+ASM,American Samoa,,,16,American Samoa
+AND,Andorra,,,20,Andorra
+AGO,Angola,,,24,Angola
+AIA,Anguilla,,,660,Anguilla
+ATG,Antigua and Barbuda,,,28,Antigua and Barbuda
+ARG,Argentina,,,32,Argentina
+ARM,Armenia,,,51,Armenia
+ABW,Aruba,,,533,Aruba
+AUS,Australia,,,36,Australia
+AUT,Austria,,,40,Austria
+AZE,Azerbaijan,,,31,Azerbaijan
+BHS,Bahamas,,,44,Bahamas
+BHR,Bahrain,,,48,Bahrain
+BGD,Bangladesh,,,50,Bangladesh
+BRB,Barbados,,,52,Barbados
+BLR,Belarus,,,112,Belarus
+BEL,Belgium,,,56,Belgium
+BLZ,Belize,,,84,Belize
+BEN,Benin,,,204,Benin
+BMU,Bermuda,,,60,Bermuda
+BTN,Bhutan,,,64,Bhutan
+BOL,Bolivia (Plurinational State of),,,68,Bolivia (Plurinational State of)
+BES,"Bonaire, Sint Eustatius and Saba",,,535,"Bonaire, Sint Eustatius and Saba"
+BIH,Bosnia and Herzegovina,,,70,Bosnia and Herzegovina
+BWA,Botswana,,,72,Botswana
+BRA,Brazil,,,76,Brazil
+VGB,British Virgin Islands,,,92,British Virgin Islands
+BRN,Brunei Darussalam,,,96,Brunei Darussalam
+BGR,Bulgaria,,,100,Bulgaria
+BFA,Burkina Faso,,,854,Burkina Faso
+BDI,Burundi,,,108,Burundi
+CPV,Cabo Verde,,,132,Cabo Verde
+KHM,Cambodia,,,116,Cambodia
+CMR,Cameroon,,,120,Cameroon
+CAN,Canada,,,124,Canada
+CYM,Cayman Islands,,,136,Cayman Islands
+CAF,Central African Republic,,,140,Central African Republic
+TCD,Chad,,,148,Chad
+CHI,Channel Islands,,,830,Channel Islands
+CHL,Chile,,,152,Chile
+CHN,China,,,156,China
+HKG,"China, Hong Kong Special Administrative Region",,,344,"China, Hong Kong Special Administrative Region"
+MAC,"China, Macao Special Administrative Region",,,446,"China, Macao Special Administrative Region"
+TWN,"China, Taiwan Province of China",,,158,"China, Taiwan Province of China"
+COL,Colombia,,,170,Colombia
+COM,Comoros,,,174,Comoros
+COG,Congo,,,178,Congo
+COK,Cook Islands,,,184,Cook Islands
+CRI,Costa Rica,,,188,Costa Rica
+HRV,Croatia,,,191,Croatia
+CUB,Cuba,,,192,Cuba
+CUW,Curaçao,,,531,Curaçao
+CYP,Cyprus,,,196,Cyprus
+CZE,Czechia,,,203,Czechia
+CIV,Côte d'Ivoire,,,384,Côte d'Ivoire
+PRK,Democratic People's Republic of Korea,,,408,Democratic People's Republic of Korea
+COD,Democratic Republic of the Congo,,,180,DR of the Congo
+DNK,Denmark,,,208,Denmark
+DJI,Djibouti,,,262,Djibouti
+DMA,Dominica,,,212,Dominica
+DOM,Dominican Republic,,,214,Dominican Republic
+ECU,Ecuador,,,218,Ecuador
+EGY,Egypt,,,818,Egypt
+SLV,El Salvador,,,222,El Salvador
+GNQ,Equatorial Guinea,,,226,Equatorial Guinea
+ERI,Eritrea,,,232,Eritrea
+EST,Estonia,,,233,Estonia
+SWZ,Eswatini,,,748,Eswatini
+ETH,Ethiopia,,,231,Ethiopia
+FLK,Falkland Islands (Malvinas),,,238,Falkland Islands (Malvinas)
+FRO,Faroe Islands,,,234,Faroe Islands
+FJI,Fiji,,,242,Fiji
+FIN,Finland,,,246,Finland
+FRA,France,,,250,France
+GUF,French Guiana,,,254,French Guiana
+PYF,French Polynesia,,,258,French Polynesia
+GAB,Gabon,,,266,Gabon
+GMB,Gambia,,,270,Gambia
+GEO,Georgia,,,268,Georgia
+DEU,Germany,,,276,Germany
+GHA,Ghana,,,288,Ghana
+GIB,Gibraltar,,,292,Gibraltar
+GRC,Greece,,,300,Greece
+GRL,Greenland,,,304,Greenland
+GRD,Grenada,,,308,Grenada
+GLP,Guadeloupe,,,312,Guadeloupe
+GUM,Guam,,,316,Guam
+GTM,Guatemala,,,320,Guatemala
+GIN,Guinea,,,324,Guinea
+GNB,Guinea-Bissau,,,624,Guinea-Bissau
+GUY,Guyana,,,328,Guyana
+HTI,Haiti,,,332,Haiti
+VAT,Holy See,,,336,Holy See
+HND,Honduras,,,340,Honduras
+HUN,Hungary,,,348,Hungary
+ISL,Iceland,,,352,Iceland
+IND,India,,,356,India
+IDN,Indonesia,,,360,Indonesia
+IRN,Iran (Islamic Republic of),,,364,Iran (Islamic Republic of)
+IRQ,Iraq,,,368,Iraq
+IRL,Ireland,,,372,Ireland
+IMN,Isle of Man,,,833,Isle of Man
+ISR,Israel,,,376,Israel
+ITA,Italy,,,380,Italy
+JAM,Jamaica,,,388,Jamaica
+JPN,Japan,,,392,Japan
+JOR,Jordan,,,400,Jordan
+KAZ,Kazakhstan,,,398,Kazakhstan
+KEN,Kenya,,,404,Kenya
+KIR,Kiribati,,,296,Kiribati
+XKX,Kosovo (UNSCR 1244),,,412,Kosovo (UNSCR 1244)
+KWT,Kuwait,,,414,Kuwait
+KGZ,Kyrgyzstan,,,417,Kyrgyzstan
+LAO,Lao People's Democratic Republic,,,418,Lao PDR
+LVA,Latvia,,,428,Latvia
+LBN,Lebanon,,,422,Lebanon
+LSO,Lesotho,,,426,Lesotho
+LBR,Liberia,,,430,Liberia
+LBY,Libya,,,434,Libya
+LIE,Liechtenstein,,,438,Liechtenstein
+LTU,Lithuania,,,440,Lithuania
+LUX,Luxembourg,,,442,Luxembourg
+MDG,Madagascar,,,450,Madagascar
+MWI,Malawi,,,454,Malawi
+MYS,Malaysia,,,458,Malaysia
+MDV,Maldives,,,462,Maldives
+MLI,Mali,,,466,Mali
+MLT,Malta,,,470,Malta
+MHL,Marshall Islands,,,584,Marshall Islands
+MTQ,Martinique,,,474,Martinique
+MRT,Mauritania,,,478,Mauritania
+MUS,Mauritius,,,480,Mauritius
+MYT,Mayotte,,,175,Mayotte
+MEX,Mexico,,,484,Mexico
+FSM,Micronesia (Federated States of),,,583,Micronesia (Federated States of)
+MCO,Monaco,,,492,Monaco
+MNG,Mongolia,,,496,Mongolia
+MNE,Montenegro,,,499,Montenegro
+MSR,Montserrat,,,500,Montserrat
+MAR,Morocco,,,504,Morocco
+MOZ,Mozambique,,,508,Mozambique
+MMR,Myanmar,,,104,Myanmar
+NAM,Namibia,,,516,Namibia
+NRU,Nauru,,,520,Nauru
+NPL,Nepal,,,524,Nepal
+NLD,Netherlands (Kingdom of the),,,528,Netherlands (Kingdom of the)
+NCL,New Caledonia,,,540,New Caledonia
+NZL,New Zealand,,,554,New Zealand
+NIC,Nicaragua,,,558,Nicaragua
+NER,Niger,,,562,Niger
+NGA,Nigeria,,,566,Nigeria
+NIU,Niue,,,570,Niue
+MKD,North Macedonia,,,807,North Macedonia
+MNP,Northern Mariana Islands,,,580,Northern Mariana Islands
+NOR,Norway,,,578,Norway
+OMN,Oman,,,512,Oman
+PAK,Pakistan,,,586,Pakistan
+PLW,Palau,,,585,Palau
+PAN,Panama,,,591,Panama
+PNG,Papua New Guinea,,,598,Papua New Guinea
+PRY,Paraguay,,,600,Paraguay
+PER,Peru,,,604,Peru
+PHL,Philippines,,,608,Philippines
+POL,Poland,,,616,Poland
+PRT,Portugal,,,620,Portugal
+PRI,Puerto Rico,,,630,Puerto Rico
+QAT,Qatar,,,634,Qatar
+KOR,Republic of Korea,,,410,Republic of Korea
+MDA,Republic of Moldova,,,498,Republic of Moldova
+ROU,Romania,,,642,Romania
+RUS,Russian Federation,,,643,Russian Federation
+RWA,Rwanda,,,646,Rwanda
+REU,Réunion,,,638,Réunion
+BLM,Saint Barthélemy,,,652,Saint Barthélemy
+SHN,"Saint Helena, Ascension and Tristan da Cunha",,,654,"Saint Helena, Ascension and Tristan da Cunha"
+KNA,Saint Kitts and Nevis,,,659,Saint Kitts and Nevis
+LCA,Saint Lucia,,,662,Saint Lucia
+MAF,Saint Martin (French part),,,663,Saint Martin (French part)
+SPM,Saint Pierre and Miquelon,,,666,Saint Pierre and Miquelon
+VCT,Saint Vincent and the Grenadines,,,670,Saint Vincent and the Grenadines
+WSM,Samoa,,,882,Samoa
+SMR,San Marino,,,674,San Marino
+STP,Sao Tome and Principe,,,678,Sao Tome and Principe
+SAU,Saudi Arabia,,,682,Saudi Arabia
+SEN,Senegal,,,686,Senegal
+SRB,Serbia,,,688,Serbia
+SYC,Seychelles,,,690,Seychelles
+SLE,Sierra Leone,,,694,Sierra Leone
+SGP,Singapore,,,702,Singapore
+SXM,Sint Maarten,,,534,Sint Maarten
+SVK,Slovakia,,,703,Slovakia
+SVN,Slovenia,,,705,Slovenia
+SLB,Solomon Islands,,,90,Solomon Islands
+SOM,Somalia,,,706,Somalia
+ZAF,South Africa,,,710,South Africa
+SSD,South Sudan,,,728,South Sudan
+ESP,Spain,,,724,Spain
+LKA,Sri Lanka,,,144,Sri Lanka
+PSE,State of Palestine,,,275,State of Palestine
+SDN,Sudan,,,729,Sudan
+SUR,Suriname,,,740,Suriname
+SWE,Sweden,,,752,Sweden
+CHE,Switzerland,,,756,Switzerland
+SYR,Syrian Arab Republic,,,760,Syrian Arab Rep.
+TJK,Tajikistan,,,762,Tajikistan
+THA,Thailand,,,764,Thailand
+TLS,Timor-Leste,,,626,Timor-Leste
+TGO,Togo,,,768,Togo
+TKL,Tokelau,,,772,Tokelau
+TON,Tonga,,,776,Tonga
+TTO,Trinidad and Tobago,,,780,Trinidad and Tobago
+TUN,Tunisia,,,788,Tunisia
+TKM,Turkmenistan,,,795,Turkmenistan
+TCA,Turks and Caicos Islands,,,796,Turks and Caicos Islands
+TUV,Tuvalu,,,798,Tuvalu
+TUR,Türkiye,,,792,Türkiye
+UGA,Uganda,,,800,Uganda
+UKR,Ukraine,,,804,Ukraine
+ARE,United Arab Emirates,,,784,United Arab Emirates
+GBR,United Kingdom,,,826,United Kingdom
+TZA,United Republic of Tanzania,,,834,United Republic of Tanzania
+USA,United States,,,840,United States
+URY,Uruguay,,,858,Uruguay
+UZB,Uzbekistan,,,860,Uzbekistan
+VUT,Vanuatu,,,548,Vanuatu
+VEN,Venezuela (Bolivarian Republic of),,,862,Venezuela (Bol. Rep. of)
+VNM,Viet Nam,,,704,Viet Nam
+VIR,Virgin Islands U.S.,,,850,Virgin Islands U.S.
+WLF,Wallis and Futuna,,,876,Wallis and Futuna
+YEM,Yemen,,,887,Yemen
+ZMB,Zambia,,,894,Zambia
+ZWE,Zimbabwe,,,716,Zimbabwe
+AU,African Union,,,1560,African Union
+AUREC,Regional Economic Communities,,,,Regional Economic Communities
+AUREC_CEN_SAD,Community of Sahel-Saharan States (CEN-SAD),,AUREC,,CEN-SAD
+AUREC_COMESA,Common Market for Eastern and Southern Africa (COMESA),,AUREC,,COMESA
+AUREC_EAC,East African Community (EAC),,AUREC,1563,EAC
+AUREC_ECCAS,Economic Community of Central African States (ECCAS),,AUREC,1538,ECCAS
+AUREC_ECOWAS,Economic Community of West African States (ECOWAS),,AUREC,1540,ECOWAS
+AUREC_IGAD,Intergovernmental Authority on Development (IGAD),,AUREC,,IGAD
+AUREC_SADC,Southern African Development Community (SADC),,AUREC,1564,SADS
+AUREC_UMA,Arab Maghreb Union (UMA),,AUREC,,UMA
+AU_AFRICA,Africa (African Union),,AU,1560,Africa (African Union)
+AU_CENTRAL_AFRICA,Central Africa (African Union),,AU,2080,Central Africa (African Union)
+AU_EASTERN_AFRICA,Eastern Africa (African Union),,AU,2081,Eastern Africa (African Union)
+AU_NORTHERN_AFRICA,Northern Africa (African Union),,AU,2082,Northern Africa (African Union)
+AU_SOUTHERN_AFRICA,Southern Africa (African Union),,AU,2083,Southern Africa (African Union)
+AU_WESTERN_AFRICA,Western Africa (African Union),,AU,2084,Western Africa (African Union)
+FAO_GLOBAL,SOFI - Global,,,,SOFI - Global
+FAO_LIFDC,Low income food deficient countries,,FAO_GLOBAL,,Low income food deficient countries
+OECD,OECD,,,1505,OECD
+OECD_FRAGILEANY,OECD Fragile Contexts,,OECD,,OECD Fragile Contexts
+UNDEV_002,Africa,,UNDEV_GLOBAL,903,Africa
+UNDEV_005,South America,,UNDEV_GLOBAL,931,South America
+UNDEV_009,Oceania,,UNDEV_GLOBAL,909,Oceania
+UNDEV_011,Western Africa,,UNDEV_GLOBAL,914,Western Africa
+UNDEV_013,Central America,,UNDEV_GLOBAL,916,Central America
+UNDEV_014,Eastern Africa,,UNDEV_GLOBAL,910,Eastern Africa
+UNDEV_015,Northern Africa,,UNDEV_GLOBAL,912,Northern Africa
+UNDEV_017,Middle Africa,,UNDEV_GLOBAL,911,Middle Africa
+UNDEV_018,Southern Africa,,UNDEV_GLOBAL,913,Southern Africa
+UNDEV_021,Northern America,,UNDEV_GLOBAL,905,Northern America
+UNDEV_029,Caribbean,,UNDEV_GLOBAL,915,Caribbean
+UNDEV_030,Eastern Asia,,UNDEV_GLOBAL,906,Eastern Asia
+UNDEV_034,Southern Asia,,UNDEV_GLOBAL,5501,Southern Asia
+UNDEV_035,South-eastern Asia,,UNDEV_GLOBAL,920,South-eastern Asia
+UNDEV_053,Australia and New Zealand,,UNDEV_GLOBAL,927,Australia and New Zealand
+UNDEV_142,Asia,,UNDEV_GLOBAL,935,Asia
+UNDEV_143,Central Asia,,UNDEV_GLOBAL,5500,Central Asia
+UNDEV_145,Western Asia,,UNDEV_GLOBAL,922,Western Asia
+UNDEV_151,Eastern Europe,,UNDEV_GLOBAL,923,Eastern Europe
+UNDEV_154,Northern Europe,,UNDEV_GLOBAL,924,Northern Europe
+UNDEV_155,Western Europe,,UNDEV_GLOBAL,926,Western Europe
+UNDEV_39,Southern Europe,,UNDEV_GLOBAL,925,Southern Europe
+UNDEV_419,Latin America and the Caribbean,,UNDEV_GLOBAL,904,Latin America and the Caribbean
+UNDEV_54,Melanesia,,UNDEV_GLOBAL,928,Melanesia
+UNDEV_543,"Oceania, excluding Australia and New Zealand",,UNDEV_GLOBAL,,"Oceania, excluding Australia and New Zealand"
+UNDEV_57,Micronesia,,UNDEV_GLOBAL,954,Micronesia
+UNDEV_61,Polynesia,,UNDEV_GLOBAL,957,Polynesia
+UNDEV_GLOBAL,UN regions - Global,,,,UN regions - Global
+UNDEV_LD,Less Developed Regions,,UNDEV_GLOBAL,,Less Developed Regions
+UNFPA_AP,Asia and the Pacific,,UNFPA_REGIONS,1610,Asia and the Pacific
+UNFPA_AS,Arab States,,UNFPA_REGIONS,1611,Arab States
+UNFPA_EECA,Eastern Europe and Central Asia,,UNFPA_REGIONS,1612,Eastern Europe and Central Asia
+UNFPA_ESA,East and Southern Africa,,UNFPA_REGIONS,1703,East and Southern Africa
+UNFPA_LAC,Latin America and the Caribbean,,UNFPA_REGIONS,1613,Latin America and the Caribbean
+UNFPA_REGIONS,UNFPA regions,,,1819,UNFPA regions
+UNFPA_WCA,West and Central Africa,,UNFPA_REGIONS,1704,West and Central Africa
+UNICEF_EAP,East Asia and Pacific,,UNICEF_REP_REG_GLOBAL,2036,East Asia and Pacific
+UNICEF_EAPRO,East Asia and Pacific,,UNICEF_PROG_REG_GLOBAL,1586,East Asia and Pacific
+UNICEF_EAPR_OPS,EAPR (operational region),,UNICEF_OPS_REG_GLOBAL,,EAPR (operational region)
+UNICEF_ECA,Europe and Central Asia,,UNICEF_REP_REG_GLOBAL,2034,Europe and Central Asia
+UNICEF_ECARO,Europe and Central Asia,,UNICEF_PROG_REG_GLOBAL,,Europe and Central Asia
+UNICEF_ECAR_OPS,ECAR (operational region),,UNICEF_OPS_REG_GLOBAL,,ECAR (operational region)
+UNICEF_EECA,Eastern Europe and Central Asia,,UNICEF_ECA,2034,Eastern Europe and Central Asia
+UNICEF_ESA,Eastern and Southern Africa,,UNICEF_SSA,2039,Eastern and Southern Africa
+UNICEF_ESARO,Eastern and Southern Africa,,UNICEF_PROG_REG_GLOBAL,1587,Eastern and Southern Africa
+UNICEF_ESAR_OPS,ESAR (operational region),,UNICEF_OPS_REG_GLOBAL,,ESAR (operational region)
+UNICEF_LAC,Latin America and the Caribbean,,UNICEF_REP_REG_GLOBAL,2031,Latin America and the Caribbean
+UNICEF_LACRO,Latin America and the Caribbean,,UNICEF_PROG_REG_GLOBAL,1589,Latin America and the Caribbean
+UNICEF_LACR_OPS,LACR (operational region),,UNICEF_OPS_REG_GLOBAL,,LACR (operational region)
+UNICEF_MENA,Middle East and North Africa,,UNICEF_REP_REG_GLOBAL,2037,Middle East and North Africa
+UNICEF_MENARO,Middle East and North Africa,,UNICEF_PROG_REG_GLOBAL,1590,Middle East and North Africa
+UNICEF_MENA_OPS,MENA (operational region),,UNICEF_OPS_REG_GLOBAL,,MENA (operational region)
+UNICEF_NA,North America,,UNICEF_REP_REG_GLOBAL,2032,North America
+UNICEF_OPS_REG_GLOBAL,UNICEF operational regions,,,,UNICEF operational regions
+UNICEF_PROG_REG_GLOBAL,UNICEF Programme Regions - Global,,,1818,UNICEF Programme Regions - Global
+UNICEF_REP_REG_GLOBAL,UNICEF reporting regions - Global,,,2035,UNICEF reporting regions - Global
+UNICEF_ROSA,South Asia,,UNICEF_PROG_REG_GLOBAL,1591,South Asia
+UNICEF_ROSA_OPS,ROSA (operational region),,UNICEF_OPS_REG_GLOBAL,,ROSA (operational region)
+UNICEF_SA,South Asia,,UNICEF_REP_REG_GLOBAL,2038,South Asia
+UNICEF_SSA,Sub-Saharan Africa,,UNICEF_REP_REG_GLOBAL,2033,Sub-Saharan Africa
+UNICEF_WCA,West and Central Africa,,UNICEF_SSA,2040,West and Central Africa
+UNICEF_WCARO,West and Central Africa,,UNICEF_PROG_REG_GLOBAL,1592,West and Central Africa
+UNICEF_WCAR_OPS,WCAR (operational region),,UNICEF_OPS_REG_GLOBAL,,WCAR (operational region)
+UNICEF_WE,Western Europe,,UNICEF_ECA,2030,Western Europe
+UNICEF_XCH,World excluding China,,UNICEF_REP_REG_GLOBAL,,World excluding China
+UNSDG_AUSTRALIANEWZEALAND,Australia and New Zealand,,UNSDG_REGION_GLOBAL,1836,Australia and New Zealand
+UNSDG_CARIBBEAN,Caribbean,,UNSDG_REGION_GLOBAL,,Caribbean
+UNSDG_CENTRALAMR,Central America,,UNSDG_REGION_GLOBAL,,Central America
+UNSDG_CENTRALASIA,Central Asia,,UNSDG_REGION_GLOBAL,,Central Asia
+UNSDG_CENTRALASIASOUTHERNASIA,Central and Southern Asia,,UNSDG_REGION_GLOBAL,1831,Central and Southern Asia
+UNSDG_EASTERNAFR,Eastern Africa,,UNSDG_REGION_GLOBAL,,Eastern Africa
+UNSDG_EASTERNASIA,Eastern Asia,,UNSDG_REGION_GLOBAL,,Eastern Asia
+UNSDG_EASTERNASIASOUTHEASTERNASIA,Eastern and South-Eastern Asia,,UNSDG_REGION_GLOBAL,1832,Eastern and South-Eastern Asia
+UNSDG_EASTERNEUROPE,Eastern Europe,,UNSDG_REGION_GLOBAL,,Eastern Europe
+UNSDG_EUROPE,Europe,,UNSDG_REGION_GLOBAL,,Europe
+UNSDG_EUROPENORTHERNAMR,Europe and Northern America,,UNSDG_REGION_GLOBAL,1829,Europe and Northern America
+UNSDG_LAC,Latin America and the Caribbean,,UNSDG_REGION_GLOBAL,1830,Latin America and the Caribbean
+UNSDG_LDC,Least developed countries,,UNSDG_REGION_GLOBAL,,Least developed countries
+UNSDG_LLDC,Landlocked developing countries (LLDCs),,UNSDG_REGION_GLOBAL,,Landlocked developing countries (LLDCs)
+UNSDG_MELANESIA,Melanesia,,UNSDG_REGION_GLOBAL,,Melanesia
+UNSDG_MIDDLEAFR,Middle Africa,,UNSDG_REGION_GLOBAL,,Middle Africa
+UNSDG_NORTHAFR,Northern Africa,,UNSDG_REGION_GLOBAL,,Northern Africa
+UNSDG_NORTHERNAMR,North America,,UNSDG_REGION_GLOBAL,,North America
+UNSDG_OCEANIA,Oceania,,UNSDG_REGION_GLOBAL,,Oceania
+UNSDG_OCEANIAexAUSNZL,"Oceania, excluding Australia and New Zealand",,UNSDG_REGION_GLOBAL,1835,"Oceania, excluding Australia and New Zealand"
+UNSDG_POLYNESIA,Polynesia,,UNSDG_REGION_GLOBAL,,Polynesia
+UNSDG_REGION_GLOBAL,SDG regions - Global,,,,SDG regions - Global
+UNSDG_SIDS,Small Island Developing States (SIDS),,UNSDG_REGION_GLOBAL,,Small Island Developing States (SIDS)
+UNSDG_SOUTHAMR,South America,,UNSDG_REGION_GLOBAL,,South America
+UNSDG_SOUTHASIA,Southern Asia,,UNSDG_REGION_GLOBAL,,Southern Asia
+UNSDG_SOUTHEASTERNASIA,South-Eastern Asia,,UNSDG_REGION_GLOBAL,,South-Eastern Asia
+UNSDG_SOUTHERNAFR,Southern Africa,,UNSDG_REGION_GLOBAL,,Southern Africa
+UNSDG_SUBSAHARANAFRICA,Sub-Saharan Africa,,UNSDG_REGION_GLOBAL,1834,Sub-Saharan Africa
+UNSDG_WESTERNAFR,Western Africa,,UNSDG_REGION_GLOBAL,,Western Africa
+UNSDG_WESTERNASIA,Western Asia,,UNSDG_REGION_GLOBAL,,Western Asia
+UNSDG_WESTERNASIANORTHERNAFR,Northern Africa and Western Asia,,UNSDG_REGION_GLOBAL,1833,Northern Africa and Western Asia
+WB_EAP,East Asia and Pacific,,WB_REG_GLOBAL,,East Asia and Pacific
+WB_HI,World Bank (high income),,WB_INCOME,,World Bank (high income)
+WB_INCOME,World Bank income groups - Global,,,,World Bank income groups - Global
+WB_LAC,Latin America and the Caribbean,,WB_REG_GLOBAL,,Latin America and the Caribbean
+WB_LI,World Bank (low income),,WB_INCOME,,World Bank (low income)
+WB_LMI,World Bank (lower middle income),,WB_INCOME,,World Bank (lower middle income)
+WB_MNA,Middle East and North Africa,,WB_REG_GLOBAL,,Middle East and North Africa
+WB_NAR,North America,,WB_REG_GLOBAL,,North America
+WB_REG_GLOBAL,World bank World - Global,,,,World bank World - Global
+WB_SAR,South Asia,,WB_REG_GLOBAL,,South Asia
+WB_SSA,Sub-Saharan Africa,,WB_REG_GLOBAL,,Sub-Saharan Africa
+WB_UMI,World Bank (upper middle income),,WB_INCOME,,World Bank (upper middle income)
+WHO_AFRO,Africa,,WHO_REG_GLOBAL,1593,Africa
+WHO_AMRO,Americas,,WHO_REG_GLOBAL,1596,Americas
+WHO_EMRO,Eastern Mediterranean,,WHO_REG_GLOBAL,1595,Eastern Mediterranean
+WHO_EURO,Europe,,WHO_REG_GLOBAL,1594,Europe
+WHO_REG_GLOBAL,World Health Organisation regions - Global,,,1820,World Health Organisation regions - Global
+WHO_SEARO,Southeast Asia,,WHO_REG_GLOBAL,1597,Southeast Asia
+WHO_WPRO,Western Pacific,,WHO_REG_GLOBAL,1598,Western Pacific
+WORLD,World,,,900,World
