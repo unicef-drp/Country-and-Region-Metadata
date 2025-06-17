@@ -244,7 +244,7 @@ AUREC_ECOWAS,Economic Community of West African States (ECOWAS),,AUREC,1540,ECOW
 AUREC_IGAD,Intergovernmental Authority on Development (IGAD),,AUREC,,IGAD
 AUREC_SADC,Southern African Development Community (SADC),,AUREC,1564,SADS
 AUREC_UMA,Arab Maghreb Union (UMA),,AUREC,,UMA
-AU_AFRICA,Africa (African Union),,AU,1560,Africa (African Union)
+AU_AFRICA,Africa (African Union),,AU,,Africa (African Union)
 AU_CENTRAL_AFRICA,Central Africa (African Union),,AU,2080,Central Africa (African Union)
 AU_EASTERN_AFRICA,Eastern Africa (African Union),,AU,2081,Eastern Africa (African Union)
 AU_NORTHERN_AFRICA,Northern Africa (African Union),,AU,2082,Northern Africa (African Union)
@@ -293,7 +293,7 @@ UNFPA_WCA,West and Central Africa,,UNFPA_REGIONS,1704,West and Central Africa
 UNICEF_EAP,East Asia and Pacific,,UNICEF_REP_REG_GLOBAL,2036,East Asia and Pacific
 UNICEF_EAPRO,East Asia and Pacific,,UNICEF_PROG_REG_GLOBAL,1586,East Asia and Pacific
 UNICEF_EAPR_OPS,EAPR (operational region),,UNICEF_OPS_REG_GLOBAL,,EAPR (operational region)
-UNICEF_ECA,Europe and Central Asia,,UNICEF_REP_REG_GLOBAL,2034,Europe and Central Asia
+UNICEF_ECA,Europe and Central Asia,,UNICEF_REP_REG_GLOBAL,2029,Europe and Central Asia
 UNICEF_ECARO,Europe and Central Asia,,UNICEF_PROG_REG_GLOBAL,,Europe and Central Asia
 UNICEF_ECAR_OPS,ECAR (operational region),,UNICEF_OPS_REG_GLOBAL,,ECAR (operational region)
 UNICEF_EECA,Eastern Europe and Central Asia,,UNICEF_ECA,2034,Eastern Europe and Central Asia
