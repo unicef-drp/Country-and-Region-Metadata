@@ -12,6 +12,18 @@ source("R/general_functions.R")
 
 # WB regions
 
+# https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
+# https://datacatalogapi.worldbank.org/ddhxext/ResourceDownload?resource_unique_id=DR0090755
+
+# Download from API (which is the same file as going to the website above and download the Excel file)
+url <- "https://datacatalogapi.worldbank.org/ddhxext/ResourceDownload?resource_unique_id=DR0090755"
+
+download.file(
+  url = "https://datacatalogapi.worldbank.org/ddhxext/ResourceDownload?resource_unique_id=DR0090755",
+  destfile = "raw_data/WB_REG_GLOBAL/CLASS_WB_FY2025.xlsx",  # or wbfile.zip if it's zipped
+  mode = "wb"
+)
+
 dtwb <- setDT(readxl::read_xlsx(file.path("raw_data/WB_REG_GLOBAL/CLASS_WB_FY2025.xlsx"), n_max = 218))
 setnames(dtwb, "Code", "ISO3Code")
 
@@ -27,6 +39,14 @@ unique(dtwb_reg$Region)
 # [1] "South Asia"                 "Europe & Central Asia"      "Middle East & North Africa"
 # [4] "East Asia & Pacific"        "Sub-Saharan Africa"         "Latin America & Caribbean" 
 # [7] "North America"  
+
+
+# Revision 6/24/2025 Afghanistan and Pakistan have changed World Bank regions
+dtwb_reg[ISO3Code == "AFG", Region := "Middle East & North Africa"]
+dtwb_reg[ISO3Code == "PAK", Region := "Middle East & North Africa"]
+
+
+
 
 dtwb_reg[, Region := gsub("&", "and", Region)]
 region_name_recode = c("Latin America and Caribbean" = "Latin America and the Caribbean")
@@ -64,6 +84,19 @@ dc[WBRegion4=="", unique(ISO3Code)]    # "VEN" is not classified this year
 dtwb_reg[, Regional_Grouping := parent_code1]
 dtwb_reg <- add.country.name(dtwb_reg)
 check.against.dc(dt_out = dtwb_reg, dc_col0 = "WBRegion1")
+
+# [1] "comparing ---  Middle East and North Africa  ---------- "
+# [1] "comparing ---  Sub-Saharan Africa  ---------- "
+# [1] "comparing ---  Europe and Central Asia  ---------- "
+# [1] "fyi: iso3 in output but not in dc (which is fine):  CHI, FRO, GIB, GRL, IMN"
+# [1] "comparing ---  Latin America and the Caribbean  ---------- "
+# [1] "fyi: iso3 in output but not in dc (which is fine):  ABW, CYM, CUW, PRI, MAF, SXM, VIR"
+# [1] "comparing ---  East Asia and Pacific  ---------- "
+# [1] "fyi: iso3 in output but not in dc (which is fine):  ASM, HKG, MAC, TWN, PYF, GUM, NCL, MNP"
+# [1] "comparing ---  South Asia  ---------- "
+# [1] "comparing ---  North America  ---------- "
+# [1] "fyi: iso3 in output but not in dc (which is fine):  BMU"
+ 
 fwrite(dtwb_reg, "output/WB_REG_GLOBAL.csv")
 
 # WB income
@@ -106,3 +139,6 @@ dtwb_income[, Region := dplyr::recode(Region_Code, !!!recode_id_to_name)]
 dtwb_income[, Regional_Grouping := parent_code2]
 dtwb_income <- add.country.name(dtwb_income)
 fwrite(dtwb_income, "output/WB_INCOME.csv")
+
+
+

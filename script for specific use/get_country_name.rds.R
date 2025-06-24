@@ -11,11 +11,11 @@ dcname <- dcname[nchar(id) == 3,.(id, name)]
 setnames(dcname, "name", "Country")
 saveRDS(dcname, "raw_data/SDMX_meta_info/country_name.rds")
 
-# setnames(dcname, c("ISO3Code", "Country"))
-# fwrite(dcname, "output/country_name.csv")
 
+# CME internal country.info for reference
 # # As I am checking against CM internal country.info
-# dc <- CME.assistant::get.country.info.CME(2024)
-# # remove all columns contain "pop"
-# dc <- dc[,!grep("pop", colnames(dc), value = TRUE), with = FALSE]
-# fwrite(dc, "raw_data/internal/country.info.CME.csv")
+dc <- CME.assistant::get.country.info.CME(2025)
+# remove all columns contain "pop"
+dc <- dc[,!grep("pop", colnames(dc), value = TRUE), with = FALSE]
+dc[ISO3Code == "RKS", ISO3Code := "XKX"] # Kosovo 
+fwrite(dc, "raw_data/internal/country.info.CME.csv")

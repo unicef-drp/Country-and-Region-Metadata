@@ -100,13 +100,19 @@ SDMX_recode <- c(
 sdmx_names <- dplyr::recode(sdmx_names, !!!SDMX_recode)
 
 sdmx_names[!sdmx_names %in% unique(dtr_level$Region)] # none 
-unique(dtr_level$Region)[!unique(dtr_level$Region) %in% sdmx_names] # "Oceania" "Eastern Asia" "Western Asia" "Northern Africa" "Southern Africa" "Central Asia" "South-Eastern Asia" "Western Europe" "Eastern Europe" "Northern America"
+unique(dtr_level$Region)[!unique(dtr_level$Region) %in% sdmx_names]  # none 
+# # "Oceania" "Eastern Asia" "Western Asia" "Northern Africa" "Southern Africa" "Central Asia" "South-Eastern Asia" "Western Europe" "Eastern Europe" "Northern America"
 # [1] "Africa"          "Americas"        "Asia"            "Northern Europe" "Southern Europe" "Western Europe" 
 # [7] "Micronesia" 
 
+dtr_level[is.na(ISO3Code) | ISO3Code == ""]
+dtr_level <- dtr_level[!is.na(ISO3Code) & ISO3Code != ""]
 
+# check against country code list --------------------------------------------
+dc <- fread("raw_data/internal/country.info.CME.csv")
 dc[!ISO3Code %in% dtr_level$ISO3Code, .(ISO3Code, OfficialName)]
 check.against.dc(dt_out = dtr_level, dc_col0 = "SDGSimpleRegion1")
+# [Check!] iso3 in country.info.CME but not in output: XKX # <- as expect
 
 dc_recode <- c(
   "South-Eastern Asia" = "South-eastern Asia",
@@ -115,6 +121,7 @@ dc_recode <- c(
 
 dc[, SDGSimpleRegion2 := dplyr::recode(SDGSimpleRegion2, !!!dc_recode)]
 dc[, SDGSimpleRegion3 := dplyr::recode(SDGSimpleRegion3, !!!dc_recode)]
+dc[, SDGRegion3 := dplyr::recode(SDGRegion3, !!!dc_recode)]
 dc[, M49Region2 := dplyr::recode(M49Region2, !!!dc_recode)]
 check.against.dc(dt_out = dtr_level, dc_col0 = "SDGSimpleRegion2")
 check.against.dc(dt_out = dtr_level, dc_col0 = "SDGSimpleRegion3")
@@ -138,3 +145,4 @@ setnames(dtr_SDG, "id", "Region_Code")
 setDT(dtr_SDG)[, Regional_Grouping := parent_code]
 dtr_SDG <- add.country.name(dtr_SDG)
 fwrite(dtr_SDG, "output/UNSDG_REGION_GLOBAL.csv")
+
