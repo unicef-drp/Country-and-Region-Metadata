@@ -5,7 +5,7 @@
 # https://https://www.fao.org/faostat/en/#definitions
 
 getwd()
-setwd("C:/Users/jconkle/Documents/GitHub/Country-and-Region-Metadata/")
+#setwd("C:/Users/jconkle/Documents/GitHub/Country-and-Region-Metadata/")
 
 # the "parent" code aligns with data warehouse sdmx meta info
 parent_code <- "FAO_GLOBAL"
@@ -32,7 +32,7 @@ setnames(dtr_level1, "Group M49 Code", "GROUP_M49_CODE")
 setnames(dtr_level1, "M49 Code", "M49_CODE")
 setnames(dtr_level1, "Country", "FAO_COUNTRY")
 
-# Drop regions
+# Keep regions
 regions_to_keep <- c("Net Food Importing Developing Countries (NFIDCs)" , 
                      "Low Income Food Deficit Countries (LIFDCs)", "World" )  
 dtr_level1 <- dtr_level1[Region %in% regions_to_keep]
