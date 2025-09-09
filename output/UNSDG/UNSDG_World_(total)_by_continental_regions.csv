@@ -1,0 +1,295 @@
+Regional_Grouping,Region,Region_Code,Area,Area_Code_M49,Type
+World_(total)_by_continental_regions,World (total) by continental regions,1,Antarctica,10,Country
+World_(total)_by_continental_regions,World (total) by continental regions,1,Africa,2,Region
+World_(total)_by_continental_regions,World (total) by continental regions,1,Americas,19,Region
+World_(total)_by_continental_regions,World (total) by continental regions,1,Asia,142,Region
+World_(total)_by_continental_regions,World (total) by continental regions,1,Oceania,9,Region
+World_(total)_by_continental_regions,World (total) by continental regions,1,Europe,150,Region
+World_(total)_by_continental_regions,Asia,142,Western Asia,145,Region
+World_(total)_by_continental_regions,Asia,142,Central Asia,143,Region
+World_(total)_by_continental_regions,Asia,142,Southern Asia,34,Region
+World_(total)_by_continental_regions,Asia,142,Eastern Asia,30,Region
+World_(total)_by_continental_regions,Asia,142,South-Eastern Asia,35,Region
+World_(total)_by_continental_regions,Americas,19,Northern America,21,Region
+World_(total)_by_continental_regions,Oceania,9,Melanesia,54,Region
+World_(total)_by_continental_regions,Oceania,9,Micronesia,57,Region
+World_(total)_by_continental_regions,Americas,19,Latin America and the Caribbean,419,Region
+World_(total)_by_continental_regions,Oceania,9,Australia and New Zealand,53,Region
+World_(total)_by_continental_regions,Europe,150,Eastern Europe,151,Region
+World_(total)_by_continental_regions,Europe,150,Northern Europe,154,Region
+World_(total)_by_continental_regions,Europe,150,Southern Europe,39,Region
+World_(total)_by_continental_regions,Oceania,9,Polynesia,61,Region
+World_(total)_by_continental_regions,Africa,2,Northern Africa,15,Region
+World_(total)_by_continental_regions,Africa,2,Sub-Saharan Africa,202,Region
+World_(total)_by_continental_regions,Europe,150,Western Europe,155,Region
+World_(total)_by_continental_regions,Central Asia,143,Kyrgyzstan,417,Country
+World_(total)_by_continental_regions,Central Asia,143,Kazakhstan,398,Country
+World_(total)_by_continental_regions,Western Asia,145,Iraq (Kurdistan Region),370,Country
+World_(total)_by_continental_regions,Western Asia,145,Iraq (Central Iraq),369,Country
+World_(total)_by_continental_regions,Western Asia,145,Yemen,887,Country
+World_(total)_by_continental_regions,Western Asia,145,United Arab Emirates,784,Country
+World_(total)_by_continental_regions,Western Asia,145,Türkiye,792,Country
+World_(total)_by_continental_regions,Western Asia,145,Syrian Arab Republic,760,Country
+World_(total)_by_continental_regions,Western Asia,145,Saudi Arabia,682,Country
+World_(total)_by_continental_regions,Western Asia,145,Qatar,634,Country
+World_(total)_by_continental_regions,Western Asia,145,Oman,512,Country
+World_(total)_by_continental_regions,Central Asia,143,Tajikistan,762,Country
+World_(total)_by_continental_regions,Western Asia,145,Kuwait,414,Country
+World_(total)_by_continental_regions,Western Asia,145,Jordan,400,Country
+World_(total)_by_continental_regions,Western Asia,145,Israel,376,Country
+World_(total)_by_continental_regions,Western Asia,145,Iraq,368,Country
+World_(total)_by_continental_regions,Western Asia,145,Georgia,268,Country
+World_(total)_by_continental_regions,Western Asia,145,Cyprus,196,Country
+World_(total)_by_continental_regions,Western Asia,145,Azerbaijan,31,Country
+World_(total)_by_continental_regions,Western Asia,145,Armenia,51,Country
+World_(total)_by_continental_regions,Western Asia,145,State of Palestine,275,Country
+World_(total)_by_continental_regions,Western Asia,145,Lebanon,422,Country
+World_(total)_by_continental_regions,Central Asia,143,Uzbekistan,860,Country
+World_(total)_by_continental_regions,Southern Asia,34,Afghanistan,4,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Viet Nam,704,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Timor-Leste,626,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Thailand,764,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Singapore,702,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Philippines,608,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Myanmar,104,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Malaysia,458,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Lao People's Democratic Republic,418,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Indonesia,360,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Cambodia,116,Country
+World_(total)_by_continental_regions,South-Eastern Asia,35,Brunei Darussalam,96,Country
+World_(total)_by_continental_regions,Eastern Asia,30,Other non-specified areas in Eastern Asia,158,Country
+World_(total)_by_continental_regions,Central Asia,143,Turkmenistan,795,Country
+World_(total)_by_continental_regions,Eastern Asia,30,Mongolia,496,Country
+World_(total)_by_continental_regions,Eastern Asia,30,Democratic People's Republic of Korea,408,Country
+World_(total)_by_continental_regions,Eastern Asia,30,Japan,392,Country
+World_(total)_by_continental_regions,Eastern Asia,30,"China, Macao Special Administrative Region",446,Country
+World_(total)_by_continental_regions,Eastern Asia,30,"China, Hong Kong Special Administrative Region",344,Country
+World_(total)_by_continental_regions,Eastern Asia,30,China,156,Country
+World_(total)_by_continental_regions,Southern Asia,34,Sri Lanka,144,Country
+World_(total)_by_continental_regions,Southern Asia,34,Pakistan,586,Country
+World_(total)_by_continental_regions,Southern Asia,34,Maldives,462,Country
+World_(total)_by_continental_regions,Southern Asia,34,Iran (Islamic Republic of),364,Country
+World_(total)_by_continental_regions,Southern Asia,34,India,356,Country
+World_(total)_by_continental_regions,Southern Asia,34,Bhutan,64,Country
+World_(total)_by_continental_regions,Southern Asia,34,Bangladesh,50,Country
+World_(total)_by_continental_regions,Eastern Asia,30,Republic of Korea,410,Country
+World_(total)_by_continental_regions,Southern Asia,34,Nepal,524,Country
+World_(total)_by_continental_regions,Western Asia,145,Bahrain,48,Country
+World_(total)_by_continental_regions,Western Europe,155,Belgium and Luxembourg,99041,Other areas
+World_(total)_by_continental_regions,Northern Europe,154,Sark,680,Country
+World_(total)_by_continental_regions,Northern Europe,154,Channel Islands,830,Region
+World_(total)_by_continental_regions,Northern Europe,154,Sweden,752,Country
+World_(total)_by_continental_regions,Northern Europe,154,Svalbard and Jan Mayen Islands,744,Country
+World_(total)_by_continental_regions,Northern Europe,154,Norway,578,Country
+World_(total)_by_continental_regions,Northern Europe,154,Lithuania,440,Country
+World_(total)_by_continental_regions,Northern Europe,154,Latvia,428,Country
+World_(total)_by_continental_regions,Northern Europe,154,Jersey,832,Country
+World_(total)_by_continental_regions,Northern Europe,154,Isle of Man,833,Country
+World_(total)_by_continental_regions,Northern Europe,154,Ireland,372,Country
+World_(total)_by_continental_regions,Northern Europe,154,Iceland,352,Country
+World_(total)_by_continental_regions,Northern Europe,154,Guernsey,831,Country
+World_(total)_by_continental_regions,Northern Europe,154,Finland,246,Country
+World_(total)_by_continental_regions,Northern Europe,154,United Kingdom (England and Wales),827,Country
+World_(total)_by_continental_regions,Northern Europe,154,Faroe Islands,234,Country
+World_(total)_by_continental_regions,Northern Europe,154,Denmark,208,Country
+World_(total)_by_continental_regions,Northern Europe,154,Åland Islands,248,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Ukraine,804,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Slovakia,703,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Russian Federation,643,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Romania,642,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Poland,616,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Republic of Moldova,498,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Hungary,348,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Czechia,203,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Bulgaria,100,Country
+World_(total)_by_continental_regions,Eastern Europe,151,Belarus,112,Country
+World_(total)_by_continental_regions,Western Europe,155,Switzerland,756,Country
+World_(total)_by_continental_regions,Northern Europe,154,Estonia,233,Country
+World_(total)_by_continental_regions,Northern Europe,154,United Kingdom (Northern Ireland),828,Country
+World_(total)_by_continental_regions,Northern Europe,154,United Kingdom of Great Britain and Northern Ireland,826,Country
+World_(total)_by_continental_regions,Southern Europe,39,Albania,8,Country
+World_(total)_by_continental_regions,Western Europe,155,Netherlands (Kingdom of the),528,Country
+World_(total)_by_continental_regions,Western Europe,155,Monaco,492,Country
+World_(total)_by_continental_regions,Western Europe,155,Luxembourg,442,Country
+World_(total)_by_continental_regions,Western Europe,155,Liechtenstein,438,Country
+World_(total)_by_continental_regions,Western Europe,155,Germany,276,Country
+World_(total)_by_continental_regions,Western Europe,155,France,250,Country
+World_(total)_by_continental_regions,Western Europe,155,Belgium,56,Country
+World_(total)_by_continental_regions,Northern Europe,154,United Kingdom (Scotland),829,Country
+World_(total)_by_continental_regions,Southern Europe,39,Yugoslavia [former],890,Country
+World_(total)_by_continental_regions,Southern Europe,39,Serbia and Montenegro [former],891,Country
+World_(total)_by_continental_regions,Southern Europe,39,Kosovo,412,Country
+World_(total)_by_continental_regions,Southern Europe,39,Spain,724,Country
+World_(total)_by_continental_regions,Southern Europe,39,Slovenia,705,Country
+World_(total)_by_continental_regions,Western Europe,155,Austria,40,Country
+World_(total)_by_continental_regions,Southern Europe,39,San Marino,674,Country
+World_(total)_by_continental_regions,Southern Europe,39,Portugal,620,Country
+World_(total)_by_continental_regions,Southern Europe,39,Montenegro,499,Country
+World_(total)_by_continental_regions,Southern Europe,39,Malta,470,Country
+World_(total)_by_continental_regions,Southern Europe,39,North Macedonia,807,Country
+World_(total)_by_continental_regions,Southern Europe,39,Italy,380,Country
+World_(total)_by_continental_regions,Southern Europe,39,Holy See,336,Country
+World_(total)_by_continental_regions,Southern Europe,39,Greece,300,Country
+World_(total)_by_continental_regions,Southern Europe,39,Gibraltar,292,Country
+World_(total)_by_continental_regions,Southern Europe,39,Andorra,20,Country
+World_(total)_by_continental_regions,Southern Europe,39,Croatia,191,Country
+World_(total)_by_continental_regions,Southern Europe,39,Serbia,688,Country
+World_(total)_by_continental_regions,Southern Europe,39,Bosnia and Herzegovina,70,Country
+World_(total)_by_continental_regions,Latin America and the Caribbean,419,Caribbean,29,Region
+World_(total)_by_continental_regions,Latin America and the Caribbean,419,Central America,13,Region
+World_(total)_by_continental_regions,Latin America and the Caribbean,419,South America,5,Region
+World_(total)_by_continental_regions,Northern America,21,Canada,124,Country
+World_(total)_by_continental_regions,Northern America,21,Saint Pierre and Miquelon,666,Country
+World_(total)_by_continental_regions,Northern America,21,Greenland,304,Country
+World_(total)_by_continental_regions,Northern America,21,Bermuda,60,Country
+World_(total)_by_continental_regions,Northern America,21,United States of America,840,Country
+World_(total)_by_continental_regions,Sub-Saharan Africa,202,Eastern Africa,14,Region
+World_(total)_by_continental_regions,Sub-Saharan Africa,202,Middle Africa,17,Region
+World_(total)_by_continental_regions,Sub-Saharan Africa,202,Southern Africa,18,Region
+World_(total)_by_continental_regions,Sub-Saharan Africa,202,Western Africa,11,Region
+World_(total)_by_continental_regions,Northern Africa,15,Sudan [former],736,Country
+World_(total)_by_continental_regions,Northern Africa,15,Western Sahara,732,Country
+World_(total)_by_continental_regions,Northern Africa,15,Tunisia,788,Country
+World_(total)_by_continental_regions,Northern Africa,15,Sudan,729,Country
+World_(total)_by_continental_regions,Northern Africa,15,Morocco,504,Country
+World_(total)_by_continental_regions,Northern Africa,15,Libya,434,Country
+World_(total)_by_continental_regions,Northern Africa,15,Egypt,818,Country
+World_(total)_by_continental_regions,Northern Africa,15,Algeria,12,Country
+World_(total)_by_continental_regions,Western Africa,11,Nigeria,566,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Malawi,454,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Mauritius,480,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Mayotte,175,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Mozambique,508,Country
+World_(total)_by_continental_regions,Western Africa,11,Senegal,686,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Rwanda,646,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Seychelles,690,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Madagascar,450,Country
+World_(total)_by_continental_regions,Eastern Africa,14,South Sudan,728,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Réunion,638,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Kenya,404,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Eritrea,232,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Ethiopia,231,Country
+World_(total)_by_continental_regions,Eastern Africa,14,United Republic of Tanzania,834,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Djibouti,262,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Comoros,174,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Burundi,108,Country
+World_(total)_by_continental_regions,Eastern Africa,14,British Indian Ocean Territory,86,Country
+World_(total)_by_continental_regions,Western Africa,11,Saint Helena,654,Country
+World_(total)_by_continental_regions,Western Africa,11,Sierra Leone,694,Country
+World_(total)_by_continental_regions,Western Africa,11,Togo,768,Country
+World_(total)_by_continental_regions,Western Africa,11,Ascension,655,Country
+World_(total)_by_continental_regions,Eastern Africa,14,French Southern Territories,260,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Uganda,800,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Somalia,706,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Zimbabwe,716,Country
+World_(total)_by_continental_regions,Western Africa,11,Niger,562,Country
+World_(total)_by_continental_regions,Eastern Africa,14,Zambia,894,Country
+World_(total)_by_continental_regions,Western Africa,11,Mali,466,Country
+World_(total)_by_continental_regions,Western Africa,11,Liberia,430,Country
+World_(total)_by_continental_regions,Western Africa,11,Guinea-Bissau,624,Country
+World_(total)_by_continental_regions,Western Africa,11,Guinea,324,Country
+World_(total)_by_continental_regions,Western Africa,11,Ghana,288,Country
+World_(total)_by_continental_regions,Western Africa,11,Gambia,270,Country
+World_(total)_by_continental_regions,Western Africa,11,Côte d'Ivoire,384,Country
+World_(total)_by_continental_regions,Western Africa,11,Cabo Verde,132,Country
+World_(total)_by_continental_regions,Western Africa,11,Burkina Faso,854,Country
+World_(total)_by_continental_regions,Western Africa,11,Benin,204,Country
+World_(total)_by_continental_regions,Southern Africa,18,Eswatini,748,Country
+World_(total)_by_continental_regions,Southern Africa,18,South Africa,710,Country
+World_(total)_by_continental_regions,Western Africa,11,Mauritania,478,Country
+World_(total)_by_continental_regions,Southern Africa,18,Lesotho,426,Country
+World_(total)_by_continental_regions,Southern Africa,18,Botswana,72,Country
+World_(total)_by_continental_regions,Middle Africa,17,Sao Tome and Principe,678,Country
+World_(total)_by_continental_regions,Eastern Africa,14,United Republic of Tanzania (Mainland),835,Country
+World_(total)_by_continental_regions,Middle Africa,17,Gabon,266,Country
+World_(total)_by_continental_regions,Southern Africa,18,Namibia,516,Country
+World_(total)_by_continental_regions,Middle Africa,17,Equatorial Guinea,226,Country
+World_(total)_by_continental_regions,Middle Africa,17,Democratic Republic of the Congo,180,Country
+World_(total)_by_continental_regions,Middle Africa,17,Congo,178,Country
+World_(total)_by_continental_regions,Middle Africa,17,Chad,148,Country
+World_(total)_by_continental_regions,Middle Africa,17,Central African Republic,140,Country
+World_(total)_by_continental_regions,Middle Africa,17,Cameroon,120,Country
+World_(total)_by_continental_regions,Middle Africa,17,Angola,24,Country
+World_(total)_by_continental_regions,Eastern Africa,14,United Republic of Tanzania (Zanzibar),836,Country
+World_(total)_by_continental_regions,Caribbean,29,Saint Martin (French Part),663,Country
+World_(total)_by_continental_regions,Caribbean,29,Saint Vincent and the Grenadines,670,Country
+World_(total)_by_continental_regions,Caribbean,29,United States Virgin Islands,850,Country
+World_(total)_by_continental_regions,Caribbean,29,Saint Barthélemy,652,Country
+World_(total)_by_continental_regions,Central America,13,Belize,84,Country
+World_(total)_by_continental_regions,Central America,13,Costa Rica,188,Country
+World_(total)_by_continental_regions,Central America,13,El Salvador,222,Country
+World_(total)_by_continental_regions,Central America,13,Guatemala,320,Country
+World_(total)_by_continental_regions,Central America,13,Honduras,340,Country
+World_(total)_by_continental_regions,Central America,13,Mexico,484,Country
+World_(total)_by_continental_regions,Central America,13,Nicaragua,558,Country
+World_(total)_by_continental_regions,Central America,13,Panama,591,Country
+World_(total)_by_continental_regions,Caribbean,29,Sint Maarten (Dutch part),534,Country
+World_(total)_by_continental_regions,Caribbean,29,Curaçao,531,Country
+World_(total)_by_continental_regions,Caribbean,29,Turks and Caicos Islands,796,Country
+World_(total)_by_continental_regions,South America,5,Argentina,32,Country
+World_(total)_by_continental_regions,Caribbean,29,Anguilla,660,Country
+World_(total)_by_continental_regions,Caribbean,29,Antigua and Barbuda,28,Country
+World_(total)_by_continental_regions,Caribbean,29,Aruba,533,Country
+World_(total)_by_continental_regions,Caribbean,29,Bahamas,44,Country
+World_(total)_by_continental_regions,Caribbean,29,Barbados,52,Country
+World_(total)_by_continental_regions,Caribbean,29,British Virgin Islands,92,Country
+World_(total)_by_continental_regions,Caribbean,29,Cayman Islands,136,Country
+World_(total)_by_continental_regions,Caribbean,29,Cuba,192,Country
+World_(total)_by_continental_regions,Caribbean,29,Dominica,212,Country
+World_(total)_by_continental_regions,Caribbean,29,Dominican Republic,214,Country
+World_(total)_by_continental_regions,Caribbean,29,Grenada,308,Country
+World_(total)_by_continental_regions,Caribbean,29,Guadeloupe,312,Country
+World_(total)_by_continental_regions,Caribbean,29,Haiti,332,Country
+World_(total)_by_continental_regions,Caribbean,29,Jamaica,388,Country
+World_(total)_by_continental_regions,Caribbean,29,Martinique,474,Country
+World_(total)_by_continental_regions,Caribbean,29,Montserrat,500,Country
+World_(total)_by_continental_regions,Caribbean,29,Netherlands Antilles  [former],530,Country
+World_(total)_by_continental_regions,Caribbean,29,Puerto Rico,630,Country
+World_(total)_by_continental_regions,Caribbean,29,Saint Kitts and Nevis,659,Country
+World_(total)_by_continental_regions,Caribbean,29,Saint Lucia,662,Country
+World_(total)_by_continental_regions,Caribbean,29,Trinidad and Tobago,780,Country
+World_(total)_by_continental_regions,Caribbean,29,"Bonaire, Sint Eustatius and Saba",535,Country
+World_(total)_by_continental_regions,South America,5,Bolivia (Plurinational State of),68,Country
+World_(total)_by_continental_regions,South America,5,French Guiana,254,Country
+World_(total)_by_continental_regions,South America,5,Brazil,76,Country
+World_(total)_by_continental_regions,South America,5,Bouvet Island,74,Country
+World_(total)_by_continental_regions,South America,5,Venezuela (Bolivarian Republic of),862,Country
+World_(total)_by_continental_regions,South America,5,Uruguay,858,Country
+World_(total)_by_continental_regions,South America,5,Suriname,740,Country
+World_(total)_by_continental_regions,South America,5,Peru,604,Country
+World_(total)_by_continental_regions,South America,5,South Georgia and the South Sandwich Islands,239,Country
+World_(total)_by_continental_regions,South America,5,Guyana,328,Country
+World_(total)_by_continental_regions,South America,5,Falkland Islands (Malvinas),238,Country
+World_(total)_by_continental_regions,South America,5,Ecuador,218,Country
+World_(total)_by_continental_regions,South America,5,Colombia,170,Country
+World_(total)_by_continental_regions,South America,5,Chile,152,Country
+World_(total)_by_continental_regions,South America,5,Paraguay,600,Country
+World_(total)_by_continental_regions,Micronesia,57,Marshall Islands,584,Country
+World_(total)_by_continental_regions,Micronesia,57,Northern Mariana Islands,580,Country
+World_(total)_by_continental_regions,Micronesia,57,Nauru,520,Country
+World_(total)_by_continental_regions,Micronesia,57,Micronesia (Federated States of),583,Country
+World_(total)_by_continental_regions,Micronesia,57,Kiribati,296,Country
+World_(total)_by_continental_regions,Melanesia,54,Fiji,242,Country
+World_(total)_by_continental_regions,Melanesia,54,Vanuatu,548,Country
+World_(total)_by_continental_regions,Melanesia,54,Solomon Islands,90,Country
+World_(total)_by_continental_regions,Melanesia,54,Papua New Guinea,598,Country
+World_(total)_by_continental_regions,Melanesia,54,New Caledonia,540,Country
+World_(total)_by_continental_regions,Micronesia,57,Palau,585,Country
+World_(total)_by_continental_regions,Micronesia,57,Guam,316,Country
+World_(total)_by_continental_regions,Micronesia,57,United States Minor Outlying Islands,581,Country
+World_(total)_by_continental_regions,Polynesia,61,Tokelau,772,Country
+World_(total)_by_continental_regions,Polynesia,61,Cook Islands,184,Country
+World_(total)_by_continental_regions,Polynesia,61,French Polynesia,258,Country
+World_(total)_by_continental_regions,Polynesia,61,Niue,570,Country
+World_(total)_by_continental_regions,Polynesia,61,Pitcairn,612,Country
+World_(total)_by_continental_regions,Polynesia,61,Samoa,882,Country
+World_(total)_by_continental_regions,Polynesia,61,Tuvalu,798,Country
+World_(total)_by_continental_regions,Polynesia,61,Wallis and Futuna Islands,876,Country
+World_(total)_by_continental_regions,Australia and New Zealand,53,Australia,36,Country
+World_(total)_by_continental_regions,Australia and New Zealand,53,Christmas Island,162,Country
+World_(total)_by_continental_regions,Australia and New Zealand,53,Cocos (Keeling) Islands,166,Country
+World_(total)_by_continental_regions,Australia and New Zealand,53,Heard Island and McDonald Islands,334,Country
+World_(total)_by_continental_regions,Australia and New Zealand,53,New Zealand,554,Country
+World_(total)_by_continental_regions,Australia and New Zealand,53,Norfolk Island,574,Country
+World_(total)_by_continental_regions,Polynesia,61,American Samoa,16,Country
+World_(total)_by_continental_regions,Polynesia,61,Tonga,776,Country
