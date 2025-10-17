@@ -15,7 +15,8 @@ temp
 # Environment variables
 .env
 .Renviron
-.env.*
+# Allow committing example env templates
+!.env.example
 .secrets*
 
 # Python
