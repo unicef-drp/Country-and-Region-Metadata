@@ -4,3 +4,26 @@
 .Ruserdata
 script_temp
 temp
+
+# MICS Microdata (NEVER commit)
+*.sav
+*.dta
+*.sps
+**/data/raw/mics*.csv
+**/data/raw/*MICS*.xlsx
+
+# Environment variables
+.env
+.Renviron
+.env.*
+.secrets*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
