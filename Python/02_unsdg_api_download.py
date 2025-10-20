@@ -10,7 +10,7 @@ import pandas as pd
 url_geo_tree = "https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/GeoArea/Tree"
 headers = {"accept": "application/json"}
 
-#roots to exclude
+# roots to exclude
 roots_to_exclude = ["World_(total)_by_MDG_regions"]
 
 # Columns rename
@@ -107,7 +107,7 @@ def reshape_to_unicef_format(cl: list) -> list:
     return ret
 
 
-def main(output_folder):
+def main(output_folder, m49_mapping_file):
     try:
         os.makedirs(output_folder, exist_ok=True)
         print(f"Output folder is set to: {output_folder}")
@@ -115,20 +115,37 @@ def main(output_folder):
         print(f"Error creating output folder: {e}", file=sys.stderr)
         sys.exit(1)
 
+    # Load M49 mapping file
+    try:
+        m49_df = pd.read_csv(
+            m49_mapping_file,
+            usecols=["m49", "isoAlpha3"],
+            dtype={"m49": str, "isoAlpha3": str},
+        )
+    except FileNotFoundError:
+        print(
+            f"Error: The mapping file was not found at {m49_mapping_file}",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    except Exception as e:
+        print(f"Error reading mapping file: {e}", file=sys.stderr)
+        sys.exit(1)
+
+    #remove leading spaces from the m49 code to match the items in the Tree (pulled later)
+    m49_df["m49"] = m49_df["m49"].str.lstrip("0")
+
     tree = download_json(url_geo_tree, headers)
 
     for tree_root_node in tree:
         root_name = _get_root_name(tree_root_node)
-        #skip if we don't need this root
+        # skip if we don't need this root
         if root_name in roots_to_exclude:
             continue
         flattened = flatten_hierarchy(tree_root_node)
-        # print(flattened)
 
         unicef_flattened = reshape_to_unicef_format(flattened)
 
-        # col_type = {c: str for c in unicef_flattened[0].keys()}
-        # print(col_type)
         df = pd.DataFrame(data=unicef_flattened, dtype=str)
 
         df = df.sort_values(by=["parent_geoAreaCode"])
@@ -136,15 +153,20 @@ def main(output_folder):
             columns=["type", "parent_type", "parent_geoAreaCode", "parent_geoAreaName"]
         )
 
-        
         df["Regional_Grouping"] = root_name
         df = df.rename(columns=col_rename_map)
+
+        # Merge with m49 mapping data
+        df = pd.merge(df, m49_df, left_on="Area_Code_M49", right_on="m49", how="left")
+        df = df.drop(columns=["m49"])
+
         new_col_order = [
             "Regional_Grouping",
             "Region",
             "Region_Code",
             "Area",
             "Area_Code_M49",
+            "isoAlpha3",
             "Type",
         ]
 
@@ -163,6 +185,9 @@ def main(output_folder):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="UNSDG hierarchies to flat CSV.")
     parser.add_argument("output_folder", type=str, help="Path to the output folder")
+    parser.add_argument(
+        "m49_mapping_file", type=str, help="Path to the M49 mapping CSV file."
+    )
     args = parser.parse_args()
 
-    main(args.output_folder)
+    main(args.output_folder, args.m49_mapping_file)

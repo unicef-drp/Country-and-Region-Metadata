@@ -46,7 +46,7 @@ def main():
 
     # Run scripts in sequence
     run_script(script1, m49_output_file)
-    run_script(script2, args.output_folder)
+    run_script(script2, args.output_folder, m49_output_file)
     
     print("All scripts executed successfully.")
 
