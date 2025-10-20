@@ -10,6 +10,9 @@ import pandas as pd
 url_geo_tree = "https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/GeoArea/Tree"
 headers = {"accept": "application/json"}
 
+#roots to exclude
+roots_to_exclude = ["World_(total)_by_MDG_regions"]
+
 # Columns rename
 col_rename_map = {
     "geoAreaCode": "Region_Code",
@@ -115,6 +118,10 @@ def main(output_folder):
     tree = download_json(url_geo_tree, headers)
 
     for tree_root_node in tree:
+        root_name = _get_root_name(tree_root_node)
+        #skip if we don't need this root
+        if root_name in roots_to_exclude:
+            continue
         flattened = flatten_hierarchy(tree_root_node)
         # print(flattened)
 
@@ -129,7 +136,7 @@ def main(output_folder):
             columns=["type", "parent_type", "parent_geoAreaCode", "parent_geoAreaName"]
         )
 
-        root_name = _get_root_name(tree_root_node)
+        
         df["Regional_Grouping"] = root_name
         df = df.rename(columns=col_rename_map)
         new_col_order = [
