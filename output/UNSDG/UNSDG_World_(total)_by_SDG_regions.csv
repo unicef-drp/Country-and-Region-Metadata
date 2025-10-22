@@ -1,0 +1,295 @@
+Regional_Grouping,Region,Region_Code,Area,Area_Code_M49,isoAlpha3,Type
+World_(total)_by_SDG_regions,World (total) by SDG regions,1,Sub-Saharan Africa,202,,Region
+World_(total)_by_SDG_regions,World (total) by SDG regions,1,Northern Africa and Western Asia,747,,Region
+World_(total)_by_SDG_regions,World (total) by SDG regions,1,Central and Southern Asia,62,,Region
+World_(total)_by_SDG_regions,World (total) by SDG regions,1,Eastern and South-Eastern Asia,753,,Region
+World_(total)_by_SDG_regions,World (total) by SDG regions,1,Latin America and the Caribbean,419,,Region
+World_(total)_by_SDG_regions,World (total) by SDG regions,1,Oceania,9,,Region
+World_(total)_by_SDG_regions,World (total) by SDG regions,1,Europe and Northern America,513,,Region
+World_(total)_by_SDG_regions,Northern Africa and Western Asia,747,Western Asia,145,,Region
+World_(total)_by_SDG_regions,Northern Africa and Western Asia,747,Northern Africa,15,,Region
+World_(total)_by_SDG_regions,Central and Southern Asia,62,Central Asia,143,,Region
+World_(total)_by_SDG_regions,Central and Southern Asia,62,Southern Asia,34,,Region
+World_(total)_by_SDG_regions,Eastern and South-Eastern Asia,753,Eastern Asia,30,,Region
+World_(total)_by_SDG_regions,Europe and Northern America,513,Northern America,21,,Region
+World_(total)_by_SDG_regions,Latin America and the Caribbean,419,Caribbean,29,,Region
+World_(total)_by_SDG_regions,Latin America and the Caribbean,419,Central America,13,,Region
+World_(total)_by_SDG_regions,Latin America and the Caribbean,419,South America,5,,Region
+World_(total)_by_SDG_regions,Eastern and South-Eastern Asia,753,South-Eastern Asia,35,,Region
+World_(total)_by_SDG_regions,Oceania,9,Australia and New Zealand,53,,Region
+World_(total)_by_SDG_regions,Oceania,9,Melanesia,54,,Region
+World_(total)_by_SDG_regions,Sub-Saharan Africa,202,Middle Africa,17,,Region
+World_(total)_by_SDG_regions,Sub-Saharan Africa,202,Eastern Africa,14,,Region
+World_(total)_by_SDG_regions,Europe and Northern America,513,Europe,150,,Region
+World_(total)_by_SDG_regions,Sub-Saharan Africa,202,Western Africa,11,,Region
+World_(total)_by_SDG_regions,Sub-Saharan Africa,202,Southern Africa,18,,Region
+World_(total)_by_SDG_regions,Oceania,9,Micronesia,57,,Region
+World_(total)_by_SDG_regions,Oceania,9,Polynesia,61,,Region
+World_(total)_by_SDG_regions,Northern Europe,154,United Kingdom (Scotland),829,,Country
+World_(total)_by_SDG_regions,Northern Europe,154,United Kingdom (Northern Ireland),828,,Country
+World_(total)_by_SDG_regions,Northern Europe,154,United Kingdom (England and Wales),827,,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Andorra,20,AND,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Bosnia and Herzegovina,70,BIH,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Croatia,191,HRV,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Albania,8,ALB,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Gibraltar,292,GIB,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Italy,380,ITA,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Holy See,336,VAT,Country
+World_(total)_by_SDG_regions,Southern Europe,39,North Macedonia,807,MKD,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Malta,470,MLT,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Montenegro,499,MNE,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Portugal,620,PRT,Country
+World_(total)_by_SDG_regions,Southern Europe,39,San Marino,674,SMR,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Serbia,688,SRB,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Slovenia,705,SVN,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Kosovo,412,,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Serbia and Montenegro [former],891,,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Yugoslavia [former],890,,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Greece,300,GRC,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Sark,680,,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Sweden,752,SWE,Country
+World_(total)_by_SDG_regions,Northern Europe,154,United Kingdom of Great Britain and Northern Ireland,826,GBR,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Belarus,112,BLR,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Bulgaria,100,BGR,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Czechia,203,CZE,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Hungary,348,HUN,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Republic of Moldova,498,MDA,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Poland,616,POL,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Romania,642,ROU,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Russian Federation,643,RUS,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Slovakia,703,SVK,Country
+World_(total)_by_SDG_regions,Eastern Europe,151,Ukraine,804,UKR,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Åland Islands,248,ALA,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Denmark,208,DNK,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Estonia,233,EST,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Faroe Islands,234,FRO,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Finland,246,FIN,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Guernsey,831,GGY,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Iceland,352,ISL,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Ireland,372,IRL,Country
+World_(total)_by_SDG_regions,Western Europe,155,Austria,40,AUT,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Isle of Man,833,IMN,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Jersey,832,JEY,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Latvia,428,LVA,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Lithuania,440,LTU,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Norway,578,NOR,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Svalbard and Jan Mayen Islands,744,SJM,Country
+World_(total)_by_SDG_regions,Northern Europe,154,Channel Islands,830,,Region
+World_(total)_by_SDG_regions,Western Europe,155,Belgium,56,BEL,Country
+World_(total)_by_SDG_regions,Southern Europe,39,Spain,724,ESP,Country
+World_(total)_by_SDG_regions,Western Europe,155,Germany,276,DEU,Country
+World_(total)_by_SDG_regions,Western Europe,155,Liechtenstein,438,LIE,Country
+World_(total)_by_SDG_regions,Western Europe,155,Luxembourg,442,LUX,Country
+World_(total)_by_SDG_regions,Western Europe,155,Monaco,492,MCO,Country
+World_(total)_by_SDG_regions,Western Europe,155,Netherlands (Kingdom of the),528,NLD,Country
+World_(total)_by_SDG_regions,Western Europe,155,Switzerland,756,CHE,Country
+World_(total)_by_SDG_regions,Western Europe,155,Belgium and Luxembourg,99041,,Other areas
+World_(total)_by_SDG_regions,Western Europe,155,France,250,FRA,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Seychelles,690,SYC,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Somalia,706,SOM,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,South Sudan,728,SSD,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,United Republic of Tanzania,834,TZA,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Uganda,800,UGA,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,United Republic of Tanzania (Zanzibar),836,,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,United Republic of Tanzania (Mainland),835,,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Rwanda,646,RWA,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Angola,24,AGO,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Cameroon,120,CMR,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Zimbabwe,716,ZWE,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Réunion,638,REU,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Mauritius,480,MUS,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Mayotte,175,MYT,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Central African Republic,140,CAF,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Malawi,454,MWI,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Madagascar,450,MDG,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Kenya,404,KEN,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,French Southern Territories,260,ATF,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Ethiopia,231,ETH,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Eritrea,232,ERI,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Djibouti,262,DJI,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Comoros,174,COM,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Burundi,108,BDI,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,British Indian Ocean Territory,86,IOT,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Mozambique,508,MOZ,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Chad,148,TCD,Country
+World_(total)_by_SDG_regions,Eastern Africa,14,Zambia,894,ZMB,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Democratic Republic of the Congo,180,COD,Country
+World_(total)_by_SDG_regions,Western Africa,11,Ascension,655,,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Congo,178,COG,Country
+World_(total)_by_SDG_regions,Western Africa,11,Sierra Leone,694,SLE,Country
+World_(total)_by_SDG_regions,Western Africa,11,Senegal,686,SEN,Country
+World_(total)_by_SDG_regions,Western Africa,11,Saint Helena,654,SHN,Country
+World_(total)_by_SDG_regions,Western Africa,11,Nigeria,566,NGA,Country
+World_(total)_by_SDG_regions,Western Africa,11,Niger,562,NER,Country
+World_(total)_by_SDG_regions,Western Africa,11,Mauritania,478,MRT,Country
+World_(total)_by_SDG_regions,Western Africa,11,Mali,466,MLI,Country
+World_(total)_by_SDG_regions,Western Africa,11,Liberia,430,LBR,Country
+World_(total)_by_SDG_regions,Western Africa,11,Guinea-Bissau,624,GNB,Country
+World_(total)_by_SDG_regions,Western Africa,11,Guinea,324,GIN,Country
+World_(total)_by_SDG_regions,Western Africa,11,Ghana,288,GHA,Country
+World_(total)_by_SDG_regions,Western Africa,11,Togo,768,TGO,Country
+World_(total)_by_SDG_regions,Western Africa,11,Côte d'Ivoire,384,CIV,Country
+World_(total)_by_SDG_regions,Western Africa,11,Gambia,270,GMB,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Gabon,266,GAB,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Sao Tome and Principe,678,STP,Country
+World_(total)_by_SDG_regions,Southern Africa,18,Botswana,72,BWA,Country
+World_(total)_by_SDG_regions,Southern Africa,18,Lesotho,426,LSO,Country
+World_(total)_by_SDG_regions,Middle Africa,17,Equatorial Guinea,226,GNQ,Country
+World_(total)_by_SDG_regions,Southern Africa,18,South Africa,710,ZAF,Country
+World_(total)_by_SDG_regions,Southern Africa,18,Eswatini,748,SWZ,Country
+World_(total)_by_SDG_regions,Western Africa,11,Benin,204,BEN,Country
+World_(total)_by_SDG_regions,Western Africa,11,Burkina Faso,854,BFA,Country
+World_(total)_by_SDG_regions,Western Africa,11,Cabo Verde,132,CPV,Country
+World_(total)_by_SDG_regions,Southern Africa,18,Namibia,516,NAM,Country
+World_(total)_by_SDG_regions,South America,5,Bouvet Island,74,BVT,Country
+World_(total)_by_SDG_regions,South America,5,Bolivia (Plurinational State of),68,BOL,Country
+World_(total)_by_SDG_regions,South America,5,Argentina,32,ARG,Country
+World_(total)_by_SDG_regions,Central America,13,Panama,591,PAN,Country
+World_(total)_by_SDG_regions,Central America,13,Mexico,484,MEX,Country
+World_(total)_by_SDG_regions,Central America,13,Honduras,340,HND,Country
+World_(total)_by_SDG_regions,Central America,13,Guatemala,320,GTM,Country
+World_(total)_by_SDG_regions,Central America,13,El Salvador,222,SLV,Country
+World_(total)_by_SDG_regions,South America,5,Brazil,76,BRA,Country
+World_(total)_by_SDG_regions,Central America,13,Nicaragua,558,NIC,Country
+World_(total)_by_SDG_regions,South America,5,Chile,152,CHL,Country
+World_(total)_by_SDG_regions,South America,5,Paraguay,600,PRY,Country
+World_(total)_by_SDG_regions,South America,5,Ecuador,218,ECU,Country
+World_(total)_by_SDG_regions,South America,5,Falkland Islands (Malvinas),238,FLK,Country
+World_(total)_by_SDG_regions,South America,5,French Guiana,254,GUF,Country
+World_(total)_by_SDG_regions,South America,5,Guyana,328,GUY,Country
+World_(total)_by_SDG_regions,South America,5,Peru,604,PER,Country
+World_(total)_by_SDG_regions,South America,5,South Georgia and the South Sandwich Islands,239,SGS,Country
+World_(total)_by_SDG_regions,South America,5,Suriname,740,SUR,Country
+World_(total)_by_SDG_regions,South America,5,Uruguay,858,URY,Country
+World_(total)_by_SDG_regions,South America,5,Venezuela (Bolivarian Republic of),862,VEN,Country
+World_(total)_by_SDG_regions,Central America,13,Costa Rica,188,CRI,Country
+World_(total)_by_SDG_regions,South America,5,Colombia,170,COL,Country
+World_(total)_by_SDG_regions,Central America,13,Belize,84,BLZ,Country
+World_(total)_by_SDG_regions,Caribbean,29,Dominican Republic,214,DOM,Country
+World_(total)_by_SDG_regions,Caribbean,29,Sint Maarten (Dutch part),534,SXM,Country
+World_(total)_by_SDG_regions,Caribbean,29,United States Virgin Islands,850,VIR,Country
+World_(total)_by_SDG_regions,Caribbean,29,Antigua and Barbuda,28,ATG,Country
+World_(total)_by_SDG_regions,Caribbean,29,Aruba,533,ABW,Country
+World_(total)_by_SDG_regions,Caribbean,29,Bahamas,44,BHS,Country
+World_(total)_by_SDG_regions,Caribbean,29,Barbados,52,BRB,Country
+World_(total)_by_SDG_regions,Caribbean,29,British Virgin Islands,92,VGB,Country
+World_(total)_by_SDG_regions,Caribbean,29,Cayman Islands,136,CYM,Country
+World_(total)_by_SDG_regions,Caribbean,29,Cuba,192,CUB,Country
+World_(total)_by_SDG_regions,Caribbean,29,Dominica,212,DMA,Country
+World_(total)_by_SDG_regions,Caribbean,29,Guadeloupe,312,GLP,Country
+World_(total)_by_SDG_regions,Caribbean,29,Haiti,332,HTI,Country
+World_(total)_by_SDG_regions,Caribbean,29,Jamaica,388,JAM,Country
+World_(total)_by_SDG_regions,Caribbean,29,Grenada,308,GRD,Country
+World_(total)_by_SDG_regions,Caribbean,29,Montserrat,500,MSR,Country
+World_(total)_by_SDG_regions,Caribbean,29,Saint Vincent and the Grenadines,670,VCT,Country
+World_(total)_by_SDG_regions,Caribbean,29,Saint Martin (French Part),663,MAF,Country
+World_(total)_by_SDG_regions,Caribbean,29,Saint Barthélemy,652,BLM,Country
+World_(total)_by_SDG_regions,Caribbean,29,Martinique,474,MTQ,Country
+World_(total)_by_SDG_regions,Caribbean,29,"Bonaire, Sint Eustatius and Saba",535,BES,Country
+World_(total)_by_SDG_regions,Caribbean,29,Turks and Caicos Islands,796,TCA,Country
+World_(total)_by_SDG_regions,Caribbean,29,Curaçao,531,CUW,Country
+World_(total)_by_SDG_regions,Caribbean,29,Saint Lucia,662,LCA,Country
+World_(total)_by_SDG_regions,Caribbean,29,Saint Kitts and Nevis,659,KNA,Country
+World_(total)_by_SDG_regions,Caribbean,29,Puerto Rico,630,PRI,Country
+World_(total)_by_SDG_regions,Caribbean,29,Netherlands Antilles  [former],530,,Country
+World_(total)_by_SDG_regions,Caribbean,29,Trinidad and Tobago,780,TTO,Country
+World_(total)_by_SDG_regions,Caribbean,29,Anguilla,660,AIA,Country
+World_(total)_by_SDG_regions,Northern America,21,Greenland,304,GRL,Country
+World_(total)_by_SDG_regions,Europe,150,Eastern Europe,151,,Region
+World_(total)_by_SDG_regions,Northern America,21,Canada,124,CAN,Country
+World_(total)_by_SDG_regions,Northern America,21,Bermuda,60,BMU,Country
+World_(total)_by_SDG_regions,Europe,150,Western Europe,155,,Region
+World_(total)_by_SDG_regions,Europe,150,Southern Europe,39,,Region
+World_(total)_by_SDG_regions,Europe,150,Northern Europe,154,,Region
+World_(total)_by_SDG_regions,Northern America,21,United States of America,840,USA,Country
+World_(total)_by_SDG_regions,Northern America,21,Saint Pierre and Miquelon,666,SPM,Country
+World_(total)_by_SDG_regions,Southern Asia,34,Pakistan,586,PAK,Country
+World_(total)_by_SDG_regions,Southern Asia,34,Maldives,462,MDV,Country
+World_(total)_by_SDG_regions,Southern Asia,34,Iran (Islamic Republic of),364,IRN,Country
+World_(total)_by_SDG_regions,Southern Asia,34,India,356,IND,Country
+World_(total)_by_SDG_regions,Southern Asia,34,Bhutan,64,BTN,Country
+World_(total)_by_SDG_regions,Southern Asia,34,Bangladesh,50,BGD,Country
+World_(total)_by_SDG_regions,Southern Asia,34,Afghanistan,4,AFG,Country
+World_(total)_by_SDG_regions,Central Asia,143,Uzbekistan,860,UZB,Country
+World_(total)_by_SDG_regions,Central Asia,143,Turkmenistan,795,TKM,Country
+World_(total)_by_SDG_regions,Central Asia,143,Tajikistan,762,TJK,Country
+World_(total)_by_SDG_regions,Central Asia,143,Kyrgyzstan,417,KGZ,Country
+World_(total)_by_SDG_regions,Central Asia,143,Kazakhstan,398,KAZ,Country
+World_(total)_by_SDG_regions,Southern Asia,34,Nepal,524,NPL,Country
+World_(total)_by_SDG_regions,Southern Asia,34,Sri Lanka,144,LKA,Country
+World_(total)_by_SDG_regions,Western Asia,145,Iraq,368,IRQ,Country
+World_(total)_by_SDG_regions,Northern Africa,15,Algeria,12,DZA,Country
+World_(total)_by_SDG_regions,Northern Africa,15,Egypt,818,EGY,Country
+World_(total)_by_SDG_regions,Northern Africa,15,Libya,434,LBY,Country
+World_(total)_by_SDG_regions,Northern Africa,15,Morocco,504,MAR,Country
+World_(total)_by_SDG_regions,Northern Africa,15,Sudan,729,SDN,Country
+World_(total)_by_SDG_regions,Northern Africa,15,Tunisia,788,TUN,Country
+World_(total)_by_SDG_regions,Northern Africa,15,Western Sahara,732,ESH,Country
+World_(total)_by_SDG_regions,Northern Africa,15,Sudan [former],736,,Country
+World_(total)_by_SDG_regions,Western Asia,145,Armenia,51,ARM,Country
+World_(total)_by_SDG_regions,Western Asia,145,Azerbaijan,31,AZE,Country
+World_(total)_by_SDG_regions,Western Asia,145,Bahrain,48,BHR,Country
+World_(total)_by_SDG_regions,Western Asia,145,Iraq (Kurdistan Region),370,,Country
+World_(total)_by_SDG_regions,Western Asia,145,Iraq (Central Iraq),369,,Country
+World_(total)_by_SDG_regions,Western Asia,145,Yemen,887,YEM,Country
+World_(total)_by_SDG_regions,Western Asia,145,United Arab Emirates,784,ARE,Country
+World_(total)_by_SDG_regions,Western Asia,145,Türkiye,792,TUR,Country
+World_(total)_by_SDG_regions,Western Asia,145,Syrian Arab Republic,760,SYR,Country
+World_(total)_by_SDG_regions,Western Asia,145,Saudi Arabia,682,SAU,Country
+World_(total)_by_SDG_regions,Western Asia,145,Qatar,634,QAT,Country
+World_(total)_by_SDG_regions,Western Asia,145,Cyprus,196,CYP,Country
+World_(total)_by_SDG_regions,Western Asia,145,Oman,512,OMN,Country
+World_(total)_by_SDG_regions,Western Asia,145,Lebanon,422,LBN,Country
+World_(total)_by_SDG_regions,Western Asia,145,Kuwait,414,KWT,Country
+World_(total)_by_SDG_regions,Western Asia,145,Jordan,400,JOR,Country
+World_(total)_by_SDG_regions,Western Asia,145,Israel,376,ISR,Country
+World_(total)_by_SDG_regions,Western Asia,145,Georgia,268,GEO,Country
+World_(total)_by_SDG_regions,Western Asia,145,State of Palestine,275,PSE,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Thailand,764,THA,Country
+World_(total)_by_SDG_regions,Eastern Asia,30,"China, Hong Kong Special Administrative Region",344,HKG,Country
+World_(total)_by_SDG_regions,Eastern Asia,30,China,156,CHN,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Viet Nam,704,VNM,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Timor-Leste,626,TLS,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Philippines,608,PHL,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Myanmar,104,MMR,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Malaysia,458,MYS,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Lao People's Democratic Republic,418,LAO,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Indonesia,360,IDN,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Singapore,702,SGP,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Brunei Darussalam,96,BRN,Country
+World_(total)_by_SDG_regions,Eastern Asia,30,Other non-specified areas in Eastern Asia,158,,Country
+World_(total)_by_SDG_regions,Eastern Asia,30,Mongolia,496,MNG,Country
+World_(total)_by_SDG_regions,Eastern Asia,30,Republic of Korea,410,KOR,Country
+World_(total)_by_SDG_regions,Eastern Asia,30,Democratic People's Republic of Korea,408,PRK,Country
+World_(total)_by_SDG_regions,Eastern Asia,30,Japan,392,JPN,Country
+World_(total)_by_SDG_regions,South-Eastern Asia,35,Cambodia,116,KHM,Country
+World_(total)_by_SDG_regions,Eastern Asia,30,"China, Macao Special Administrative Region",446,MAC,Country
+World_(total)_by_SDG_regions,Polynesia,61,Samoa,882,WSM,Country
+World_(total)_by_SDG_regions,Polynesia,61,Pitcairn,612,PCN,Country
+World_(total)_by_SDG_regions,Polynesia,61,Niue,570,NIU,Country
+World_(total)_by_SDG_regions,Polynesia,61,French Polynesia,258,PYF,Country
+World_(total)_by_SDG_regions,Polynesia,61,Cook Islands,184,COK,Country
+World_(total)_by_SDG_regions,Micronesia,57,United States Minor Outlying Islands,581,UMI,Country
+World_(total)_by_SDG_regions,Polynesia,61,American Samoa,16,ASM,Country
+World_(total)_by_SDG_regions,Micronesia,57,Palau,585,PLW,Country
+World_(total)_by_SDG_regions,Melanesia,54,New Caledonia,540,NCL,Country
+World_(total)_by_SDG_regions,Melanesia,54,Fiji,242,FJI,Country
+World_(total)_by_SDG_regions,Polynesia,61,Tokelau,772,TKL,Country
+World_(total)_by_SDG_regions,Micronesia,57,Northern Mariana Islands,580,MNP,Country
+World_(total)_by_SDG_regions,Polynesia,61,Tonga,776,TON,Country
+World_(total)_by_SDG_regions,Micronesia,57,Marshall Islands,584,MHL,Country
+World_(total)_by_SDG_regions,Polynesia,61,Wallis and Futuna Islands,876,WLF,Country
+World_(total)_by_SDG_regions,Australia and New Zealand,53,Australia,36,AUS,Country
+World_(total)_by_SDG_regions,Australia and New Zealand,53,Christmas Island,162,CXR,Country
+World_(total)_by_SDG_regions,Australia and New Zealand,53,Cocos (Keeling) Islands,166,CCK,Country
+World_(total)_by_SDG_regions,Australia and New Zealand,53,Heard Island and McDonald Islands,334,HMD,Country
+World_(total)_by_SDG_regions,Australia and New Zealand,53,New Zealand,554,NZL,Country
+World_(total)_by_SDG_regions,Australia and New Zealand,53,Norfolk Island,574,NFK,Country
+World_(total)_by_SDG_regions,Micronesia,57,Kiribati,296,KIR,Country
+World_(total)_by_SDG_regions,Micronesia,57,Guam,316,GUM,Country
+World_(total)_by_SDG_regions,Melanesia,54,Vanuatu,548,VUT,Country
+World_(total)_by_SDG_regions,Melanesia,54,Solomon Islands,90,SLB,Country
+World_(total)_by_SDG_regions,Melanesia,54,Papua New Guinea,598,PNG,Country
+World_(total)_by_SDG_regions,Micronesia,57,Micronesia (Federated States of),583,FSM,Country
+World_(total)_by_SDG_regions,Polynesia,61,Tuvalu,798,TUV,Country
+World_(total)_by_SDG_regions,Micronesia,57,Nauru,520,NRU,Country
