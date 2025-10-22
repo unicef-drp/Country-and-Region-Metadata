@@ -1,0 +1,37 @@
+Regional_Grouping,Region,Region_Code,Area,Area_Code_M49,isoAlpha3,Type
+Land_Locked_Developing_Countries_(LLDC),Land Locked Developing Countries (LLDC),432,LLDC Africa,923,,Region
+Land_Locked_Developing_Countries_(LLDC),Land Locked Developing Countries (LLDC),432,LLDC Americas,924,,Region
+Land_Locked_Developing_Countries_(LLDC),Land Locked Developing Countries (LLDC),432,LLDC Asia,925,,Region
+Land_Locked_Developing_Countries_(LLDC),Land Locked Developing Countries (LLDC),432,LLDC Europe,926,,Region
+Land_Locked_Developing_Countries_(LLDC),LLDC Americas,924,Paraguay,600,PRY,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Afghanistan,4,AFG,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Armenia,51,ARM,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Azerbaijan,31,AZE,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Bhutan,64,BTN,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Kazakhstan,398,KAZ,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Lao People's Democratic Republic,418,LAO,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Americas,924,Bolivia (Plurinational State of),68,BOL,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Mongolia,496,MNG,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Nepal,524,NPL,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Tajikistan,762,TJK,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Turkmenistan,795,TKM,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Uzbekistan,860,UZB,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Asia,925,Kyrgyzstan,417,KGZ,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Zimbabwe,716,ZWE,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Uganda,800,UGA,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Europe,926,North Macedonia,807,MKD,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Eswatini,748,SWZ,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,South Sudan,728,SSD,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Rwanda,646,RWA,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Niger,562,NER,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Mali,466,MLI,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Malawi,454,MWI,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Lesotho,426,LSO,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Ethiopia,231,ETH,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Chad,148,TCD,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Central African Republic,140,CAF,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Burundi,108,BDI,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Burkina Faso,854,BFA,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Botswana,72,BWA,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Africa,923,Zambia,894,ZMB,Country
+Land_Locked_Developing_Countries_(LLDC),LLDC Europe,926,Republic of Moldova,498,MDA,Country
