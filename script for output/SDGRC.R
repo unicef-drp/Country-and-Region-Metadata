@@ -23,21 +23,16 @@ dt_in[, table(Region)]
 # }
 # sapply(rs, check.if.same)
 
-dt_rc <- readxl::read_xlsx("raw_data/SDGRC/9. CompositionOfRegions_RCs_20241202.xlsx", sheet = "Ref_Area_Long")
-setDT(dt_rc)[, uniqueN(M49)]
+dt_rc <- readxl::read_xlsx("raw_data/SDGRC/9. CompositionOfRegions_RCs_20251217.xlsx", sheet = "Ref_Area_Long")
+setDT(dt_rc)[, uniqueN(M49)] # 234
 
 dt_rc[, ISO3Code := countrycode::countrycode(M49, origin = "un", destination = "iso3c")]
 dt_rc[is.na(ISO3Code),  ]
 
-# M49                                      Name     Ref_Area_Type           RC_Region RC_UNSDCode
-# 1: 736                            Sudan [former]       3.0-Country        ESCAP_AFRICA       98405
-# 2: 577            Africa not elsewhere specified 4.0-Not-specified        ESCAP_AFRICA       98405
-# 3: 530                      Netherlands Antilles       3.0-Country ESCAP_LATIN_AMERICA       98424
-# 4: 830                           Channel Islands       3.0-Country        ESCAP_EUROPE       98423
-# 5: 891            Serbia and Montenegro [former]       3.0-Country        ESCAP_EUROPE       98423
-# 6: 412                                    Kosovo       3.0-Country        ESCAP_EUROPE       98423
-# 7: 890                       Yugoslavia [former]       3.0-Country        ESCAP_EUROPE       98423
-# 8: 158 Other non-specified areas in Eastern Asia       3.0-Country    ESCAP_OTHER_AREA       98426
+# > dt_rc[is.na(ISO3Code),  ]
+# M49                                      Name Ref_Area_Type        RC_Region RC_UNSDCode                  RC_RegionName RC_Name ISO3Code
+# <num>                                    <char>        <char>           <char>       <num>                         <char>  <char>   <char>
+#   1:   158 Other non-specified areas in Eastern Asia   3.0-Country ESCAP_OTHER_AREA       98426 ESCAP: Other Area (OTH_REGION)   ESCAP     <NA>
 
 dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
 dcname[!id %in% dt_rc$ISO3Code, ]
@@ -45,16 +40,15 @@ dcname[!id %in% dt_rc$ISO3Code, ]
 # 2: TWN China, Taiwan Province of China
 # 3: XKX             Kosovo (UNSCR 1244)
 
-dt_rc[is.na(ISO3Code), ISO3Code := dplyr::recode(M49, "736" = "SSD", "530" = "ANT", "830" = "CHI", "412" = "XKX")]
-dt_rc[is.na(ISO3Code), unique(Name)]
-dt_rc[duplicated(dt_rc)]
+# dt_rc[is.na(ISO3Code), ISO3Code := dplyr::recode(M49, "736" = "SSD", "530" = "ANT", "830" = "CHI", "412" = "XKX")]
+dt_rc[is.na(ISO3Code), unique(Name)] # "Other non-specified areas in Eastern Asia"
+dt_rc[duplicated(dt_rc)] # none
 
 # Drop:
-# [1] "Africa not elsewhere specified"            "Serbia and Montenegro [former]"           
-# [3] "Yugoslavia [former]"                       "Other non-specified areas in Eastern Asia"
+# "Other non-specified areas in Eastern Asia"
 
 dt_rc <- dt_rc[!is.na(ISO3Code), ]
-dt_rc[, uniqueN(ISO3Code)] # 251
+dt_rc[, uniqueN(ISO3Code)] # 233 
 
 dt_rc <- dplyr::left_join(dt_rc, dcname, by = c("ISO3Code" = "id"))
 dt_rc[is.na(Country), Country:= Name]
@@ -91,18 +85,4 @@ fwrite(dt_rc, "output/SDGRC.csv")
 
 
 create.code.book()
-# 
-# ECA_regions <- c("ECA_ALL", "ECA_CA", "ECA_EA", "ECA_NA", "ECA_SA", "ECA_WA")
-# dt_rc[Region_Code %in% ECA_regions, table(Region)]
-
-# Region
-# ECA_All countries  ECA_Central Africa  ECA_Eastern Africa    ECA_North Africa ECA_Southern Africa     ECA_West Africa 
-# 54                   7                  14                   7                  11                  15 
-
-# Also different from M49
-# setdiff(sort(unique(dt_rc[Region == "ECA_All countries", ISO3Code])), sort(unique(dc[M49Region1 == "Africa", ISO3Code])))
-# setdiff(sort(unique(dt_rc[Region == "ECA_Central Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Middle Africa", ISO3Code])))
-# setdiff(sort(unique(dt_rc[Region == "ECA_Eastern Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Eastern Africa", ISO3Code])))
-# setdiff(sort(unique(dt_rc[Region == "ECA_North Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Northern Africa", ISO3Code])))
-# setdiff(sort(unique(dt_rc[Region == "ECA_Southern Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Southern Africa", ISO3Code])))
-# setdiff(sort(unique(dt_rc[Region == "ECA_West Africa", ISO3Code])), sort(unique(dc[M49Region2 == "Western Africa", ISO3Code])))
+bind.all.output()

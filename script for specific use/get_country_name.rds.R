@@ -6,7 +6,6 @@ library("data.table")
 # fwrite(dt_sdmx, "raw_data/SDMX_meta_info/geographic_areas.csv")
 
 dcname <- fread("raw_data/SDMX_meta_info/geographic_areas.csv")
-
 dcname <- dcname[nchar(id) == 3,.(id, name)]
 setnames(dcname, "name", "Country")
 saveRDS(dcname, "raw_data/SDMX_meta_info/country_name.rds")
