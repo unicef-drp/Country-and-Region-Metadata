@@ -1,0 +1,46 @@
+name: Repository QA
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Basic file presence
+        run: |
+          test -f README.md
+          test -f .gitignore
+
+      - name: Secret scanning (gitleaks)
+        uses: gitleaks/gitleaks-action@v2
+        with:
+          args: detect --source . --no-banner --redact
+
+      - name: Python quick checks
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile Python scripts if present
+        run: |
+          set -e
+          shopt -s globstar || true
+          files=(Python/**/*.py)
+          if [ -e "${files[0]}" ]; then
+            python -m pip install --upgrade pip
+            python -m py_compile ${files[@]}
+          else
+            echo "No Python scripts found; skipping compile"
+          fi
+
+      - name: Markdown lint (mdl) [optional]
+        if: ${{ false }}
+        run: |
+          echo "Enable a markdown linter if desired"
