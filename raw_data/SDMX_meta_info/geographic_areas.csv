@@ -18,14 +18,14 @@ AU_NORTHERN_AFRICA,Northern Africa (African Union),,AU,2082,Northern Africa (Afr
 AU_SOUTHERN_AFRICA,Southern Africa (African Union),,AU,2083,Southern Africa (African Union)
 AU_WESTERN_AFRICA,Western Africa (African Union),,AU,2084,Western Africa (African Union)
 AUREC,Regional Economic Communities,,,,Regional Economic Communities
-AUREC_CEN_SAD,Community of Sahel-Saharan States (CEN-SAD),,AUREC,,CEN-SAD
-AUREC_COMESA,Common Market for Eastern and Southern Africa (COMESA),,AUREC,,COMESA
+AUREC_CEN_SAD,Community of Sahel-Saharan States (CEN-SAD),,AUREC,98112,CEN-SAD
+AUREC_COMESA,Common Market for Eastern and Southern Africa (COMESA),,AUREC,98113,COMESA
 AUREC_EAC,East African Community (EAC),,AUREC,1563,EAC
 AUREC_ECCAS,Economic Community of Central African States (ECCAS),,AUREC,1538,ECCAS
 AUREC_ECOWAS,Economic Community of West African States (ECOWAS),,AUREC,1540,ECOWAS
-AUREC_IGAD,Intergovernmental Authority on Development (IGAD),,AUREC,,IGAD
+AUREC_IGAD,Intergovernmental Authority on Development (IGAD),,AUREC,98109,IGAD
 AUREC_SADC,Southern African Development Community (SADC),,AUREC,1564,SADS
-AUREC_UMA,Arab Maghreb Union (UMA),,AUREC,,UMA
+AUREC_UMA,Arab Maghreb Union (UMA),,AUREC,98111,UMA
 AUS,Australia,,,36,Australia
 AUT,Austria,,,40,Austria
 AZE,Azerbaijan,,,31,Azerbaijan
