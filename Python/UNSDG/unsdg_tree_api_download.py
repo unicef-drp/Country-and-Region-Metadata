@@ -10,9 +10,6 @@ import pandas as pd
 url_geo_tree = "https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/GeoArea/Tree"
 headers = {"accept": "application/json"}
 
-# roots to exclude
-roots_to_exclude = ["World_(total)_by_MDG_regions"]
-
 # Columns rename
 col_rename_map = {
     "geoAreaCode": "Region_Code",
@@ -23,7 +20,7 @@ col_rename_map = {
 }
 
 
-def download_json(url: str, headers: dict) -> list:
+def _download_json(url: str, headers: dict) -> list:
 
     response = requests.get(url, headers=headers)
 
@@ -36,7 +33,7 @@ def download_json(url: str, headers: dict) -> list:
     return []
 
 
-def flatten_hierarchy(node, parent=None, results=None):
+def _flatten_hierarchy(node, parent=None, results=None):
 
     if results is None:
         results = []
@@ -76,7 +73,7 @@ def flatten_hierarchy(node, parent=None, results=None):
     children = node.get("children")
     if children:
         for child in children:
-            flatten_hierarchy(child, current, results)
+            _flatten_hierarchy(child, current, results)
 
     return results
 
@@ -87,7 +84,7 @@ def _get_root_name(root_node):
     return ret
 
 
-def reshape_to_unicef_format(cl: list) -> list:
+def _reshape_to_unicef_format(cl: list) -> list:
     ret = []
     # Step 1: Keep the regions
     regions = [item for item in cl if item["type"] == "Region"]
@@ -107,6 +104,33 @@ def reshape_to_unicef_format(cl: list) -> list:
     return ret
 
 
+def get_hierarchies() -> pd.DataFrame:
+    tree = _download_json(url_geo_tree, headers)
+    df_ret = pd.DataFrame()
+    for tree_root_node in tree:
+        root_name = _get_root_name(tree_root_node)
+
+        flattened = _flatten_hierarchy(tree_root_node)
+
+        unicef_flattened = _reshape_to_unicef_format(flattened)
+
+        df = pd.DataFrame(data=unicef_flattened, dtype=str)
+
+        df = df.sort_values(by=["parent_geoAreaCode"])
+        df = df.drop(
+            columns=["type", "parent_type", "parent_geoAreaCode", "parent_geoAreaName"]
+        )
+        df = df.rename(columns=col_rename_map)
+
+        df["Regional_Grouping"] = root_name
+        df = df.rename(columns=col_rename_map)
+
+        df_ret = pd.concat([df_ret, df])
+
+    return df_ret
+
+
+"""
 def main(output_folder, m49_mapping_file):
     try:
         os.makedirs(output_folder, exist_ok=True)
@@ -132,7 +156,7 @@ def main(output_folder, m49_mapping_file):
         print(f"Error reading mapping file: {e}", file=sys.stderr)
         sys.exit(1)
 
-    #remove leading spaces from the m49 code to match the items in the Tree (pulled later)
+    # remove leading spaces from the m49 code to match the items in the Tree (pulled later)
     m49_df["m49"] = m49_df["m49"].str.lstrip("0")
 
     tree = download_json(url_geo_tree, headers)
@@ -180,8 +204,9 @@ def main(output_folder, m49_mapping_file):
         file_name = f"UNSDG_{root_name}.csv"
         file_path = os.path.join(output_folder, file_name)
         df.to_csv(file_path, index=False, encoding="utf-8", quoting=csv.QUOTE_MINIMAL)
+"""
 
-
+"""
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="UNSDG hierarchies to flat CSV.")
     parser.add_argument("output_folder", type=str, help="Path to the output folder")
@@ -191,3 +216,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     main(args.output_folder, args.m49_mapping_file)
+"""

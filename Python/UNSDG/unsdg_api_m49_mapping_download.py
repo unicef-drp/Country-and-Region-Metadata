@@ -11,13 +11,32 @@ url_m49 = "https://unstats.un.org/UNSDWebsiteAPI/Home/get-m49"
 headers = {"accept": "application/json"}
 
 
-def download_m49_mapping(output_file):
+def download_m49_mapping() -> pd.DataFrame:
     """
-    Downloads the M49 mapping data from the UN Statistics Division API and saves it as a CSV file.
+      Downloads the M49 mapping data from the UN Statistics Division API.
+      Example return format:
 
-    Args:
-        output_folder (str): The path to the folder where the output CSV file will be saved.
+      [
+      {
+      "m49": "004",
+      "isoAlpha2": "AF",
+      "isoAlpha3": "AFG",
+      "nameEN": "Afghanistan",
+      "nameFR": "Afghanistan",
+      "nameES": "Afganistán",
+      "nameRU": "Афганистан",
+      "nameZH": "阿富汗",
+      "nameAR": "أفغانستان",
+      "isLDC": true,
+      "isLLDC": true,
+      "isSIDS": false,
+      "parentM49": "034",
+      "isLeaf": true,
+      "members": null
+    }
+    ]
     """
+
     # Make the GET request to the API
     response = requests.get(url_m49, headers=headers)
     response.raise_for_status()  # Raise an exception for bad status codes
@@ -49,9 +68,7 @@ def download_m49_mapping(output_file):
     # keep a subset of the cols
     df = df[columns_to_keep]
 
-    # Save the DataFrame to a CSV file
-    df.to_csv(output_file, index=False)
-    print(f"Successfully downloaded and saved M49 mapping to {output_file}")
+    return df
 
 
 if __name__ == "__main__":
@@ -65,4 +82,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Call the download function
-    download_m49_mapping(args.output_file)
+    df = download_m49_mapping(args.output_file)
+
+    # Save the DataFrame to a CSV file
+    df.to_csv(args.output_file, index=False)
+    print(f"Successfully downloaded and saved M49 mapping to {args.output_file}")
