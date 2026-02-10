@@ -6,3 +6,5 @@ script_temp
 temp
 
 .venv
+.pyc
+__pycache__
