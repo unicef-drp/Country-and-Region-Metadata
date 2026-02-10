@@ -51,5 +51,6 @@ python 00_run_unsdg.py <path_to_MAP_UNSD_UNICEF_regions.csv> <output_folder>
 
 #### Example
 ```bash
-python 00_run_unsdg.py C:\Country-and-Region-Metadata\raw_data\UNSDG_REGION_GLOBAL\MAP_UNSD_UNICEF_regions.csv ..\output\UNSDG
+python 00_run_unsdg.py C:\Country-and-Region-Metadata\raw_data\UNSDG_REGION_GLOBAL\MAP_UNSD_UNICEF_regions.csv C:\Country-and-Region-Metadata\output\UNSDG
 ```
+

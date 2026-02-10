@@ -4,8 +4,6 @@ import os
 import argparse
 
 
-# python unsdg_api_m49_mapping_download.py C:\gitRepos\Country-and-Region-Metadata\output\UNSDG\m49_mapping.csv
-
 # API endpoint
 url_m49 = "https://unstats.un.org/UNSDWebsiteAPI/Home/get-m49"
 headers = {"accept": "application/json"}
@@ -48,6 +46,7 @@ def download_m49_mapping() -> pd.DataFrame:
     df = pd.DataFrame(data)
 
     # Define the columns to be extracted
+    # Select only the columns necessary for the metadata mapping
     columns_to_keep = [
         "m49",
         "isoAlpha2",
@@ -82,7 +81,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Call the download function
-    df = download_m49_mapping(args.output_file)
+    df = download_m49_mapping()
 
     # Save the DataFrame to a CSV file
     df.to_csv(args.output_file, index=False)

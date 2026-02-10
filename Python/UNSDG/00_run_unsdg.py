@@ -1,7 +1,5 @@
-import subprocess
 import argparse
 import os
-import sys
 import pandas as pd
 import csv
 
@@ -21,25 +19,10 @@ OUTPUT_COL_ORDER = [
     "Type",
 ]
 
-# def run_script(script_name, *args):
-#     """Runs a python script using the same interpreter and checks for errors."""
-#     try:
-#         print(f"Running {script_name}...")
-#         command = [sys.executable, script_name] + list(args)
-#         result = subprocess.run(command, check=True, capture_output=True, text=True, encoding='utf-8')
-#         print(result.stdout)
-#         if result.stderr:
-#             print("Error output:")
-#             print(result.stderr)
-#         print(f"Successfully finished {script_name}.")
-#     except subprocess.CalledProcessError as e:
-#         print(f"Error running {script_name}:")
-#         print(e.stdout)
-#         print(e.stderr)
-#         sys.exit(1)
-
-
 def _load_unsd_unicef_regions_map(map_file_path) -> pd.DataFrame:
+    """
+    Loads the UNSD to UNICEF regions map from a CSV file.
+    """
     df = pd.read_csv(map_file_path, encoding="utf-8", dtype=str)
     return df
 
@@ -47,16 +30,21 @@ def _load_unsd_unicef_regions_map(map_file_path) -> pd.DataFrame:
 def _process_hierarchy(
     df_map_m49_unicef: pd.DataFrame, df_unsdg_hierarchy: pd.DataFrame
 ) -> pd.DataFrame:
-
+    """
+    Merges the UNSDG hierarchy with the UNICEF M49 mapping.
+    """
     # Start hierarchy processing and mapping
+
+    # Create a copy to avoid modifying the original dataframe
+    df_map = df_map_m49_unicef.copy()
 
     # Add UNICEF codes
     # remove leading 0s from the m49 code to match the items in the Tree (pulled later)
-    df_map_m49_unicef["m49"] = df_map_m49_unicef["m49"].str.lstrip("0")
+    df_map["m49"] = df_map["m49"].str.lstrip("0")
     # Merge with m49 mapping data
     df_unsdg_hierarchy = pd.merge(
         df_unsdg_hierarchy,
-        df_map_m49_unicef,
+        df_map,
         left_on="Area_Code_M49",
         right_on="m49",
         how="left",
@@ -71,6 +59,9 @@ def _process_hierarchy(
 def _merge_m49_maps(
     df_map_m49_unicef: pd.DataFrame, df_unsd_unicef_regions_map: pd.DataFrame
 ) -> pd.DataFrame:
+    """
+    Merges the M49 mapping with the UNSD-UNICEF regions map.
+    """
     df = df_map_m49_unicef.copy()
     df["m49_s"] = df["m49"].str.lstrip("0")
 
@@ -114,16 +105,13 @@ def main():
     # Load the manual map for the regions
     df_unsd_unicef_regions_map = _load_unsd_unicef_regions_map(args.map_regions_path)
 
-    # print(df_map_m49_unicef.head())
-    # print(df_unsd_unicef_regions_map.head())
-
     # Ensure output directory exists
     os.makedirs(args.output_folder, exist_ok=True)
 
     df_map_m49_unicef = _merge_m49_maps(df_map_m49_unicef, df_unsd_unicef_regions_map)
 
     # Some areas are missing from the UNSD Tree hierarchy, add them
-    items_to_add = [
+    missing_regions = [
         "UNSDG_WESTERNASIANORTHERNAFR",
         "UNSDG_CENTRALASIASOUTHERNASIA",
         "UNSDG_EASTERNASIASOUTHEASTERNASIA",
@@ -137,7 +125,7 @@ def main():
                 df_unsd_unicef_regions_map["UNICEF_code"] == i, "M49_code"
             ].item(),
         }
-        for i in items_to_add
+        for i in missing_regions
     ]
     df_map_m49_unicef = pd.concat([df_map_m49_unicef, pd.DataFrame(items_to_add)])
 
