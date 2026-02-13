@@ -32,6 +32,8 @@ setnames(dtr_level1, "Group M49 Code", "GROUP_M49_CODE")
 setnames(dtr_level1, "M49 Code", "M49_CODE")
 setnames(dtr_level1, "Country", "FAO_COUNTRY")
 
+dtr_level1[GROUP_M49_CODE == 1 | GROUP_M49_CODE == "1", GROUP_M49_CODE := NA]
+
 # Keep regions
 regions_to_keep <- c("Net Food Importing Developing Countries (NFIDCs)" , 
                      "Low Income Food Deficit Countries (LIFDCs)", "World" )  
