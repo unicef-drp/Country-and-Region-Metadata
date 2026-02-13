@@ -33,3 +33,5 @@ dt_final <- add.country.name(dt_combined)
 # Output to file
 fwrite(dt_final, "output/UNICEF_NT.csv")
 
+create.code.book()
+bind.all.output()

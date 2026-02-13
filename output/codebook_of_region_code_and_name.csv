@@ -14,6 +14,9 @@ AUREC,AUREC_ECOWAS,Economic Community of West African States (ECOWAS),
 AUREC,AUREC_IGAD,Intergovernmental Authority on Development (IGAD),
 AUREC,AUREC_SADC,Southern African Development Community (SADC),
 AUREC,AUREC_ECOWAS_202502,Economic Community of West African States (ECOWAS) 202502,
+FAO_GLOBAL,FAO_LIFDC,Low Income Food Deficit Countries (LIFDCs),
+FAO_GLOBAL,"",Net Food Importing Developing Countries (NFIDCs),
+FAO_GLOBAL,"",World,
 SDGRC,SDGRC_ECA_AMU,ECA_AMU,98111
 SDGRC,SDGRC_AUC,ECA_African Union Commission,98106
 SDGRC,SDGRC_ECA_ALL,ECA_All countries,98100
@@ -80,6 +83,9 @@ SDGRC,SDGRC_ESCWA_GCC,ESCWA_Gulf Cooperation Council (GCC),98502
 SDGRC,SDGRC_ESCWA_MAGHREB,ESCWA_Maghreb subregion,98504
 SDGRC,SDGRC_ESCWA_MASHREQ,ESCWA_Mashreq subregion,98503
 SDGRC,SDGRC_ESCWA_NOCONFLICT_MID,ESCWA_Non-conflict middle income countries,98507
+UNICEF_HUMAN_REG_GLOBAL,UNICEF_HUMAN,Humanitarian Countries for IMPACT and OUTCOME reporting,
+UNICEF_NT,"",VAS_PRIORITY,
+UNICEF_SOWC,UNICEF_World,World,
 UNICEF_PROG_REG_GLOBAL,UNICEF_EAPRO,East Asia and Pacific,
 UNICEF_PROG_REG_GLOBAL,UNICEF_ESARO,Eastern and Southern Africa,
 UNICEF_PROG_REG_GLOBAL,UNICEF_ECARO,Europe and Central Asia,

@@ -88,6 +88,7 @@ add.country.name.FAO <- function(dc, dcname){
 dtr_FAO <- add.country.name.FAO(dtr_FAO)
 
 
-
 fwrite(dtr_FAO, "output/FAO_REGION_GLOBAL.csv")
 
+create.code.book()
+bind.all.output()
