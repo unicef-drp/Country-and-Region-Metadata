@@ -20,6 +20,7 @@ WB_INCOME,World Bank (high income),WB_HI,Chile,CHL
 WB_INCOME,World Bank (high income),WB_HI,"China, Hong Kong Special Administrative Region",HKG
 WB_INCOME,World Bank (high income),WB_HI,"China, Macao Special Administrative Region",MAC
 WB_INCOME,World Bank (high income),WB_HI,"China, Taiwan Province of China",TWN
+WB_INCOME,World Bank (high income),WB_HI,Costa Rica,CRI
 WB_INCOME,World Bank (high income),WB_HI,Croatia,HRV
 WB_INCOME,World Bank (high income),WB_HI,Curaçao,CUW
 WB_INCOME,World Bank (high income),WB_HI,Cyprus,CYP
@@ -93,7 +94,6 @@ WB_INCOME,World Bank (low income),WB_LI,Chad,TCD
 WB_INCOME,World Bank (low income),WB_LI,Democratic People's Republic of Korea,PRK
 WB_INCOME,World Bank (low income),WB_LI,Democratic Republic of the Congo,COD
 WB_INCOME,World Bank (low income),WB_LI,Eritrea,ERI
-WB_INCOME,World Bank (low income),WB_LI,Ethiopia,ETH
 WB_INCOME,World Bank (low income),WB_LI,Gambia,GMB
 WB_INCOME,World Bank (low income),WB_LI,Guinea-Bissau,GNB
 WB_INCOME,World Bank (low income),WB_LI,Liberia,LBR
@@ -116,7 +116,6 @@ WB_INCOME,World Bank (lower middle income),WB_LMI,Bangladesh,BGD
 WB_INCOME,World Bank (lower middle income),WB_LMI,Benin,BEN
 WB_INCOME,World Bank (lower middle income),WB_LMI,Bhutan,BTN
 WB_INCOME,World Bank (lower middle income),WB_LMI,Bolivia (Plurinational State of),BOL
-WB_INCOME,World Bank (lower middle income),WB_LMI,Cabo Verde,CPV
 WB_INCOME,World Bank (lower middle income),WB_LMI,Cambodia,KHM
 WB_INCOME,World Bank (lower middle income),WB_LMI,Cameroon,CMR
 WB_INCOME,World Bank (lower middle income),WB_LMI,Comoros,COM
@@ -141,13 +140,13 @@ WB_INCOME,World Bank (lower middle income),WB_LMI,Mauritania,MRT
 WB_INCOME,World Bank (lower middle income),WB_LMI,Micronesia (Federated States of),FSM
 WB_INCOME,World Bank (lower middle income),WB_LMI,Morocco,MAR
 WB_INCOME,World Bank (lower middle income),WB_LMI,Myanmar,MMR
+WB_INCOME,World Bank (lower middle income),WB_LMI,Namibia,NAM
 WB_INCOME,World Bank (lower middle income),WB_LMI,Nepal,NPL
 WB_INCOME,World Bank (lower middle income),WB_LMI,Nicaragua,NIC
 WB_INCOME,World Bank (lower middle income),WB_LMI,Nigeria,NGA
 WB_INCOME,World Bank (lower middle income),WB_LMI,Pakistan,PAK
 WB_INCOME,World Bank (lower middle income),WB_LMI,Papua New Guinea,PNG
 WB_INCOME,World Bank (lower middle income),WB_LMI,Philippines,PHL
-WB_INCOME,World Bank (lower middle income),WB_LMI,Samoa,WSM
 WB_INCOME,World Bank (lower middle income),WB_LMI,Sao Tome and Principe,STP
 WB_INCOME,World Bank (lower middle income),WB_LMI,Senegal,SEN
 WB_INCOME,World Bank (lower middle income),WB_LMI,Solomon Islands,SLB
@@ -172,9 +171,9 @@ WB_INCOME,World Bank (upper middle income),WB_UMI,Belize,BLZ
 WB_INCOME,World Bank (upper middle income),WB_UMI,Bosnia and Herzegovina,BIH
 WB_INCOME,World Bank (upper middle income),WB_UMI,Botswana,BWA
 WB_INCOME,World Bank (upper middle income),WB_UMI,Brazil,BRA
+WB_INCOME,World Bank (upper middle income),WB_UMI,Cabo Verde,CPV
 WB_INCOME,World Bank (upper middle income),WB_UMI,China,CHN
 WB_INCOME,World Bank (upper middle income),WB_UMI,Colombia,COL
-WB_INCOME,World Bank (upper middle income),WB_UMI,Costa Rica,CRI
 WB_INCOME,World Bank (upper middle income),WB_UMI,Cuba,CUB
 WB_INCOME,World Bank (upper middle income),WB_UMI,Dominica,DMA
 WB_INCOME,World Bank (upper middle income),WB_UMI,Dominican Republic,DOM
@@ -200,13 +199,13 @@ WB_INCOME,World Bank (upper middle income),WB_UMI,Mauritius,MUS
 WB_INCOME,World Bank (upper middle income),WB_UMI,Mexico,MEX
 WB_INCOME,World Bank (upper middle income),WB_UMI,Mongolia,MNG
 WB_INCOME,World Bank (upper middle income),WB_UMI,Montenegro,MNE
-WB_INCOME,World Bank (upper middle income),WB_UMI,Namibia,NAM
 WB_INCOME,World Bank (upper middle income),WB_UMI,North Macedonia,MKD
 WB_INCOME,World Bank (upper middle income),WB_UMI,Paraguay,PRY
 WB_INCOME,World Bank (upper middle income),WB_UMI,Peru,PER
 WB_INCOME,World Bank (upper middle income),WB_UMI,Republic of Moldova,MDA
 WB_INCOME,World Bank (upper middle income),WB_UMI,Saint Lucia,LCA
 WB_INCOME,World Bank (upper middle income),WB_UMI,Saint Vincent and the Grenadines,VCT
+WB_INCOME,World Bank (upper middle income),WB_UMI,Samoa,WSM
 WB_INCOME,World Bank (upper middle income),WB_UMI,Serbia,SRB
 WB_INCOME,World Bank (upper middle income),WB_UMI,South Africa,ZAF
 WB_INCOME,World Bank (upper middle income),WB_UMI,Suriname,SUR

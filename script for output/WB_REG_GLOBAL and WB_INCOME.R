@@ -16,15 +16,16 @@ source("R/general_functions.R")
 # https://datacatalogapi.worldbank.org/ddhxext/ResourceDownload?resource_unique_id=DR0090755
 
 # Download from API (which is the same file as going to the website above and download the Excel file)
-url <- "https://datacatalogapi.worldbank.org/ddhxext/ResourceDownload?resource_unique_id=DR0090755"
+# link needs to be updated
+# url0 <- "https://datacatalogfiles.worldbank.org/ddh-published/0037712/DR0090755/CLASS.xlsx"
+# 
+# download.file(
+#   url = url0,
+#   destfile = "raw_data/WB_REG_GLOBAL/CLASS_WB_FY2026.xlsx",  # or wbfile.zip if it's zipped
+#   mode = "wb"
+# )
 
-download.file(
-  url = "https://datacatalogapi.worldbank.org/ddhxext/ResourceDownload?resource_unique_id=DR0090755",
-  destfile = "raw_data/WB_REG_GLOBAL/CLASS_WB_FY2025.xlsx",  # or wbfile.zip if it's zipped
-  mode = "wb"
-)
-
-dtwb <- setDT(readxl::read_xlsx(file.path("raw_data/WB_REG_GLOBAL/CLASS_WB_FY2025.xlsx"), n_max = 218))
+dtwb <- setDT(readxl::read_xlsx(file.path("raw_data/WB_REG_GLOBAL/CLASS_WB_FY2026.xlsx"), n_max = 218))
 setnames(dtwb, "Code", "ISO3Code")
 
 dc <- fread("raw_data/internal/country.info.CME.csv")
@@ -42,10 +43,8 @@ unique(dtwb_reg$Region)
 
 
 # Revision 6/24/2025 Afghanistan and Pakistan have changed World Bank regions
-dtwb_reg[ISO3Code == "AFG", Region := "Middle East & North Africa"]
-dtwb_reg[ISO3Code == "PAK", Region := "Middle East & North Africa"]
-
-
+# dtwb_reg[ISO3Code == "AFG", Region := "Middle East, North Africa, Afghanistan & Pakistan"]
+# dtwb_reg[ISO3Code == "PAK", Region := "Middle East, North Africa, Afghanistan & Pakistan"]
 
 
 dtwb_reg[, Region := gsub("&", "and", Region)]
@@ -56,7 +55,7 @@ unique(dtwb_reg$Region)[!unique(dtwb_reg$Region) %in% dc$WBRegion1] # none
 id_projection <- c(
   "East Asia and Pacific" = "WB_EAP",
   "Latin America and the Caribbean" = "WB_LAC",
-  "Middle East and North Africa" = "WB_MNA",
+  "Middle East, North Africa, Afghanistan and Pakistan" = "WB_MNA",
   "North America" = "WB_NAR",
   "South Asia" = "WB_SAR",
   "Sub-Saharan Africa" = "WB_SSA",
@@ -74,6 +73,10 @@ unique(dtwb_reg$Region)[!unique(dtwb_reg$Region) %in% names(id_projection)] #non
 # 6: WB_SSA              Sub-Saharan Africa          NA WB_REG_GLOBAL
 
 dtwb_reg[, Region_Code := id_projection[Region]]
+reg_name <- grep("WB", colnames(dc), value = TRUE)
+dc[, WBRegion1 := gsub("Middle East and North Africa", "Middle East, North Africa, Afghanistan and Pakistan", WBRegion1)]
+dc[, WBRegion2 := gsub("Middle East and North Africa", "Middle East, North Africa, Afghanistan and Pakistan", WBRegion2)]
+dc[, table(WBRegion2)]
 
 dt_meta <- get.sdmx()
 dt_meta[parent == parent_code1, ]
@@ -120,7 +123,7 @@ recode_id_to_name <- c(
 table(dc$WBRegion4)
 table(dtwb_income$Region)
 # High income          Low income Lower middle income Upper middle income 
-# 86                  26                  51                  54 
+# 87                  25                  50                  54 
 check.against.dc(dt_out = dtwb_income, dc_col0 = "WBRegion4")
 
 recode_region_name <- c(

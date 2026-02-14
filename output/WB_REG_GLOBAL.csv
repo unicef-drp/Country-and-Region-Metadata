@@ -137,29 +137,29 @@ WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Turks and Caicos Islands,TC
 WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Uruguay,URY
 WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Venezuela (Bolivarian Republic of),VEN
 WB_REG_GLOBAL,Latin America and the Caribbean,WB_LAC,Virgin Islands U.S.,VIR
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Afghanistan,AFG
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Algeria,DZA
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Bahrain,BHR
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Djibouti,DJI
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Egypt,EGY
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Iran (Islamic Republic of),IRN
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Iraq,IRQ
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Israel,ISR
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Jordan,JOR
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Kuwait,KWT
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Lebanon,LBN
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Libya,LBY
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Malta,MLT
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Morocco,MAR
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Oman,OMN
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Pakistan,PAK
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Qatar,QAT
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Saudi Arabia,SAU
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,State of Palestine,PSE
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Syrian Arab Republic,SYR
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Tunisia,TUN
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,United Arab Emirates,ARE
-WB_REG_GLOBAL,Middle East and North Africa,WB_MNA,Yemen,YEM
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Afghanistan,AFG
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Algeria,DZA
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Bahrain,BHR
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Djibouti,DJI
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Egypt,EGY
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Iran (Islamic Republic of),IRN
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Iraq,IRQ
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Israel,ISR
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Jordan,JOR
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Kuwait,KWT
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Lebanon,LBN
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Libya,LBY
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Malta,MLT
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Morocco,MAR
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Oman,OMN
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Pakistan,PAK
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Qatar,QAT
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Saudi Arabia,SAU
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,State of Palestine,PSE
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Syrian Arab Republic,SYR
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Tunisia,TUN
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,United Arab Emirates,ARE
+WB_REG_GLOBAL,"Middle East, North Africa, Afghanistan and Pakistan",WB_MNA,Yemen,YEM
 WB_REG_GLOBAL,North America,WB_NAR,Bermuda,BMU
 WB_REG_GLOBAL,North America,WB_NAR,Canada,CAN
 WB_REG_GLOBAL,North America,WB_NAR,United States,USA

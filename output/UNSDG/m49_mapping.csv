@@ -1,282 +1,287 @@
-m49,isoAlpha2,isoAlpha3,nameEN,nameFR,nameES,nameRU,nameZH,nameAR,isLDC,isLLDC,isSIDS,parentM49,isLeaf
-001,,,World,Monde,Mundo,Весь мир,世界,العالم ,,,,,False
-002,,,Africa,Afrique,África,Африка,非洲,أفريقيا,,,,001,False
-004,AF,AFG,Afghanistan,Afghanistan,Afganistán,Афганистан,阿富汗,أفغانستان,True,True,False,034,True
-005,,,South America,Amérique du Sud,América del Sur,Южная Америка,南美洲,أمريكا الجنوبية,,,,419,False
-008,AL,ALB,Albania,Albanie,Albania,Албания,阿尔巴尼亚,ألبانيا,False,False,False,039,True
-009,,,Oceania,Océanie,Oceanía,Океания,大洋洲,أوقيانوسيا,,,,001,False
-010,AQ,ATA,Antarctica,Antarctique,Antártida,Антарктике,南极洲,أنتاركتيكا,False,False,False,001,True
-011,,,Western Africa,Afrique occidentale,África occidental,Западная Африка,西非,غرب أفريقيا,,,,202,False
-012,DZ,DZA,Algeria,Algérie,Argelia,Алжир,阿尔及利亚,الجزائر,False,False,False,015,True
-013,,,Central America,Amérique centrale,América central,Центральная Америка,中美洲,أمريكا الوسطى,,,,419,False
-014,,,Eastern Africa,Afrique orientale,África oriental,Восточная Африка,东非,شرق أفريقيا,,,,202,False
-015,,,Northern Africa,Afrique septentrionale,África septentrional,Северная Африка,北非,أفريقيا الشمالية,,,,002,False
-016,AS,ASM,American Samoa,Samoa américaines,Samoa Americana,Американское Самоа,美属萨摩亚,ساموا الأمريكية,False,False,True,061,True
-017,,,Middle Africa,Afrique centrale,África central,Центральная Африка,中非,وسط أفريقيا,,,,202,False
-018,,,Southern Africa,Afrique australe,África meridional,Южная часть Африки,南部非洲,الجنوب الأفريقي,,,,202,False
-019,,,Americas,Amériques,Américas,Северная и Южная Америка,美洲,الأمريكتان,,,,001,False
-020,AD,AND,Andorra,Andorre,Andorra,Андорра,安道尔,أندورا,False,False,False,039,True
-021,,,Northern America,Amérique septentrionale,América septentrional,Северная Америка,北美,أمريكا الشمالية,,,,019,False
-024,AO,AGO,Angola,Angola,Angola,Ангола,安哥拉,أنغولا,True,False,False,017,True
-028,AG,ATG,Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda,Антигуа и Барбуда,安提瓜和巴布达,أنتيغوا وبربودا,False,False,True,029,True
-029,,,Caribbean,Caraïbes,El Caribe,Карибский бассейн,加勒比,منطقة البحر الكاريبي,,,,419,False
-030,,,Eastern Asia,Asie orientale,Asia oriental,Восточная Азия,东亚,شرقي آسيا,,,,142,False
-031,AZ,AZE,Azerbaijan,Azerbaïdjan,Azerbaiyán,Азербайджан,阿塞拜疆,أذربيجان,False,True,False,145,True
-032,AR,ARG,Argentina,Argentine,Argentina,Аргентина,阿根廷,الأرجنتين,False,False,False,005,True
-034,,,Southern Asia,Asie méridionale,Asia meridional,Южная Азия,南亚,جنوب آسيا,,,,142,False
-035,,,South-eastern Asia,Asie du Sud-Est,Asia sudoriental,Юго-Восточная Азия,东南亚,جنوب شرقي آسيا,,,,142,False
-036,AU,AUS,Australia,Australie,Australia,Австралия,澳大利亚,أستراليا,False,False,False,053,True
-039,,,Southern Europe,Europe méridionale,Europa meridional,Южная Европа,南欧,أوروبا الجنوبية,,,,150,False
-040,AT,AUT,Austria,Autriche,Austria,Австрия,奥地利,النمسا,False,False,False,155,True
-044,BS,BHS,Bahamas,Bahamas,Bahamas,Багамские Острова,巴哈马,جزر البهاما,False,False,True,029,True
-048,BH,BHR,Bahrain,Bahreïn,Bahrein,Бахрейн,巴林,البحرين,False,False,False,145,True
-050,BD,BGD,Bangladesh,Bangladesh,Bangladesh,Бангладеш,孟加拉国,بنغلاديش,True,False,False,034,True
-051,AM,ARM,Armenia,Arménie,Armenia,Армения,亚美尼亚,أرمينيا,False,True,False,145,True
-052,BB,BRB,Barbados,Barbade,Barbados,Барбадос,巴巴多斯,بربادوس,False,False,True,029,True
-053,,,Australia and New Zealand,Australie et Nouvelle-Zélande,Australia y Nueva Zelandia,Австралия и Новая Зеландия,澳大利亚和新西兰,أستراليا ونيوزيلندا,,,,009,False
-054,,,Melanesia,Mélanésie,Melanesia,Меланезия,美拉尼西亚,ميلانيزيا,,,,009,False
-056,BE,BEL,Belgium,Belgique,Bélgica,Бельгия,比利时,بلجيكا,False,False,False,155,True
-057,,,Micronesia,Micronésie,Micronesia,Микронезия,密克罗尼西亚,ميكرونيزيا,,,,009,False
-060,BM,BMU,Bermuda,Bermudes,Bermuda,Бермудские острова,百慕大,برمودا,False,False,False,021,True
-061,,,Polynesia,Polynésie,Polinesia,Полинезия,波利尼西亚,بولينيزيا,,,,009,False
-064,BT,BTN,Bhutan,Bhoutan,Bhután,Бутан,不丹,بوتان,False,True,False,034,True
-068,BO,BOL,Bolivia (Plurinational State of),Bolivie (État plurinational de),Bolivia (Estado Plurinacional de),Боливия (Многонациональное Государство),多民族玻利维亚国,بوليفيا (دولة - المتعددة القوميات),False,True,False,005,True
-070,BA,BIH,Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina,Босния и Герцеговина,波斯尼亚和黑塞哥维那,البوسنة والهرسك,False,False,False,039,True
-072,BW,BWA,Botswana,Botswana,Botswana,Ботсвана,博茨瓦纳,بوتسوانا,False,True,False,018,True
-074,BV,BVT,Bouvet Island,Île Bouvet,Isla Bouvet,Остров Буве,布维岛,جزيرة بوفيت,False,False,False,005,True
-076,BR,BRA,Brazil,Brésil,Brasil,Бразилия,巴西,البرازيل,False,False,False,005,True
-084,BZ,BLZ,Belize,Belize,Belice,Белиз,伯利兹,بليز,False,False,True,013,True
-086,IO,IOT,British Indian Ocean Territory,Territoire britannique de l'océan Indien,Territorio Británico del Océano Índico,Британская территория в Индийском океане,英属印度洋领土,المحيط الهندي الإقليم البريطاني في,False,False,False,014,True
-090,SB,SLB,Solomon Islands,Îles Salomon,Islas Salomón,Соломоновы Острова,所罗门群岛,جزر سليمان,True,False,True,054,True
-092,VG,VGB,British Virgin Islands,Îles Vierges britanniques,Islas Vírgenes Británicas,Британские Виргинские острова,英属维尔京群岛,جزر فرجن البريطانية,False,False,True,029,True
-096,BN,BRN,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,Бруней-Даруссалам,文莱达鲁萨兰国,بروني دار السلام,False,False,False,035,True
-100,BG,BGR,Bulgaria,Bulgarie,Bulgaria,Болгария,保加利亚,بلغاريا,False,False,False,151,True
-104,MM,MMR,Myanmar,Myanmar,Myanmar,Мьянма,缅甸,ميانمار,True,False,False,035,True
-108,BI,BDI,Burundi,Burundi,Burundi,Бурунди,布隆迪,بوروندي,True,True,False,014,True
-112,BY,BLR,Belarus,Bélarus,Belarús,Беларусь,白俄罗斯,بيلاروس,False,False,False,151,True
-116,KH,KHM,Cambodia,Cambodge,Camboya,Камбоджа,柬埔寨,كمبوديا,True,False,False,035,True
-120,CM,CMR,Cameroon,Cameroun,Camerún,Камерун,喀麦隆,الكاميرون,False,False,False,017,True
-124,CA,CAN,Canada,Canada,Canadá,Канада,加拿大,كندا,False,False,False,021,True
-132,CV,CPV,Cabo Verde,Cabo Verde,Cabo Verde,Кабо-Верде,佛得角,كابو فيردي,False,False,True,011,True
-136,KY,CYM,Cayman Islands,Îles Caïmanes,Islas Caimán,Кайман острова,开曼群岛,جزر كايمان,False,False,False,029,True
-140,CF,CAF,Central African Republic,République centrafricaine,República Centroafricana,Центральноафриканская Республика,中非共和国,جمهورية أفريقيا الوسطى,True,True,False,017,True
-142,,,Asia,Asie,Asia,Азия,亚洲,آسيا,,,,001,False
-143,,,Central Asia,Asie centrale,Asia central,Центральная Азия,中亚,آسيا الوسطى,,,,142,False
-144,LK,LKA,Sri Lanka,Sri Lanka,Sri Lanka,Шри-Ланка,斯里兰卡,سري لانكا,False,False,False,034,True
-145,,,Western Asia,Asie occidentale,Asia occidental,Западная Азия,西亚,غربي آسيا,,,,142,False
-148,TD,TCD,Chad,Tchad,Chad,Чад,乍得,تشاد,True,True,False,017,True
-150,,,Europe,Europe,Europa,Европа,欧洲,أوروبا,,,,001,False
-151,,,Eastern Europe,Europe orientale,Europa oriental,Восточная Европа,东欧,أوروبا الشرقية,,,,150,False
-152,CL,CHL,Chile,Chili,Chile,Чили,智利,شيلي,False,False,False,005,True
-154,,,Northern Europe,Europe septentrionale,Europa septentrional,Северная Европа,北欧,أوروبا الشمالية,,,,150,False
-155,,,Western Europe,Europe occidentale,Europa occidental,Западная Европа,西欧,أوروبا الغربية,,,,150,False
-156,CN,CHN,China,Chine,China,Китай,中国,الصين,False,False,False,030,True
-162,CX,CXR,Christmas Island,Île Christmas,Isla Christmas,остров Рождества,圣诞岛,جزيرة عيد الميلاد,False,False,False,053,True
-166,CC,CCK,Cocos (Keeling) Islands,Îles des Cocos (Keeling),Islas Cocos (Keeling),Кокосовых (Килинг) островов,科科斯（基林）群岛,جزر كوكس (كيلينغ),False,False,False,053,True
-170,CO,COL,Colombia,Colombie,Colombia,Колумбия,哥伦比亚,كولومبيا,False,False,False,005,True
-174,KM,COM,Comoros,Comores,Comoras,Коморские Острова,科摩罗,جزر القمر,True,False,True,014,True
-175,YT,MYT,Mayotte,Mayotte,Mayotte,Остров Майотта,马约特,مايوت,False,False,False,014,True
-178,CG,COG,Congo,Congo,Congo,Конго,刚果,الكونغو,False,False,False,017,True
-180,CD,COD,Democratic Republic of the Congo,République démocratique du Congo,República Democrática del Congo,Демократическая Республика Конго,刚果民主共和国,جمهورية الكونغو الديمقراطية,True,False,False,017,True
-184,CK,COK,Cook Islands,Îles Cook,Islas Cook,Острова Кука,库克群岛,جزر كوك,False,False,True,061,True
-188,CR,CRI,Costa Rica,Costa Rica,Costa Rica,Коста-Рика,哥斯达黎加,كوستاريكا,False,False,False,013,True
-191,HR,HRV,Croatia,Croatie,Croacia,Хорватия,克罗地亚,كرواتيا,False,False,False,039,True
-192,CU,CUB,Cuba,Cuba,Cuba,Куба,古巴,كوبا,False,False,True,029,True
-196,CY,CYP,Cyprus,Chypre,Chipre,Кипр,塞浦路斯,قبرص,False,False,False,145,True
-199,,,Least Developed Countries (LDC),Pays les moins avancés,Países Menos Adelantados,Наименее развитые страны,最不发达国家,أقلّ البلدان نمواً,,,,001,False
-202,,,Sub-Saharan Africa,Afrique subsaharienne,África Subsahariana,Африка к югу от Сахары,撒哈拉以南非洲,أفريقيا جنوب الصحراء الكبرى,,,,002,False
-203,CZ,CZE,Czechia,Tchéquie,Chequia,Чехия,捷克,تشيكيا,False,False,False,151,True
-204,BJ,BEN,Benin,Bénin,Benin,Бенин,贝宁,بنن,True,False,False,011,True
-208,DK,DNK,Denmark,Danemark,Dinamarca,Дания,丹麦,الدانمرك,False,False,False,154,True
-212,DM,DMA,Dominica,Dominique,Dominica,Доминика,多米尼克,دومينيكا,False,False,True,029,True
-214,DO,DOM,Dominican Republic,République dominicaine,República Dominicana,Доминиканская Республика,多米尼加,الجمهورية الدومينيكية,False,False,True,029,True
-218,EC,ECU,Ecuador,Équateur,Ecuador,Эквадор,厄瓜多尔,إكوادور,False,False,False,005,True
-222,SV,SLV,El Salvador,El Salvador,El Salvador,Сальвадор,萨尔瓦多,السلفادور,False,False,False,013,True
-226,GQ,GNQ,Equatorial Guinea,Guinée équatoriale,Guinea Ecuatorial,Экваториальная Гвинея,赤道几内亚,غينيا الاستوائية,False,False,False,017,True
-231,ET,ETH,Ethiopia,Éthiopie,Etiopía,Эфиопия,埃塞俄比亚,إثيوبيا,True,True,False,014,True
-232,ER,ERI,Eritrea,Érythrée,Eritrea,Эритрея,厄立特里亚,إريتريا,True,False,False,014,True
-233,EE,EST,Estonia,Estonie,Estonia,Эстония,爱沙尼亚,إستونيا,False,False,False,154,True
-234,FO,FRO,Faroe Islands,Îles Féroé,Islas Feroe,Фарерские острова,法罗群岛,جزر فايرو,False,False,False,154,True
-238,FK,FLK,Falkland Islands (Malvinas),Îles Falkland (Malvinas),Islas Malvinas (Falkland),Фолклендские (Мальвинские) острова,福克兰群岛（马尔维纳斯）,جزر فوكلاند (مالفيناس),False,False,False,005,True
-239,GS,SGS,South Georgia and the South Sandwich Islands,Géorgie du Sud-et-les Îles Sandwich du Sud,Georgia del Sur y las Islas Sandwich del Sur,Южная Джорджия и Южные Сандвичевы острова,南乔治亚岛和南桑德韦奇岛,جورجيا الجنوبية وجزر ساندويتش الجنوبية,False,False,False,005,True
-242,FJ,FJI,Fiji,Fidji,Fiji,Фиджи,斐济,فيجي,False,False,True,054,True
-246,FI,FIN,Finland,Finlande,Finlandia,Финляндия,芬兰,فنلندا,False,False,False,154,True
-248,AX,ALA,Åland Islands,Îles d’Åland,Islas Åland,Аландских островов,奥兰群岛,جزر ألاند,False,False,False,154,True
-250,FR,FRA,France,France,Francia,Франция,法国,فرنسا,False,False,False,155,True
-254,GF,GUF,French Guiana,Guyane française,Guayana Francesa,Французская Гвиана,法属圭亚那,غيانا الفرنسية,False,False,False,005,True
-258,PF,PYF,French Polynesia,Polynésie française,Polinesia Francesa,Французская Полинезия,法属波利尼西亚,بولينيزيا الفرنسية,False,False,True,061,True
-260,TF,ATF,French Southern Territories,Terres australes françaises,Territorio de las Tierras Australes Francesas,Южные земли (французская заморская территория),法属南方领地,الأراضي الفرنسية الجنوبية الجنوبية ,False,False,False,014,True
-262,DJ,DJI,Djibouti,Djibouti,Djibouti,Джибути,吉布提,جيبوتي,True,False,False,014,True
-266,GA,GAB,Gabon,Gabon,Gabón,Габон,加蓬,غابون,False,False,False,017,True
-268,GE,GEO,Georgia,Géorgie,Georgia,Грузия,格鲁吉亚,جورجيا,False,False,False,145,True
-270,GM,GMB,Gambia,Gambie,Gambia,Гамбия,冈比亚,غامبيا,True,False,False,011,True
-275,PS,PSE,State of Palestine,État de Palestine,Estado de Palestina,Государство Палестина,巴勒斯坦国,دولة فلسطين,False,False,False,145,True
-276,DE,DEU,Germany,Allemagne,Alemania,Германия,德国,ألمانيا,False,False,False,155,True
-288,GH,GHA,Ghana,Ghana,Ghana,Гана,加纳,غانا,False,False,False,011,True
-292,GI,GIB,Gibraltar,Gibraltar,Gibraltar,Гибралтар,直布罗陀,جبل طارق,False,False,False,039,True
-296,KI,KIR,Kiribati,Kiribati,Kiribati,Кирибати,基里巴斯,كيريباس,True,False,True,057,True
-300,GR,GRC,Greece,Grèce,Grecia,Греция,希腊,اليونان,False,False,False,039,True
-304,GL,GRL,Greenland,Groenland,Groenlandia,Гренландия,格陵兰,غرينلند,False,False,False,021,True
-308,GD,GRD,Grenada,Grenade,Granada,Гренада,格林纳达,غرينادا,False,False,True,029,True
-312,GP,GLP,Guadeloupe,Guadeloupe,Guadalupe,Гваделупа,瓜德罗普,غوادلوب,False,False,False,029,True
-316,GU,GUM,Guam,Guam,Guam,Гуам,关岛,غوام,False,False,True,057,True
-320,GT,GTM,Guatemala,Guatemala,Guatemala,Гватемала,危地马拉,غواتيمالا,False,False,False,013,True
-324,GN,GIN,Guinea,Guinée,Guinea,Гвинея,几内亚,غينيا,True,False,False,011,True
-328,GY,GUY,Guyana,Guyana,Guyana,Гайана,圭亚那,غيانا,False,False,True,005,True
-332,HT,HTI,Haiti,Haïti,Haití,Гаити,海地,هايتي,True,False,True,029,True
-334,HM,HMD,Heard Island and McDonald Islands,Île Heard-et-Îles MacDonald,Islas Heard y McDonald,Остров Херд и острова Макдональд,赫德岛和麦克唐纳岛,جزيرة هيرد وجزر ماكدونالد,False,False,False,053,True
-336,VA,VAT,Holy See,Saint-Siège,Santa Sede,Святой Престол,教廷,الكرسي الرسولي,False,False,False,039,True
-340,HN,HND,Honduras,Honduras,Honduras,Гондурас,洪都拉斯,هندوراس,False,False,False,013,True
-344,HK,HKG,"China, Hong Kong Special Administrative Region","Chine, région administrative spéciale de Hong Kong","China, región administrativa especial de Hong Kong","Китай, Специальный административный район Гонконг",中国香港特别行政区,الصين، منطقة هونغ كونغ الإدارية الخاصة,False,False,False,030,True
-348,HU,HUN,Hungary,Hongrie,Hungría,Венгрия,匈牙利,هنغاريا,False,False,False,151,True
-352,IS,ISL,Iceland,Islande,Islandia,Исландия,冰岛,آيسلندا,False,False,False,154,True
-356,IN,IND,India,Inde,India,Индия,印度,الهند,False,False,False,034,True
-360,ID,IDN,Indonesia,Indonésie,Indonesia,Индонезия,印度尼西亚,إندونيسيا,False,False,False,035,True
-364,IR,IRN,Iran (Islamic Republic of),Iran (République islamique d’),Irán (República Islámica del),Иран (Исламская Республика),伊朗伊斯兰共和国,إيران (جمهورية - الإسلامية),False,False,False,034,True
-368,IQ,IRQ,Iraq,Iraq,Iraq,Ирак,伊拉克,العراق,False,False,False,145,True
-372,IE,IRL,Ireland,Irlande,Irlanda,Ирландия,爱尔兰,آيرلندا,False,False,False,154,True
-376,IL,ISR,Israel,Israël,Israel,Израиль,以色列,إسرائيل,False,False,False,145,True
-380,IT,ITA,Italy,Italie,Italia,Италия,意大利,إيطاليا,False,False,False,039,True
-384,CI,CIV,Côte d’Ivoire,Côte d’Ivoire,Côte d’Ivoire,Кот-д'Ивуар,科特迪瓦,كوت ديفوار,False,False,False,011,True
-388,JM,JAM,Jamaica,Jamaïque,Jamaica,Ямайка,牙买加,جامايكا,False,False,True,029,True
-392,JP,JPN,Japan,Japon,Japón,Япония,日本,اليابان,False,False,False,030,True
-398,KZ,KAZ,Kazakhstan,Kazakhstan,Kazajstán,Казахстан,哈萨克斯坦,كازاخستان,False,True,False,143,True
-400,JO,JOR,Jordan,Jordanie,Jordania,Иордания,约旦,الأردن,False,False,False,145,True
-404,KE,KEN,Kenya,Kenya,Kenya,Кения,肯尼亚,كينيا,False,False,False,014,True
-408,KP,PRK,Democratic People's Republic of Korea,République populaire démocratique de Corée,República Popular Democrática de Corea,Корейская Народно-Демократическая Республика,朝鲜民主主义人民共和国,جمهورية كوريا الشعبية الديمقراطية,False,False,False,030,True
-410,KR,KOR,Republic of Korea,République de Corée,República de Corea,Республика Корея,大韩民国,جمهورية كوريا,False,False,False,030,True
-414,KW,KWT,Kuwait,Koweït,Kuwait,Кувейт,科威特,الكويت,False,False,False,145,True
-417,KG,KGZ,Kyrgyzstan,Kirghizistan,Kirguistán,Кыргызстан,吉尔吉斯斯坦,قيرغيزستان,False,True,False,143,True
-418,LA,LAO,Lao People's Democratic Republic,République démocratique populaire lao,República Democrática Popular Lao,Лаосская Народно-Демократическая Республика,老挝人民民主共和国,جمهورية لاو الديمقراطية الشعبية,True,True,False,035,True
-419,,,Latin America and the Caribbean,Amérique latine et Caraïbes,América Latina y el Caribe,Латинская Америка и Карибский бассейн,拉丁美洲和加勒比,أمريكا اللاتينية ومنطقة البحر الكاريبي,,,,019,False
-422,LB,LBN,Lebanon,Liban,Líbano,Ливан,黎巴嫩,لبنان,False,False,False,145,True
-426,LS,LSO,Lesotho,Lesotho,Lesotho,Лесото,莱索托,ليسوتو,True,True,False,018,True
-428,LV,LVA,Latvia,Lettonie,Letonia,Латвия,拉脱维亚,لاتفيا,False,False,False,154,True
-430,LR,LBR,Liberia,Libéria,Liberia,Либерия,利比里亚,ليبريا,True,False,False,011,True
-432,,,Landlocked Developing Countries (LLDC),Pays en développement sans littoral,Países en Desarrollo Sin Litoral,"Развивающиеся страны, не имеющие выхода к морю",内陆发展中国家,البلدان النامية غير الساحلية,,,,001,False
-434,LY,LBY,Libya,Libye,Libia,Ливия,利比亚,ليبيا,False,False,False,015,True
-438,LI,LIE,Liechtenstein,Liechtenstein,Liechtenstein,Лихтенштейн,列支敦士登,ليختنشتاين,False,False,False,155,True
-440,LT,LTU,Lithuania,Lituanie,Lituania,Литва,立陶宛,ليتوانيا,False,False,False,154,True
-442,LU,LUX,Luxembourg,Luxembourg,Luxemburgo,Люксембург,卢森堡,لكسمبرغ,False,False,False,155,True
-446,MO,MAC,"China, Macao Special Administrative Region","Chine, région administrative spéciale de Macao","China, región administrativa especial de Macao","Китай, Специальный административный район Макао",中国澳门特别行政区,الصين، منطقة ماكاو الإدارية الخاصة,False,False,False,030,True
-450,MG,MDG,Madagascar,Madagascar,Madagascar,Мадагаскар,马达加斯加,مدغشقر,True,False,False,014,True
-454,MW,MWI,Malawi,Malawi,Malawi,Малави,马拉维,ملاوي,True,True,False,014,True
-458,MY,MYS,Malaysia,Malaisie,Malasia,Малайзия,马来西亚,ماليزيا,False,False,False,035,True
-462,MV,MDV,Maldives,Maldives,Maldivas,Мальдивские Острова,马尔代夫,ملديف,False,False,True,034,True
-466,ML,MLI,Mali,Mali,Malí,Мали,马里,مالي,True,True,False,011,True
-470,MT,MLT,Malta,Malte,Malta,Мальта,马耳他,مالطة,False,False,False,039,True
-474,MQ,MTQ,Martinique,Martinique,Martinica,Мартиника,马提尼克,مارتينيك,False,False,False,029,True
-478,MR,MRT,Mauritania,Mauritanie,Mauritania,Мавритания,毛里塔尼亚,موريتانيا,True,False,False,011,True
-480,MU,MUS,Mauritius,Maurice,Mauricio,Маврикий,毛里求斯,موريشيوس,False,False,True,014,True
-484,MX,MEX,Mexico,Mexique,México,Мексика,墨西哥,المكسيك,False,False,False,013,True
-492,MC,MCO,Monaco,Monaco,Mónaco,Монако,摩纳哥,موناكو,False,False,False,155,True
-496,MN,MNG,Mongolia,Mongolie,Mongolia,Монголия,蒙古,منغوليا,False,True,False,030,True
-498,MD,MDA,Republic of Moldova,République de Moldova,República de Moldova,Республика Молдова,摩尔多瓦共和国,جمهورية مولدوفا,False,True,False,151,True
-499,ME,MNE,Montenegro,Monténégro,Montenegro,Черногория,黑山,الجبل الأسود,False,False,False,039,True
-500,MS,MSR,Montserrat,Montserrat,Montserrat,Монтсеррат,蒙特塞拉特,مونتسيرات,False,False,True,029,True
-504,MA,MAR,Morocco,Maroc,Marruecos,Марокко,摩洛哥,المغرب,False,False,False,015,True
-508,MZ,MOZ,Mozambique,Mozambique,Mozambique,Мозамбик,莫桑比克,موزامبيق,True,False,False,014,True
-512,OM,OMN,Oman,Oman,Omán,Оман,阿曼,عمان,False,False,False,145,True
-516,NA,NAM,Namibia,Namibie,Namibia,Намибия,纳米比亚,ناميبيا,False,False,False,018,True
-520,NR,NRU,Nauru,Nauru,Nauru,Науру,瑙鲁,ناورو,False,False,True,057,True
-524,NP,NPL,Nepal,Népal,Nepal,Непал,尼泊尔,نيبال,True,True,False,034,True
-528,NL,NLD,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los),Нидерланды (Королевство),荷兰王国,هولندا (مملكة _),False,False,False,155,True
-531,CW,CUW,Curaçao,Curaçao,Curazao,Кюрасао,库拉索,كوراساو,False,False,True,029,True
-533,AW,ABW,Aruba,Aruba,Aruba,Аруба,阿鲁巴,أروبا,False,False,True,029,True
-534,SX,SXM,Sint Maarten (Dutch part),Saint-Martin (partie néerlandaise),San Martín (parte Holandesa),Синт-Мартен (нидерландская часть),圣马丁（荷属）,سانت مارتن (الجزء الهولندي),False,False,True,029,True
-535,BQ,BES,"Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba","Bonaire, San Eustaquio y Saba","Бонайре, Синт-Эстатиус и Саба",博纳尔，圣俄斯塔休斯和萨巴,بونير وسانت يوستاشيوس وسابا,False,False,True,029,True
-540,NC,NCL,New Caledonia,Nouvelle-Calédonie,Nueva Caledonia,Новая Каледония,新喀里多尼亚,كاليدونيا الجديدة,False,False,True,054,True
-548,VU,VUT,Vanuatu,Vanuatu,Vanuatu,Вануату,瓦努阿图,فانواتو,False,False,True,054,True
-554,NZ,NZL,New Zealand,Nouvelle-Zélande,Nueva Zelandia,Новая Зеландия,新西兰,نيوزيلندا,False,False,False,053,True
-558,NI,NIC,Nicaragua,Nicaragua,Nicaragua,Никарагуа,尼加拉瓜,نيكاراغوا,False,False,False,013,True
-562,NE,NER,Niger,Niger,Níger,Нигер,尼日尔,النيجر,True,True,False,011,True
-566,NG,NGA,Nigeria,Nigéria,Nigeria,Нигерия,尼日利亚,نيجيريا,False,False,False,011,True
-570,NU,NIU,Niue,Nioué,Niue,Ниуэ,纽埃,نيوي,False,False,True,061,True
-574,NF,NFK,Norfolk Island,Île Norfolk,Isla Norfolk,Остров Норфолк,诺福克岛,جزيرة نورفولك,False,False,False,053,True
-578,NO,NOR,Norway,Norvège,Noruega,Норвегия,挪威,النرويج,False,False,False,154,True
-580,MP,MNP,Northern Mariana Islands,Îles Mariannes du Nord,Islas Marianas Septentrionales,Северные Марианские острова,北马里亚纳群岛,جزر ماريانا الشمالية,False,False,True,057,True
-581,UM,UMI,United States Minor Outlying Islands,Îles mineures éloignées des États-Unis,Islas menores alejadas de Estados Unidos,Внешние малые острова Соединенных Штатов,美国本土外小岛屿,نائية التابعة للولايات المتحدة ,False,False,False,057,True
-583,FM,FSM,Micronesia (Federated States of),Micronésie (États fédérés de),Micronesia (Estados Federados de),Микронезия (Федеративные Штаты),密克罗尼西亚联邦,ميكرونيزيا (ولايات - الموحدة),False,False,True,057,True
-584,MH,MHL,Marshall Islands,Îles Marshall,Islas Marshall,Маршалловы Острова,马绍尔群岛,جزر مارشال,False,False,True,057,True
-585,PW,PLW,Palau,Palaos,Palau,Палау,帕劳,بالاو,False,False,True,057,True
-586,PK,PAK,Pakistan,Pakistan,Pakistán,Пакистан,巴基斯坦,باكستان,False,False,False,034,True
-591,PA,PAN,Panama,Panama,Panamá,Панама,巴拿马,بنما,False,False,False,013,True
-598,PG,PNG,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea,Папуа-Новая Гвинея,巴布亚新几内亚,بابوا غينيا الجديدة,False,False,True,054,True
-600,PY,PRY,Paraguay,Paraguay,Paraguay,Парагвай,巴拉圭,باراغواي,False,True,False,005,True
-604,PE,PER,Peru,Pérou,Perú,Перу,秘鲁,بيرو,False,False,False,005,True
-608,PH,PHL,Philippines,Philippines,Filipinas,Филиппины,菲律宾,الفلبين,False,False,False,035,True
-612,PN,PCN,Pitcairn,Pitcairn,Pitcairn,Питкэрн,皮特凯恩,بيتكرن,False,False,False,061,True
-616,PL,POL,Poland,Pologne,Polonia,Польша,波兰,بولندا,False,False,False,151,True
-620,PT,PRT,Portugal,Portugal,Portugal,Португалия,葡萄牙,البرتغال,False,False,False,039,True
-624,GW,GNB,Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,Гвинея-Бисау,几内亚比绍,غينيا - بيساو,True,False,True,011,True
-626,TL,TLS,Timor-Leste,Timor-Leste,Timor-Leste,Тимор-Лешти,东帝汶,تيمور - ليشتي,True,False,True,035,True
-630,PR,PRI,Puerto Rico,Porto Rico,Puerto Rico,Пуэрто-Рико,波多黎各,بورتوريكو,False,False,True,029,True
-634,QA,QAT,Qatar,Qatar,Qatar,Катар,卡塔尔,قطر,False,False,False,145,True
-638,RE,REU,Réunion,Réunion,Reunión,Реюньон,留尼汪,ريونيون,False,False,False,014,True
-642,RO,ROU,Romania,Roumanie,Rumania,Румыния,罗马尼亚,رومانيا,False,False,False,151,True
-643,RU,RUS,Russian Federation,Fédération de Russie,Federación de Rusia,Российская Федерация,俄罗斯联邦,الاتحاد الروسي,False,False,False,151,True
-646,RW,RWA,Rwanda,Rwanda,Rwanda,Руанда,卢旺达,رواندا,True,True,False,014,True
-652,BL,BLM,Saint Barthélemy,Saint-Barthélemy,San Barthélemy,Сен-Бартелеми,圣巴泰勒米,سان بارتليمي,False,False,False,029,True
-654,SH,SHN,Saint Helena,Sainte-Hélène,Santa Elena,Остров Святой Елены,圣赫勒拿,سانت هيلانة,False,False,False,011,True
-659,KN,KNA,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,Saint Kitts y Nevis,Сент-Китс и Невис,圣基茨和尼维斯,سانت كيتس ونيفس,False,False,True,029,True
-660,AI,AIA,Anguilla,Anguilla,Anguila,Ангилья,安圭拉,أنغويلا,False,False,True,029,True
-662,LC,LCA,Saint Lucia,Sainte-Lucie,Santa Lucía,Сент-Люсия,圣卢西亚,سانت لوسيا,False,False,True,029,True
-663,MF,MAF,Saint Martin (French Part),Saint-Martin (partie française),San Martín (parte francesa),Сен-Мартен (французская часть),圣马丁（法属）,سانت مارتن (الجزء الفرنسي),False,False,False,029,True
-666,PM,SPM,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,San Pedro y Miquelón,Сен-Пьер и Микелон,圣皮埃尔和密克隆,سان بيير وميكلون,False,False,False,021,True
-670,VC,VCT,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,San Vicente y las Granadinas,Сент-Винсент и Гренадины,圣文森特和格林纳丁斯,سانت فنسنت وجزر غرينادين,False,False,True,029,True
-674,SM,SMR,San Marino,Saint-Marin,San Marino,Сан-Марино,圣马力诺,سان مارينو,False,False,False,039,True
-678,ST,STP,Sao Tome and Principe,Sao Tomé-et-Principe,Santo Tomé y Príncipe,Сан-Томе и Принсипи,圣多美和普林西比,سان تومي وبرينسيبي,False,False,True,017,True
-682,SA,SAU,Saudi Arabia,Arabie saoudite,Arabia Saudita,Саудовская Аравия,沙特阿拉伯,المملكة العربية السعودية,False,False,False,145,True
-686,SN,SEN,Senegal,Sénégal,Senegal,Сенегал,塞内加尔,السنغال,True,False,False,011,True
-688,RS,SRB,Serbia,Serbie,Serbia,Сербия,塞尔维亚,صربيا,False,False,False,039,True
-690,SC,SYC,Seychelles,Seychelles,Seychelles,Сейшельские Острова,塞舌尔,سيشيل,False,False,True,014,True
-694,SL,SLE,Sierra Leone,Sierra Leone,Sierra Leona,Сьерра-Леоне,塞拉利昂,سيراليون,True,False,False,011,True
-702,SG,SGP,Singapore,Singapour,Singapur,Сингапур,新加坡,سنغافورة,False,False,True,035,True
-703,SK,SVK,Slovakia,Slovaquie,Eslovaquia,Словакия,斯洛伐克,سلوفاكيا,False,False,False,151,True
-704,VN,VNM,Viet Nam,Viet Nam,Viet Nam,Вьетнам,越南,فييت نام,False,False,False,035,True
-705,SI,SVN,Slovenia,Slovénie,Eslovenia,Словения,斯洛文尼亚,سلوفينيا,False,False,False,039,True
-706,SO,SOM,Somalia,Somalie,Somalia,Сомали,索马里,الصومال,True,False,False,014,True
-710,ZA,ZAF,South Africa,Afrique du Sud,Sudáfrica,Южная Африка,南非,جنوب أفريقيا,False,False,False,018,True
-716,ZW,ZWE,Zimbabwe,Zimbabwe,Zimbabwe,Зимбабве,津巴布韦,زمبابوي,False,True,False,014,True
-722,,,Small Island Developing States (SIDS),Petits États insulaires en développement,Pequeños Estados Insulares en Desarrollo,Малые островные развивающиеся государства,小岛屿发展中国家,الدول الجزرية الصغيرة النامية,,,,001,False
-724,ES,ESP,Spain,Espagne,España,Испания,西班牙,إسبانيا,False,False,False,039,True
-728,SS,SSD,South Sudan,Soudan du Sud,Sudán del Sur,Южный Судан,南苏丹,جنوب السودان,True,True,False,014,True
-729,SD,SDN,Sudan,Soudan,Sudán,Судан,苏丹,السودان,True,False,False,015,True
-732,EH,ESH,Western Sahara,Sahara occidental,Sáhara Occidental,Западная Сахара,西撒哈拉,الصحراء الغربية,False,False,False,015,True
-740,SR,SUR,Suriname,Suriname,Suriname,Суринам,苏里南,سورينام,False,False,True,005,True
-744,SJ,SJM,Svalbard and Jan Mayen Islands,Îles Svalbard-et-Jan Mayen,Islas Svalbard y Jan Mayen,Острова Свальбард и Ян-Майен,斯瓦尔巴群岛和扬马延岛,جزيرتي سفالبارد وجان مايِن,False,False,False,154,True
-748,SZ,SWZ,Eswatini,Eswatini,Eswatini,Эсватини,斯威士兰,إسواتيني,False,True,False,018,True
-752,SE,SWE,Sweden,Suède,Suecia,Швеция,瑞典,السويد,False,False,False,154,True
-756,CH,CHE,Switzerland,Suisse,Suiza,Швейцария,瑞士,سويسرا,False,False,False,155,True
-760,SY,SYR,Syrian Arab Republic,République arabe syrienne,República Árabe Siria,Сирийская Арабская Республика,阿拉伯叙利亚共和国,الجمهورية العربية السورية,False,False,False,145,True
-762,TJ,TJK,Tajikistan,Tadjikistan,Tayikistán,Таджикистан,塔吉克斯坦,طاجيكستان,False,True,False,143,True
-764,TH,THA,Thailand,Thaïlande,Tailandia,Таиланд,泰国,تايلند,False,False,False,035,True
-768,TG,TGO,Togo,Togo,Togo,Того,多哥,توغو,True,False,False,011,True
-772,TK,TKL,Tokelau,Tokélaou,Tokelau,Токелау,托克劳,توكيلاو,False,False,False,061,True
-776,TO,TON,Tonga,Tonga,Tonga,Тонга,汤加,تونغا,False,False,True,061,True
-780,TT,TTO,Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tabago,Тринидад и Тобаго,特立尼达和多巴哥,ترينيداد وتوباغو,False,False,True,029,True
-784,AE,ARE,United Arab Emirates,Émirats arabes unis,Emiratos Árabes Unidos,Объединенные Арабские Эмираты,阿拉伯联合酋长国,الإمارات العربية المتحدة,False,False,False,145,True
-788,TN,TUN,Tunisia,Tunisie,Túnez,Тунис,突尼斯,تونس,False,False,False,015,True
-792,TR,TUR,Türkiye,Türkiye,Türkiye,Турция,土耳其,تركيا,False,False,False,145,True
-795,TM,TKM,Turkmenistan,Turkménistan,Turkmenistán,Туркменистан,土库曼斯坦,تركمانستان,False,True,False,143,True
-796,TC,TCA,Turks and Caicos Islands,Îles Turques-et-Caïques,Islas Turcas y Caicos,Острова Теркс и Кайкос,特克斯和凯科斯群岛,جزر تركس وكايكوس,False,False,False,029,True
-798,TV,TUV,Tuvalu,Tuvalu,Tuvalu,Тувалу,图瓦卢,توفالو,True,False,True,061,True
-800,UG,UGA,Uganda,Ouganda,Uganda,Уганда,乌干达,أوغندا,True,True,False,014,True
-804,UA,UKR,Ukraine,Ukraine,Ucrania,Украина,乌克兰,أوكرانيا,False,False,False,151,True
-807,MK,MKD,North Macedonia,Macédoine du Nord,Macedonia del Norte,Северная Македония,北马其顿,مقدونيا الشمالية,False,True,False,039,True
-818,EG,EGY,Egypt,Égypte,Egipto,Египет,埃及,مصر,False,False,False,015,True
-826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte,Соединенное Королевство Великобритании и Северной Ирландии,大不列颠及北爱尔兰联合王国,المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية,False,False,False,154,True
-831,GG,GGY,Guernsey,Guernesey,Guernsey,Гернси,格恩西,غيرنسي,False,False,False,154,True
-832,JE,JEY,Jersey,Jersey,Jersey,Джерси,泽西,جيرسي,False,False,False,154,True
-833,IM,IMN,Isle of Man,Île de Man,Isla de Man,Остров Мэн,马恩岛,جزيرة مان,False,False,False,154,True
-834,TZ,TZA,United Republic of Tanzania,République-Unie de Tanzanie,República Unida de Tanzanía,Объединенная Республика Танзания,坦桑尼亚联合共和国,جمهورية تنزانيا المتحدة,True,False,False,014,True
-840,US,USA,United States of America,États-Unis d’Amérique,Estados Unidos de América,Соединенные Штаты Америки,美利坚合众国,الولايات المتحدة الأمريكية,False,False,False,021,True
-850,VI,VIR,United States Virgin Islands,Îles Vierges américaines,Islas Vírgenes de los Estados Unidos,Виргинские острова Соединенных Штатов,美属维尔京群岛,جزر فرجن التابعة للولايات المتحدة,False,False,True,029,True
-854,BF,BFA,Burkina Faso,Burkina Faso,Burkina Faso,Буркина-Фасо,布基纳法索,بوركينا فاسو,True,True,False,011,True
-858,UY,URY,Uruguay,Uruguay,Uruguay,Уругвай,乌拉圭,أوروغواي,False,False,False,005,True
-860,UZ,UZB,Uzbekistan,Ouzbékistan,Uzbekistán,Узбекистан,乌兹别克斯坦,أوزبكستان,False,True,False,143,True
-862,VE,VEN,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Venezuela (República Bolivariana de),Венесуэла (Боливарианская Республика),委内瑞拉玻利瓦尔共和国,فنزويلا (جمهورية - البوليفارية),False,False,False,005,True
-876,WF,WLF,Wallis and Futuna Islands,Îles Wallis-et-Futuna,Islas Wallis y Futuna,Острова Уоллис и Футуна,瓦利斯群岛和富图纳群岛,جزر واليس وفوتونا,False,False,False,061,True
-882,WS,WSM,Samoa,Samoa,Samoa,Самоа,萨摩亚,ساموا,False,False,True,061,True
-887,YE,YEM,Yemen,Yémen,Yemen,Йемен,也门,اليمن,True,False,False,145,True
-894,ZM,ZMB,Zambia,Zambie,Zambia,Замбия,赞比亚,زامبيا,True,True,False,014,True
+m49,isoAlpha2,isoAlpha3,nameEN,nameFR,nameES,nameRU,nameZH,nameAR,isLDC,isLLDC,isSIDS,parentM49,isLeaf,UNICEF_code
+001,,,World,Monde,Mundo,Весь мир,世界,العالم ,,,,,False,UNSDG_REGION_GLOBAL
+002,,,Africa,Afrique,África,Африка,非洲,أفريقيا,,,,001,False,UNSDG_AFRICA
+004,AF,AFG,Afghanistan,Afghanistan,Afganistán,Афганистан,阿富汗,أفغانستان,True,True,False,034,True,AFG
+005,,,South America,Amérique du Sud,América del Sur,Южная Америка,南美洲,أمريكا الجنوبية,,,,419,False,UNSDG_SOUTHAMR
+008,AL,ALB,Albania,Albanie,Albania,Албания,阿尔巴尼亚,ألبانيا,False,False,False,039,True,ALB
+009,,,Oceania,Océanie,Oceanía,Океания,大洋洲,أوقيانوسيا,,,,001,False,UNSDG_OCEANIA
+010,AQ,ATA,Antarctica,Antarctique,Antártida,Антарктике,南极洲,أنتاركتيكا,False,False,False,001,True,ATA
+011,,,Western Africa,Afrique occidentale,África occidental,Западная Африка,西非,غرب أفريقيا,,,,202,False,UNSDG_WESTERNAFR
+012,DZ,DZA,Algeria,Algérie,Argelia,Алжир,阿尔及利亚,الجزائر,False,False,False,015,True,DZA
+013,,,Central America,Amérique centrale,América central,Центральная Америка,中美洲,أمريكا الوسطى,,,,419,False,UNSDG_CENTRALAMR
+014,,,Eastern Africa,Afrique orientale,África oriental,Восточная Африка,东非,شرق أفريقيا,,,,202,False,UNSDG_EASTERNAFR
+015,,,Northern Africa,Afrique septentrionale,África septentrional,Северная Африка,北非,أفريقيا الشمالية,,,,002,False,UNSDG_NORTHAFR
+016,AS,ASM,American Samoa,Samoa américaines,Samoa Americana,Американское Самоа,美属萨摩亚,ساموا الأمريكية,False,False,True,061,True,ASM
+017,,,Middle Africa,Afrique centrale,África central,Центральная Африка,中非,وسط أفريقيا,,,,202,False,UNSDG_MIDDLEAFR
+018,,,Southern Africa,Afrique australe,África meridional,Южная часть Африки,南部非洲,الجنوب الأفريقي,,,,202,False,UNSDG_SOUTHERNAFR
+019,,,Americas,Amériques,Américas,Северная и Южная Америка,美洲,الأمريكتان,,,,001,False,UNSDG_AMERICAS
+020,AD,AND,Andorra,Andorre,Andorra,Андорра,安道尔,أندورا,False,False,False,039,True,AND
+021,,,Northern America,Amérique septentrionale,América septentrional,Северная Америка,北美,أمريكا الشمالية,,,,019,False,UNSDG_NORTHERNAMR
+024,AO,AGO,Angola,Angola,Angola,Ангола,安哥拉,أنغولا,True,False,False,017,True,AGO
+028,AG,ATG,Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda,Антигуа и Барбуда,安提瓜和巴布达,أنتيغوا وبربودا,False,False,True,029,True,ATG
+029,,,Caribbean,Caraïbes,El Caribe,Карибский бассейн,加勒比,منطقة البحر الكاريبي,,,,419,False,UNSDG_CARIBBEAN
+030,,,Eastern Asia,Asie orientale,Asia oriental,Восточная Азия,东亚,شرقي آسيا,,,,142,False,UNSDG_EASTERNASIA
+031,AZ,AZE,Azerbaijan,Azerbaïdjan,Azerbaiyán,Азербайджан,阿塞拜疆,أذربيجان,False,True,False,145,True,AZE
+032,AR,ARG,Argentina,Argentine,Argentina,Аргентина,阿根廷,الأرجنتين,False,False,False,005,True,ARG
+034,,,Southern Asia,Asie méridionale,Asia meridional,Южная Азия,南亚,جنوب آسيا,,,,142,False,UNSDG_SOUTHASIA
+035,,,South-eastern Asia,Asie du Sud-Est,Asia sudoriental,Юго-Восточная Азия,东南亚,جنوب شرقي آسيا,,,,142,False,UNSDG_SOUTHEASTERNASIA
+036,AU,AUS,Australia,Australie,Australia,Австралия,澳大利亚,أستراليا,False,False,False,053,True,AUS
+039,,,Southern Europe,Europe méridionale,Europa meridional,Южная Европа,南欧,أوروبا الجنوبية,,,,150,False,UNSDG_SOUTHERNEUROPE
+040,AT,AUT,Austria,Autriche,Austria,Австрия,奥地利,النمسا,False,False,False,155,True,AUT
+044,BS,BHS,Bahamas,Bahamas,Bahamas,Багамские Острова,巴哈马,جزر البهاما,False,False,True,029,True,BHS
+048,BH,BHR,Bahrain,Bahreïn,Bahrein,Бахрейн,巴林,البحرين,False,False,False,145,True,BHR
+050,BD,BGD,Bangladesh,Bangladesh,Bangladesh,Бангладеш,孟加拉国,بنغلاديش,True,False,False,034,True,BGD
+051,AM,ARM,Armenia,Arménie,Armenia,Армения,亚美尼亚,أرمينيا,False,True,False,145,True,ARM
+052,BB,BRB,Barbados,Barbade,Barbados,Барбадос,巴巴多斯,بربادوس,False,False,True,029,True,BRB
+053,,,Australia and New Zealand,Australie et Nouvelle-Zélande,Australia y Nueva Zelandia,Австралия и Новая Зеландия,澳大利亚和新西兰,أستراليا ونيوزيلندا,,,,009,False,UNSDG_AUSTRALIANEWZEALAND
+054,,,Melanesia,Mélanésie,Melanesia,Меланезия,美拉尼西亚,ميلانيزيا,,,,009,False,UNSDG_MELANESIA
+056,BE,BEL,Belgium,Belgique,Bélgica,Бельгия,比利时,بلجيكا,False,False,False,155,True,BEL
+057,,,Micronesia,Micronésie,Micronesia,Микронезия,密克罗尼西亚,ميكرونيزيا,,,,009,False,UNSDG_MICRONESIA
+060,BM,BMU,Bermuda,Bermudes,Bermuda,Бермудские острова,百慕大,برمودا,False,False,False,021,True,BMU
+061,,,Polynesia,Polynésie,Polinesia,Полинезия,波利尼西亚,بولينيزيا,,,,009,False,UNSDG_POLYNESIA
+064,BT,BTN,Bhutan,Bhoutan,Bhután,Бутан,不丹,بوتان,False,True,False,034,True,BTN
+068,BO,BOL,Bolivia (Plurinational State of),Bolivie (État plurinational de),Bolivia (Estado Plurinacional de),Боливия (Многонациональное Государство),多民族玻利维亚国,بوليفيا (دولة - المتعددة القوميات),False,True,False,005,True,BOL
+070,BA,BIH,Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina,Босния и Герцеговина,波斯尼亚和黑塞哥维那,البوسنة والهرسك,False,False,False,039,True,BIH
+072,BW,BWA,Botswana,Botswana,Botswana,Ботсвана,博茨瓦纳,بوتسوانا,False,True,False,018,True,BWA
+074,BV,BVT,Bouvet Island,Île Bouvet,Isla Bouvet,Остров Буве,布维岛,جزيرة بوفيت,False,False,False,005,True,BVT
+076,BR,BRA,Brazil,Brésil,Brasil,Бразилия,巴西,البرازيل,False,False,False,005,True,BRA
+084,BZ,BLZ,Belize,Belize,Belice,Белиз,伯利兹,بليز,False,False,True,013,True,BLZ
+086,IO,IOT,British Indian Ocean Territory,Territoire britannique de l'océan Indien,Territorio Británico del Océano Índico,Британская территория в Индийском океане,英属印度洋领土,المحيط الهندي الإقليم البريطاني في,False,False,False,014,True,IOT
+090,SB,SLB,Solomon Islands,Îles Salomon,Islas Salomón,Соломоновы Острова,所罗门群岛,جزر سليمان,True,False,True,054,True,SLB
+092,VG,VGB,British Virgin Islands,Îles Vierges britanniques,Islas Vírgenes Británicas,Британские Виргинские острова,英属维尔京群岛,جزر فرجن البريطانية,False,False,True,029,True,VGB
+096,BN,BRN,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,Бруней-Даруссалам,文莱达鲁萨兰国,بروني دار السلام,False,False,False,035,True,BRN
+100,BG,BGR,Bulgaria,Bulgarie,Bulgaria,Болгария,保加利亚,بلغاريا,False,False,False,151,True,BGR
+104,MM,MMR,Myanmar,Myanmar,Myanmar,Мьянма,缅甸,ميانمار,True,False,False,035,True,MMR
+108,BI,BDI,Burundi,Burundi,Burundi,Бурунди,布隆迪,بوروندي,True,True,False,014,True,BDI
+112,BY,BLR,Belarus,Bélarus,Belarús,Беларусь,白俄罗斯,بيلاروس,False,False,False,151,True,BLR
+116,KH,KHM,Cambodia,Cambodge,Camboya,Камбоджа,柬埔寨,كمبوديا,True,False,False,035,True,KHM
+120,CM,CMR,Cameroon,Cameroun,Camerún,Камерун,喀麦隆,الكاميرون,False,False,False,017,True,CMR
+124,CA,CAN,Canada,Canada,Canadá,Канада,加拿大,كندا,False,False,False,021,True,CAN
+132,CV,CPV,Cabo Verde,Cabo Verde,Cabo Verde,Кабо-Верде,佛得角,كابو فيردي,False,False,True,011,True,CPV
+136,KY,CYM,Cayman Islands,Îles Caïmanes,Islas Caimán,Кайман острова,开曼群岛,جزر كايمان,False,False,False,029,True,CYM
+140,CF,CAF,Central African Republic,République centrafricaine,República Centroafricana,Центральноафриканская Республика,中非共和国,جمهورية أفريقيا الوسطى,True,True,False,017,True,CAF
+142,,,Asia,Asie,Asia,Азия,亚洲,آسيا,,,,001,False,UNSDG_ASIA
+143,,,Central Asia,Asie centrale,Asia central,Центральная Азия,中亚,آسيا الوسطى,,,,142,False,UNSDG_CENTRALASIA
+144,LK,LKA,Sri Lanka,Sri Lanka,Sri Lanka,Шри-Ланка,斯里兰卡,سري لانكا,False,False,False,034,True,LKA
+145,,,Western Asia,Asie occidentale,Asia occidental,Западная Азия,西亚,غربي آسيا,,,,142,False,UNSDG_WESTERNASIA
+148,TD,TCD,Chad,Tchad,Chad,Чад,乍得,تشاد,True,True,False,017,True,TCD
+150,,,Europe,Europe,Europa,Европа,欧洲,أوروبا,,,,001,False,UNSDG_EUROPE
+151,,,Eastern Europe,Europe orientale,Europa oriental,Восточная Европа,东欧,أوروبا الشرقية,,,,150,False,UNSDG_EASTERNEUROPE
+152,CL,CHL,Chile,Chili,Chile,Чили,智利,شيلي,False,False,False,005,True,CHL
+154,,,Northern Europe,Europe septentrionale,Europa septentrional,Северная Европа,北欧,أوروبا الشمالية,,,,150,False,UNSDG_NORTHERNEUROPE
+155,,,Western Europe,Europe occidentale,Europa occidental,Западная Европа,西欧,أوروبا الغربية,,,,150,False,UNSDG_WESTERNEUROPE
+156,CN,CHN,China,Chine,China,Китай,中国,الصين,False,False,False,030,True,CHN
+162,CX,CXR,Christmas Island,Île Christmas,Isla Christmas,остров Рождества,圣诞岛,جزيرة عيد الميلاد,False,False,False,053,True,CXR
+166,CC,CCK,Cocos (Keeling) Islands,Îles des Cocos (Keeling),Islas Cocos (Keeling),Кокосовых (Килинг) островов,科科斯（基林）群岛,جزر كوكس (كيلينغ),False,False,False,053,True,CCK
+170,CO,COL,Colombia,Colombie,Colombia,Колумбия,哥伦比亚,كولومبيا,False,False,False,005,True,COL
+174,KM,COM,Comoros,Comores,Comoras,Коморские Острова,科摩罗,جزر القمر,True,False,True,014,True,COM
+175,YT,MYT,Mayotte,Mayotte,Mayotte,Остров Майотта,马约特,مايوت,False,False,False,014,True,MYT
+178,CG,COG,Congo,Congo,Congo,Конго,刚果,الكونغو,False,False,False,017,True,COG
+180,CD,COD,Democratic Republic of the Congo,République démocratique du Congo,República Democrática del Congo,Демократическая Республика Конго,刚果民主共和国,جمهورية الكونغو الديمقراطية,True,False,False,017,True,COD
+184,CK,COK,Cook Islands,Îles Cook,Islas Cook,Острова Кука,库克群岛,جزر كوك,False,False,True,061,True,COK
+188,CR,CRI,Costa Rica,Costa Rica,Costa Rica,Коста-Рика,哥斯达黎加,كوستاريكا,False,False,False,013,True,CRI
+191,HR,HRV,Croatia,Croatie,Croacia,Хорватия,克罗地亚,كرواتيا,False,False,False,039,True,HRV
+192,CU,CUB,Cuba,Cuba,Cuba,Куба,古巴,كوبا,False,False,True,029,True,CUB
+196,CY,CYP,Cyprus,Chypre,Chipre,Кипр,塞浦路斯,قبرص,False,False,False,145,True,CYP
+199,,,Least Developed Countries (LDC),Pays les moins avancés,Países Menos Adelantados,Наименее развитые страны,最不发达国家,أقلّ البلدان نمواً,,,,001,False,UNSDG_LDC
+202,,,Sub-Saharan Africa,Afrique subsaharienne,África Subsahariana,Африка к югу от Сахары,撒哈拉以南非洲,أفريقيا جنوب الصحراء الكبرى,,,,002,False,UNSDG_SUBSAHARANAFRICA
+203,CZ,CZE,Czechia,Tchéquie,Chequia,Чехия,捷克,تشيكيا,False,False,False,151,True,CZE
+204,BJ,BEN,Benin,Bénin,Benin,Бенин,贝宁,بنن,True,False,False,011,True,BEN
+208,DK,DNK,Denmark,Danemark,Dinamarca,Дания,丹麦,الدانمرك,False,False,False,154,True,DNK
+212,DM,DMA,Dominica,Dominique,Dominica,Доминика,多米尼克,دومينيكا,False,False,True,029,True,DMA
+214,DO,DOM,Dominican Republic,République dominicaine,República Dominicana,Доминиканская Республика,多米尼加,الجمهورية الدومينيكية,False,False,True,029,True,DOM
+218,EC,ECU,Ecuador,Équateur,Ecuador,Эквадор,厄瓜多尔,إكوادور,False,False,False,005,True,ECU
+222,SV,SLV,El Salvador,El Salvador,El Salvador,Сальвадор,萨尔瓦多,السلفادور,False,False,False,013,True,SLV
+226,GQ,GNQ,Equatorial Guinea,Guinée équatoriale,Guinea Ecuatorial,Экваториальная Гвинея,赤道几内亚,غينيا الاستوائية,False,False,False,017,True,GNQ
+231,ET,ETH,Ethiopia,Éthiopie,Etiopía,Эфиопия,埃塞俄比亚,إثيوبيا,True,True,False,014,True,ETH
+232,ER,ERI,Eritrea,Érythrée,Eritrea,Эритрея,厄立特里亚,إريتريا,True,False,False,014,True,ERI
+233,EE,EST,Estonia,Estonie,Estonia,Эстония,爱沙尼亚,إستونيا,False,False,False,154,True,EST
+234,FO,FRO,Faroe Islands,Îles Féroé,Islas Feroe,Фарерские острова,法罗群岛,جزر فايرو,False,False,False,154,True,FRO
+238,FK,FLK,Falkland Islands (Malvinas),Îles Falkland (Malvinas),Islas Malvinas (Falkland),Фолклендские (Мальвинские) острова,福克兰群岛（马尔维纳斯）,جزر فوكلاند (مالفيناس),False,False,False,005,True,FLK
+239,GS,SGS,South Georgia and the South Sandwich Islands,Géorgie du Sud-et-les Îles Sandwich du Sud,Georgia del Sur y las Islas Sandwich del Sur,Южная Джорджия и Южные Сандвичевы острова,南乔治亚岛和南桑德韦奇岛,جورجيا الجنوبية وجزر ساندويتش الجنوبية,False,False,False,005,True,SGS
+242,FJ,FJI,Fiji,Fidji,Fiji,Фиджи,斐济,فيجي,False,False,True,054,True,FJI
+246,FI,FIN,Finland,Finlande,Finlandia,Финляндия,芬兰,فنلندا,False,False,False,154,True,FIN
+248,AX,ALA,Åland Islands,Îles d’Åland,Islas Åland,Аландских островов,奥兰群岛,جزر ألاند,False,False,False,154,True,ALA
+250,FR,FRA,France,France,Francia,Франция,法国,فرنسا,False,False,False,155,True,FRA
+254,GF,GUF,French Guiana,Guyane française,Guayana Francesa,Французская Гвиана,法属圭亚那,غيانا الفرنسية,False,False,False,005,True,GUF
+258,PF,PYF,French Polynesia,Polynésie française,Polinesia Francesa,Французская Полинезия,法属波利尼西亚,بولينيزيا الفرنسية,False,False,True,061,True,PYF
+260,TF,ATF,French Southern Territories,Terres australes françaises,Territorio de las Tierras Australes Francesas,Южные земли (французская заморская территория),法属南方领地,الأراضي الفرنسية الجنوبية الجنوبية ,False,False,False,014,True,ATF
+262,DJ,DJI,Djibouti,Djibouti,Djibouti,Джибути,吉布提,جيبوتي,True,False,False,014,True,DJI
+266,GA,GAB,Gabon,Gabon,Gabón,Габон,加蓬,غابون,False,False,False,017,True,GAB
+268,GE,GEO,Georgia,Géorgie,Georgia,Грузия,格鲁吉亚,جورجيا,False,False,False,145,True,GEO
+270,GM,GMB,Gambia,Gambie,Gambia,Гамбия,冈比亚,غامبيا,True,False,False,011,True,GMB
+275,PS,PSE,State of Palestine,État de Palestine,Estado de Palestina,Государство Палестина,巴勒斯坦国,دولة فلسطين,False,False,False,145,True,PSE
+276,DE,DEU,Germany,Allemagne,Alemania,Германия,德国,ألمانيا,False,False,False,155,True,DEU
+288,GH,GHA,Ghana,Ghana,Ghana,Гана,加纳,غانا,False,False,False,011,True,GHA
+292,GI,GIB,Gibraltar,Gibraltar,Gibraltar,Гибралтар,直布罗陀,جبل طارق,False,False,False,039,True,GIB
+296,KI,KIR,Kiribati,Kiribati,Kiribati,Кирибати,基里巴斯,كيريباس,True,False,True,057,True,KIR
+300,GR,GRC,Greece,Grèce,Grecia,Греция,希腊,اليونان,False,False,False,039,True,GRC
+304,GL,GRL,Greenland,Groenland,Groenlandia,Гренландия,格陵兰,غرينلند,False,False,False,021,True,GRL
+308,GD,GRD,Grenada,Grenade,Granada,Гренада,格林纳达,غرينادا,False,False,True,029,True,GRD
+312,GP,GLP,Guadeloupe,Guadeloupe,Guadalupe,Гваделупа,瓜德罗普,غوادلوب,False,False,False,029,True,GLP
+316,GU,GUM,Guam,Guam,Guam,Гуам,关岛,غوام,False,False,True,057,True,GUM
+320,GT,GTM,Guatemala,Guatemala,Guatemala,Гватемала,危地马拉,غواتيمالا,False,False,False,013,True,GTM
+324,GN,GIN,Guinea,Guinée,Guinea,Гвинея,几内亚,غينيا,True,False,False,011,True,GIN
+328,GY,GUY,Guyana,Guyana,Guyana,Гайана,圭亚那,غيانا,False,False,True,005,True,GUY
+332,HT,HTI,Haiti,Haïti,Haití,Гаити,海地,هايتي,True,False,True,029,True,HTI
+334,HM,HMD,Heard Island and McDonald Islands,Île Heard-et-Îles MacDonald,Islas Heard y McDonald,Остров Херд и острова Макдональд,赫德岛和麦克唐纳岛,جزيرة هيرد وجزر ماكدونالد,False,False,False,053,True,HMD
+336,VA,VAT,Holy See,Saint-Siège,Santa Sede,Святой Престол,教廷,الكرسي الرسولي,False,False,False,039,True,VAT
+340,HN,HND,Honduras,Honduras,Honduras,Гондурас,洪都拉斯,هندوراس,False,False,False,013,True,HND
+344,HK,HKG,"China, Hong Kong Special Administrative Region","Chine, région administrative spéciale de Hong Kong","China, región administrativa especial de Hong Kong","Китай, Специальный административный район Гонконг",中国香港特别行政区,الصين، منطقة هونغ كونغ الإدارية الخاصة,False,False,False,030,True,HKG
+348,HU,HUN,Hungary,Hongrie,Hungría,Венгрия,匈牙利,هنغاريا,False,False,False,151,True,HUN
+352,IS,ISL,Iceland,Islande,Islandia,Исландия,冰岛,آيسلندا,False,False,False,154,True,ISL
+356,IN,IND,India,Inde,India,Индия,印度,الهند,False,False,False,034,True,IND
+360,ID,IDN,Indonesia,Indonésie,Indonesia,Индонезия,印度尼西亚,إندونيسيا,False,False,False,035,True,IDN
+364,IR,IRN,Iran (Islamic Republic of),Iran (République islamique d’),Irán (República Islámica del),Иран (Исламская Республика),伊朗伊斯兰共和国,إيران (جمهورية - الإسلامية),False,False,False,034,True,IRN
+368,IQ,IRQ,Iraq,Iraq,Iraq,Ирак,伊拉克,العراق,False,False,False,145,True,IRQ
+372,IE,IRL,Ireland,Irlande,Irlanda,Ирландия,爱尔兰,آيرلندا,False,False,False,154,True,IRL
+376,IL,ISR,Israel,Israël,Israel,Израиль,以色列,إسرائيل,False,False,False,145,True,ISR
+380,IT,ITA,Italy,Italie,Italia,Италия,意大利,إيطاليا,False,False,False,039,True,ITA
+384,CI,CIV,Côte d’Ivoire,Côte d’Ivoire,Côte d’Ivoire,Кот-д'Ивуар,科特迪瓦,كوت ديفوار,False,False,False,011,True,CIV
+388,JM,JAM,Jamaica,Jamaïque,Jamaica,Ямайка,牙买加,جامايكا,False,False,True,029,True,JAM
+392,JP,JPN,Japan,Japon,Japón,Япония,日本,اليابان,False,False,False,030,True,JPN
+398,KZ,KAZ,Kazakhstan,Kazakhstan,Kazajstán,Казахстан,哈萨克斯坦,كازاخستان,False,True,False,143,True,KAZ
+400,JO,JOR,Jordan,Jordanie,Jordania,Иордания,约旦,الأردن,False,False,False,145,True,JOR
+404,KE,KEN,Kenya,Kenya,Kenya,Кения,肯尼亚,كينيا,False,False,False,014,True,KEN
+408,KP,PRK,Democratic People's Republic of Korea,République populaire démocratique de Corée,República Popular Democrática de Corea,Корейская Народно-Демократическая Республика,朝鲜民主主义人民共和国,جمهورية كوريا الشعبية الديمقراطية,False,False,False,030,True,PRK
+410,KR,KOR,Republic of Korea,République de Corée,República de Corea,Республика Корея,大韩民国,جمهورية كوريا,False,False,False,030,True,KOR
+414,KW,KWT,Kuwait,Koweït,Kuwait,Кувейт,科威特,الكويت,False,False,False,145,True,KWT
+417,KG,KGZ,Kyrgyzstan,Kirghizistan,Kirguistán,Кыргызстан,吉尔吉斯斯坦,قيرغيزستان,False,True,False,143,True,KGZ
+418,LA,LAO,Lao People's Democratic Republic,République démocratique populaire lao,República Democrática Popular Lao,Лаосская Народно-Демократическая Республика,老挝人民民主共和国,جمهورية لاو الديمقراطية الشعبية,True,True,False,035,True,LAO
+419,,,Latin America and the Caribbean,Amérique latine et Caraïbes,América Latina y el Caribe,Латинская Америка и Карибский бассейн,拉丁美洲和加勒比,أمريكا اللاتينية ومنطقة البحر الكاريبي,,,,019,False,UNSDG_LAC
+422,LB,LBN,Lebanon,Liban,Líbano,Ливан,黎巴嫩,لبنان,False,False,False,145,True,LBN
+426,LS,LSO,Lesotho,Lesotho,Lesotho,Лесото,莱索托,ليسوتو,True,True,False,018,True,LSO
+428,LV,LVA,Latvia,Lettonie,Letonia,Латвия,拉脱维亚,لاتفيا,False,False,False,154,True,LVA
+430,LR,LBR,Liberia,Libéria,Liberia,Либерия,利比里亚,ليبريا,True,False,False,011,True,LBR
+432,,,Landlocked Developing Countries (LLDC),Pays en développement sans littoral,Países en Desarrollo Sin Litoral,"Развивающиеся страны, не имеющие выхода к морю",内陆发展中国家,البلدان النامية غير الساحلية,,,,001,False,UNSDG_LLDC
+434,LY,LBY,Libya,Libye,Libia,Ливия,利比亚,ليبيا,False,False,False,015,True,LBY
+438,LI,LIE,Liechtenstein,Liechtenstein,Liechtenstein,Лихтенштейн,列支敦士登,ليختنشتاين,False,False,False,155,True,LIE
+440,LT,LTU,Lithuania,Lituanie,Lituania,Литва,立陶宛,ليتوانيا,False,False,False,154,True,LTU
+442,LU,LUX,Luxembourg,Luxembourg,Luxemburgo,Люксембург,卢森堡,لكسمبرغ,False,False,False,155,True,LUX
+446,MO,MAC,"China, Macao Special Administrative Region","Chine, région administrative spéciale de Macao","China, región administrativa especial de Macao","Китай, Специальный административный район Макао",中国澳门特别行政区,الصين، منطقة ماكاو الإدارية الخاصة,False,False,False,030,True,MAC
+450,MG,MDG,Madagascar,Madagascar,Madagascar,Мадагаскар,马达加斯加,مدغشقر,True,False,False,014,True,MDG
+454,MW,MWI,Malawi,Malawi,Malawi,Малави,马拉维,ملاوي,True,True,False,014,True,MWI
+458,MY,MYS,Malaysia,Malaisie,Malasia,Малайзия,马来西亚,ماليزيا,False,False,False,035,True,MYS
+462,MV,MDV,Maldives,Maldives,Maldivas,Мальдивские Острова,马尔代夫,ملديف,False,False,True,034,True,MDV
+466,ML,MLI,Mali,Mali,Malí,Мали,马里,مالي,True,True,False,011,True,MLI
+470,MT,MLT,Malta,Malte,Malta,Мальта,马耳他,مالطة,False,False,False,039,True,MLT
+474,MQ,MTQ,Martinique,Martinique,Martinica,Мартиника,马提尼克,مارتينيك,False,False,False,029,True,MTQ
+478,MR,MRT,Mauritania,Mauritanie,Mauritania,Мавритания,毛里塔尼亚,موريتانيا,True,False,False,011,True,MRT
+480,MU,MUS,Mauritius,Maurice,Mauricio,Маврикий,毛里求斯,موريشيوس,False,False,True,014,True,MUS
+484,MX,MEX,Mexico,Mexique,México,Мексика,墨西哥,المكسيك,False,False,False,013,True,MEX
+492,MC,MCO,Monaco,Monaco,Mónaco,Монако,摩纳哥,موناكو,False,False,False,155,True,MCO
+496,MN,MNG,Mongolia,Mongolie,Mongolia,Монголия,蒙古,منغوليا,False,True,False,030,True,MNG
+498,MD,MDA,Republic of Moldova,République de Moldova,República de Moldova,Республика Молдова,摩尔多瓦共和国,جمهورية مولدوفا,False,True,False,151,True,MDA
+499,ME,MNE,Montenegro,Monténégro,Montenegro,Черногория,黑山,الجبل الأسود,False,False,False,039,True,MNE
+500,MS,MSR,Montserrat,Montserrat,Montserrat,Монтсеррат,蒙特塞拉特,مونتسيرات,False,False,True,029,True,MSR
+504,MA,MAR,Morocco,Maroc,Marruecos,Марокко,摩洛哥,المغرب,False,False,False,015,True,MAR
+508,MZ,MOZ,Mozambique,Mozambique,Mozambique,Мозамбик,莫桑比克,موزامبيق,True,False,False,014,True,MOZ
+512,OM,OMN,Oman,Oman,Omán,Оман,阿曼,عمان,False,False,False,145,True,OMN
+516,NA,NAM,Namibia,Namibie,Namibia,Намибия,纳米比亚,ناميبيا,False,False,False,018,True,NAM
+520,NR,NRU,Nauru,Nauru,Nauru,Науру,瑙鲁,ناورو,False,False,True,057,True,NRU
+524,NP,NPL,Nepal,Népal,Nepal,Непал,尼泊尔,نيبال,True,True,False,034,True,NPL
+528,NL,NLD,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los),Нидерланды (Королевство),荷兰王国,هولندا (مملكة _),False,False,False,155,True,NLD
+531,CW,CUW,Curaçao,Curaçao,Curazao,Кюрасао,库拉索,كوراساو,False,False,True,029,True,CUW
+533,AW,ABW,Aruba,Aruba,Aruba,Аруба,阿鲁巴,أروبا,False,False,True,029,True,ABW
+534,SX,SXM,Sint Maarten (Dutch part),Saint-Martin (partie néerlandaise),San Martín (parte Holandesa),Синт-Мартен (нидерландская часть),圣马丁（荷属）,سانت مارتن (الجزء الهولندي),False,False,True,029,True,SXM
+535,BQ,BES,"Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba","Bonaire, San Eustaquio y Saba","Бонайре, Синт-Эстатиус и Саба",博纳尔，圣俄斯塔休斯和萨巴,بونير وسانت يوستاشيوس وسابا,False,False,True,029,True,BES
+540,NC,NCL,New Caledonia,Nouvelle-Calédonie,Nueva Caledonia,Новая Каледония,新喀里多尼亚,كاليدونيا الجديدة,False,False,True,054,True,NCL
+548,VU,VUT,Vanuatu,Vanuatu,Vanuatu,Вануату,瓦努阿图,فانواتو,False,False,True,054,True,VUT
+554,NZ,NZL,New Zealand,Nouvelle-Zélande,Nueva Zelandia,Новая Зеландия,新西兰,نيوزيلندا,False,False,False,053,True,NZL
+558,NI,NIC,Nicaragua,Nicaragua,Nicaragua,Никарагуа,尼加拉瓜,نيكاراغوا,False,False,False,013,True,NIC
+562,NE,NER,Niger,Niger,Níger,Нигер,尼日尔,النيجر,True,True,False,011,True,NER
+566,NG,NGA,Nigeria,Nigéria,Nigeria,Нигерия,尼日利亚,نيجيريا,False,False,False,011,True,NGA
+570,NU,NIU,Niue,Nioué,Niue,Ниуэ,纽埃,نيوي,False,False,True,061,True,NIU
+574,NF,NFK,Norfolk Island,Île Norfolk,Isla Norfolk,Остров Норфолк,诺福克岛,جزيرة نورفولك,False,False,False,053,True,NFK
+578,NO,NOR,Norway,Norvège,Noruega,Норвегия,挪威,النرويج,False,False,False,154,True,NOR
+580,MP,MNP,Northern Mariana Islands,Îles Mariannes du Nord,Islas Marianas Septentrionales,Северные Марианские острова,北马里亚纳群岛,جزر ماريانا الشمالية,False,False,True,057,True,MNP
+581,UM,UMI,United States Minor Outlying Islands,Îles mineures éloignées des États-Unis,Islas menores alejadas de Estados Unidos,Внешние малые острова Соединенных Штатов,美国本土外小岛屿,نائية التابعة للولايات المتحدة ,False,False,False,057,True,UMI
+583,FM,FSM,Micronesia (Federated States of),Micronésie (États fédérés de),Micronesia (Estados Federados de),Микронезия (Федеративные Штаты),密克罗尼西亚联邦,ميكرونيزيا (ولايات - الموحدة),False,False,True,057,True,FSM
+584,MH,MHL,Marshall Islands,Îles Marshall,Islas Marshall,Маршалловы Острова,马绍尔群岛,جزر مارشال,False,False,True,057,True,MHL
+585,PW,PLW,Palau,Palaos,Palau,Палау,帕劳,بالاو,False,False,True,057,True,PLW
+586,PK,PAK,Pakistan,Pakistan,Pakistán,Пакистан,巴基斯坦,باكستان,False,False,False,034,True,PAK
+591,PA,PAN,Panama,Panama,Panamá,Панама,巴拿马,بنما,False,False,False,013,True,PAN
+598,PG,PNG,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea,Папуа-Новая Гвинея,巴布亚新几内亚,بابوا غينيا الجديدة,False,False,True,054,True,PNG
+600,PY,PRY,Paraguay,Paraguay,Paraguay,Парагвай,巴拉圭,باراغواي,False,True,False,005,True,PRY
+604,PE,PER,Peru,Pérou,Perú,Перу,秘鲁,بيرو,False,False,False,005,True,PER
+608,PH,PHL,Philippines,Philippines,Filipinas,Филиппины,菲律宾,الفلبين,False,False,False,035,True,PHL
+612,PN,PCN,Pitcairn,Pitcairn,Pitcairn,Питкэрн,皮特凯恩,بيتكرن,False,False,False,061,True,PCN
+616,PL,POL,Poland,Pologne,Polonia,Польша,波兰,بولندا,False,False,False,151,True,POL
+620,PT,PRT,Portugal,Portugal,Portugal,Португалия,葡萄牙,البرتغال,False,False,False,039,True,PRT
+624,GW,GNB,Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,Гвинея-Бисау,几内亚比绍,غينيا - بيساو,True,False,True,011,True,GNB
+626,TL,TLS,Timor-Leste,Timor-Leste,Timor-Leste,Тимор-Лешти,东帝汶,تيمور - ليشتي,True,False,True,035,True,TLS
+630,PR,PRI,Puerto Rico,Porto Rico,Puerto Rico,Пуэрто-Рико,波多黎各,بورتوريكو,False,False,True,029,True,PRI
+634,QA,QAT,Qatar,Qatar,Qatar,Катар,卡塔尔,قطر,False,False,False,145,True,QAT
+638,RE,REU,Réunion,Réunion,Reunión,Реюньон,留尼汪,ريونيون,False,False,False,014,True,REU
+642,RO,ROU,Romania,Roumanie,Rumania,Румыния,罗马尼亚,رومانيا,False,False,False,151,True,ROU
+643,RU,RUS,Russian Federation,Fédération de Russie,Federación de Rusia,Российская Федерация,俄罗斯联邦,الاتحاد الروسي,False,False,False,151,True,RUS
+646,RW,RWA,Rwanda,Rwanda,Rwanda,Руанда,卢旺达,رواندا,True,True,False,014,True,RWA
+652,BL,BLM,Saint Barthélemy,Saint-Barthélemy,San Barthélemy,Сен-Бартелеми,圣巴泰勒米,سان بارتليمي,False,False,False,029,True,BLM
+654,SH,SHN,Saint Helena,Sainte-Hélène,Santa Elena,Остров Святой Елены,圣赫勒拿,سانت هيلانة,False,False,False,011,True,SHN
+659,KN,KNA,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,Saint Kitts y Nevis,Сент-Китс и Невис,圣基茨和尼维斯,سانت كيتس ونيفس,False,False,True,029,True,KNA
+660,AI,AIA,Anguilla,Anguilla,Anguila,Ангилья,安圭拉,أنغويلا,False,False,True,029,True,AIA
+662,LC,LCA,Saint Lucia,Sainte-Lucie,Santa Lucía,Сент-Люсия,圣卢西亚,سانت لوسيا,False,False,True,029,True,LCA
+663,MF,MAF,Saint Martin (French Part),Saint-Martin (partie française),San Martín (parte francesa),Сен-Мартен (французская часть),圣马丁（法属）,سانت مارتن (الجزء الفرنسي),False,False,False,029,True,MAF
+666,PM,SPM,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,San Pedro y Miquelón,Сен-Пьер и Микелон,圣皮埃尔和密克隆,سان بيير وميكلون,False,False,False,021,True,SPM
+670,VC,VCT,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,San Vicente y las Granadinas,Сент-Винсент и Гренадины,圣文森特和格林纳丁斯,سانت فنسنت وجزر غرينادين,False,False,True,029,True,VCT
+674,SM,SMR,San Marino,Saint-Marin,San Marino,Сан-Марино,圣马力诺,سان مارينو,False,False,False,039,True,SMR
+678,ST,STP,Sao Tome and Principe,Sao Tomé-et-Principe,Santo Tomé y Príncipe,Сан-Томе и Принсипи,圣多美和普林西比,سان تومي وبرينسيبي,False,False,True,017,True,STP
+682,SA,SAU,Saudi Arabia,Arabie saoudite,Arabia Saudita,Саудовская Аравия,沙特阿拉伯,المملكة العربية السعودية,False,False,False,145,True,SAU
+686,SN,SEN,Senegal,Sénégal,Senegal,Сенегал,塞内加尔,السنغال,True,False,False,011,True,SEN
+688,RS,SRB,Serbia,Serbie,Serbia,Сербия,塞尔维亚,صربيا,False,False,False,039,True,SRB
+690,SC,SYC,Seychelles,Seychelles,Seychelles,Сейшельские Острова,塞舌尔,سيشيل,False,False,True,014,True,SYC
+694,SL,SLE,Sierra Leone,Sierra Leone,Sierra Leona,Сьерра-Леоне,塞拉利昂,سيراليون,True,False,False,011,True,SLE
+702,SG,SGP,Singapore,Singapour,Singapur,Сингапур,新加坡,سنغافورة,False,False,True,035,True,SGP
+703,SK,SVK,Slovakia,Slovaquie,Eslovaquia,Словакия,斯洛伐克,سلوفاكيا,False,False,False,151,True,SVK
+704,VN,VNM,Viet Nam,Viet Nam,Viet Nam,Вьетнам,越南,فييت نام,False,False,False,035,True,VNM
+705,SI,SVN,Slovenia,Slovénie,Eslovenia,Словения,斯洛文尼亚,سلوفينيا,False,False,False,039,True,SVN
+706,SO,SOM,Somalia,Somalie,Somalia,Сомали,索马里,الصومال,True,False,False,014,True,SOM
+710,ZA,ZAF,South Africa,Afrique du Sud,Sudáfrica,Южная Африка,南非,جنوب أفريقيا,False,False,False,018,True,ZAF
+716,ZW,ZWE,Zimbabwe,Zimbabwe,Zimbabwe,Зимбабве,津巴布韦,زمبابوي,False,True,False,014,True,ZWE
+722,,,Small Island Developing States (SIDS),Petits États insulaires en développement,Pequeños Estados Insulares en Desarrollo,Малые островные развивающиеся государства,小岛屿发展中国家,الدول الجزرية الصغيرة النامية,,,,001,False,UNSDG_SIDS
+724,ES,ESP,Spain,Espagne,España,Испания,西班牙,إسبانيا,False,False,False,039,True,ESP
+728,SS,SSD,South Sudan,Soudan du Sud,Sudán del Sur,Южный Судан,南苏丹,جنوب السودان,True,True,False,014,True,SSD
+729,SD,SDN,Sudan,Soudan,Sudán,Судан,苏丹,السودان,True,False,False,015,True,SDN
+732,EH,ESH,Western Sahara,Sahara occidental,Sáhara Occidental,Западная Сахара,西撒哈拉,الصحراء الغربية,False,False,False,015,True,ESH
+740,SR,SUR,Suriname,Suriname,Suriname,Суринам,苏里南,سورينام,False,False,True,005,True,SUR
+744,SJ,SJM,Svalbard and Jan Mayen Islands,Îles Svalbard-et-Jan Mayen,Islas Svalbard y Jan Mayen,Острова Свальбард и Ян-Майен,斯瓦尔巴群岛和扬马延岛,جزيرتي سفالبارد وجان مايِن,False,False,False,154,True,SJM
+748,SZ,SWZ,Eswatini,Eswatini,Eswatini,Эсватини,斯威士兰,إسواتيني,False,True,False,018,True,SWZ
+752,SE,SWE,Sweden,Suède,Suecia,Швеция,瑞典,السويد,False,False,False,154,True,SWE
+756,CH,CHE,Switzerland,Suisse,Suiza,Швейцария,瑞士,سويسرا,False,False,False,155,True,CHE
+760,SY,SYR,Syrian Arab Republic,République arabe syrienne,República Árabe Siria,Сирийская Арабская Республика,阿拉伯叙利亚共和国,الجمهورية العربية السورية,False,False,False,145,True,SYR
+762,TJ,TJK,Tajikistan,Tadjikistan,Tayikistán,Таджикистан,塔吉克斯坦,طاجيكستان,False,True,False,143,True,TJK
+764,TH,THA,Thailand,Thaïlande,Tailandia,Таиланд,泰国,تايلند,False,False,False,035,True,THA
+768,TG,TGO,Togo,Togo,Togo,Того,多哥,توغو,True,False,False,011,True,TGO
+772,TK,TKL,Tokelau,Tokélaou,Tokelau,Токелау,托克劳,توكيلاو,False,False,False,061,True,TKL
+776,TO,TON,Tonga,Tonga,Tonga,Тонга,汤加,تونغا,False,False,True,061,True,TON
+780,TT,TTO,Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tabago,Тринидад и Тобаго,特立尼达和多巴哥,ترينيداد وتوباغو,False,False,True,029,True,TTO
+784,AE,ARE,United Arab Emirates,Émirats arabes unis,Emiratos Árabes Unidos,Объединенные Арабские Эмираты,阿拉伯联合酋长国,الإمارات العربية المتحدة,False,False,False,145,True,ARE
+788,TN,TUN,Tunisia,Tunisie,Túnez,Тунис,突尼斯,تونس,False,False,False,015,True,TUN
+792,TR,TUR,Türkiye,Türkiye,Türkiye,Турция,土耳其,تركيا,False,False,False,145,True,TUR
+795,TM,TKM,Turkmenistan,Turkménistan,Turkmenistán,Туркменистан,土库曼斯坦,تركمانستان,False,True,False,143,True,TKM
+796,TC,TCA,Turks and Caicos Islands,Îles Turques-et-Caïques,Islas Turcas y Caicos,Острова Теркс и Кайкос,特克斯和凯科斯群岛,جزر تركس وكايكوس,False,False,False,029,True,TCA
+798,TV,TUV,Tuvalu,Tuvalu,Tuvalu,Тувалу,图瓦卢,توفالو,True,False,True,061,True,TUV
+800,UG,UGA,Uganda,Ouganda,Uganda,Уганда,乌干达,أوغندا,True,True,False,014,True,UGA
+804,UA,UKR,Ukraine,Ukraine,Ucrania,Украина,乌克兰,أوكرانيا,False,False,False,151,True,UKR
+807,MK,MKD,North Macedonia,Macédoine du Nord,Macedonia del Norte,Северная Македония,北马其顿,مقدونيا الشمالية,False,True,False,039,True,MKD
+818,EG,EGY,Egypt,Égypte,Egipto,Египет,埃及,مصر,False,False,False,015,True,EGY
+826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte,Соединенное Королевство Великобритании и Северной Ирландии,大不列颠及北爱尔兰联合王国,المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية,False,False,False,154,True,GBR
+831,GG,GGY,Guernsey,Guernesey,Guernsey,Гернси,格恩西,غيرنسي,False,False,False,154,True,GGY
+832,JE,JEY,Jersey,Jersey,Jersey,Джерси,泽西,جيرسي,False,False,False,154,True,JEY
+833,IM,IMN,Isle of Man,Île de Man,Isla de Man,Остров Мэн,马恩岛,جزيرة مان,False,False,False,154,True,IMN
+834,TZ,TZA,United Republic of Tanzania,République-Unie de Tanzanie,República Unida de Tanzanía,Объединенная Республика Танзания,坦桑尼亚联合共和国,جمهورية تنزانيا المتحدة,True,False,False,014,True,TZA
+840,US,USA,United States of America,États-Unis d’Amérique,Estados Unidos de América,Соединенные Штаты Америки,美利坚合众国,الولايات المتحدة الأمريكية,False,False,False,021,True,USA
+850,VI,VIR,United States Virgin Islands,Îles Vierges américaines,Islas Vírgenes de los Estados Unidos,Виргинские острова Соединенных Штатов,美属维尔京群岛,جزر فرجن التابعة للولايات المتحدة,False,False,True,029,True,VIR
+854,BF,BFA,Burkina Faso,Burkina Faso,Burkina Faso,Буркина-Фасо,布基纳法索,بوركينا فاسو,True,True,False,011,True,BFA
+858,UY,URY,Uruguay,Uruguay,Uruguay,Уругвай,乌拉圭,أوروغواي,False,False,False,005,True,URY
+860,UZ,UZB,Uzbekistan,Ouzbékistan,Uzbekistán,Узбекистан,乌兹别克斯坦,أوزبكستان,False,True,False,143,True,UZB
+862,VE,VEN,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Venezuela (República Bolivariana de),Венесуэла (Боливарианская Республика),委内瑞拉玻利瓦尔共和国,فنزويلا (جمهورية - البوليفارية),False,False,False,005,True,VEN
+876,WF,WLF,Wallis and Futuna Islands,Îles Wallis-et-Futuna,Islas Wallis y Futuna,Острова Уоллис и Футуна,瓦利斯群岛和富图纳群岛,جزر واليس وفوتونا,False,False,False,061,True,WLF
+882,WS,WSM,Samoa,Samoa,Samoa,Самоа,萨摩亚,ساموا,False,False,True,061,True,WSM
+887,YE,YEM,Yemen,Yémen,Yemen,Йемен,也门,اليمن,True,False,False,145,True,YEM
+894,ZM,ZMB,Zambia,Zambie,Zambia,Замбия,赞比亚,زامبيا,True,True,False,014,True,ZMB
+747,,,,,,,,,,,,,,UNSDG_WESTERNASIANORTHERNAFR
+62,,,,,,,,,,,,,,UNSDG_CENTRALASIASOUTHERNASIA
+753,,,,,,,,,,,,,,UNSDG_EASTERNASIASOUTHEASTERNASIA
+513,,,,,,,,,,,,,,UNSDG_EUROPENORTHERNAMR
+543,,,,,,,,,,,,,,UNSDG_OCEANIAexAUSNZL
