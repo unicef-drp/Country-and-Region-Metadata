@@ -1,0 +1,440 @@
+Regional_Grouping,Region,Region_Code,Country,ISO3Code,M49_CODE,WPP_COUNTRY
+WPP_GLOBAL,World,,,ESH,732,Western Sahara
+WPP_GLOBAL,World,,,GGY,831,Guernsey
+WPP_GLOBAL,World,,,JEY,832,Jersey
+WPP_GLOBAL,World,,Afghanistan,AFG,4,Afghanistan
+WPP_GLOBAL,World,,Albania,ALB,8,Albania
+WPP_GLOBAL,World,,Algeria,DZA,12,Algeria
+WPP_GLOBAL,World,,American Samoa,ASM,16,American Samoa
+WPP_GLOBAL,World,,Andorra,AND,20,Andorra
+WPP_GLOBAL,World,,Angola,AGO,24,Angola
+WPP_GLOBAL,World,,Anguilla,AIA,660,Anguilla
+WPP_GLOBAL,World,,Antigua and Barbuda,ATG,28,Antigua and Barbuda
+WPP_GLOBAL,World,,Argentina,ARG,32,Argentina
+WPP_GLOBAL,World,,Armenia,ARM,51,Armenia
+WPP_GLOBAL,World,,Aruba,ABW,533,Aruba
+WPP_GLOBAL,World,,Australia,AUS,36,Australia
+WPP_GLOBAL,World,,Austria,AUT,40,Austria
+WPP_GLOBAL,World,,Azerbaijan,AZE,31,Azerbaijan
+WPP_GLOBAL,World,,Bahamas,BHS,44,Bahamas
+WPP_GLOBAL,World,,Bahrain,BHR,48,Bahrain
+WPP_GLOBAL,World,,Bangladesh,BGD,50,Bangladesh
+WPP_GLOBAL,World,,Barbados,BRB,52,Barbados
+WPP_GLOBAL,World,,Belarus,BLR,112,Belarus
+WPP_GLOBAL,World,,Belgium,BEL,56,Belgium
+WPP_GLOBAL,World,,Belize,BLZ,84,Belize
+WPP_GLOBAL,World,,Benin,BEN,204,Benin
+WPP_GLOBAL,World,,Bermuda,BMU,60,Bermuda
+WPP_GLOBAL,World,,Bhutan,BTN,64,Bhutan
+WPP_GLOBAL,World,,Bolivia (Plurinational State of),BOL,68,Bolivia (Plurinational State of)
+WPP_GLOBAL,World,,"Bonaire, Sint Eustatius and Saba",BES,535,"Bonaire, Sint Eustatius and Saba"
+WPP_GLOBAL,World,,Bosnia and Herzegovina,BIH,70,Bosnia and Herzegovina
+WPP_GLOBAL,World,,Botswana,BWA,72,Botswana
+WPP_GLOBAL,World,,Brazil,BRA,76,Brazil
+WPP_GLOBAL,World,,British Virgin Islands,VGB,92,British Virgin Islands
+WPP_GLOBAL,World,,Brunei Darussalam,BRN,96,Brunei Darussalam
+WPP_GLOBAL,World,,Bulgaria,BGR,100,Bulgaria
+WPP_GLOBAL,World,,Burkina Faso,BFA,854,Burkina Faso
+WPP_GLOBAL,World,,Burundi,BDI,108,Burundi
+WPP_GLOBAL,World,,Cabo Verde,CPV,132,Cabo Verde
+WPP_GLOBAL,World,,Cambodia,KHM,116,Cambodia
+WPP_GLOBAL,World,,Cameroon,CMR,120,Cameroon
+WPP_GLOBAL,World,,Canada,CAN,124,Canada
+WPP_GLOBAL,World,,Cayman Islands,CYM,136,Cayman Islands
+WPP_GLOBAL,World,,Central African Republic,CAF,140,Central African Republic
+WPP_GLOBAL,World,,Chad,TCD,148,Chad
+WPP_GLOBAL,World,,Chile,CHL,152,Chile
+WPP_GLOBAL,World,,China,CHN,156,China
+WPP_GLOBAL,World,,"China, Hong Kong Special Administrative Region",HKG,344,"China, Hong Kong SAR"
+WPP_GLOBAL,World,,"China, Macao Special Administrative Region",MAC,446,"China, Macao SAR"
+WPP_GLOBAL,World,,"China, Taiwan Province of China",TWN,158,"China, Taiwan Province of China"
+WPP_GLOBAL,World,,Colombia,COL,170,Colombia
+WPP_GLOBAL,World,,Comoros,COM,174,Comoros
+WPP_GLOBAL,World,,Congo,COG,178,Congo
+WPP_GLOBAL,World,,Cook Islands,COK,184,Cook Islands
+WPP_GLOBAL,World,,Costa Rica,CRI,188,Costa Rica
+WPP_GLOBAL,World,,Croatia,HRV,191,Croatia
+WPP_GLOBAL,World,,Cuba,CUB,192,Cuba
+WPP_GLOBAL,World,,Curaçao,CUW,531,Curaçao
+WPP_GLOBAL,World,,Cyprus,CYP,196,Cyprus
+WPP_GLOBAL,World,,Czechia,CZE,203,Czechia
+WPP_GLOBAL,World,,Côte d'Ivoire,CIV,384,Côte d'Ivoire
+WPP_GLOBAL,World,,Democratic People's Republic of Korea,PRK,408,Dem. People's Republic of Korea
+WPP_GLOBAL,World,,Democratic Republic of the Congo,COD,180,Democratic Republic of the Congo
+WPP_GLOBAL,World,,Denmark,DNK,208,Denmark
+WPP_GLOBAL,World,,Djibouti,DJI,262,Djibouti
+WPP_GLOBAL,World,,Dominica,DMA,212,Dominica
+WPP_GLOBAL,World,,Dominican Republic,DOM,214,Dominican Republic
+WPP_GLOBAL,World,,Ecuador,ECU,218,Ecuador
+WPP_GLOBAL,World,,Egypt,EGY,818,Egypt
+WPP_GLOBAL,World,,El Salvador,SLV,222,El Salvador
+WPP_GLOBAL,World,,Equatorial Guinea,GNQ,226,Equatorial Guinea
+WPP_GLOBAL,World,,Eritrea,ERI,232,Eritrea
+WPP_GLOBAL,World,,Estonia,EST,233,Estonia
+WPP_GLOBAL,World,,Eswatini,SWZ,748,Eswatini
+WPP_GLOBAL,World,,Ethiopia,ETH,231,Ethiopia
+WPP_GLOBAL,World,,Falkland Islands (Malvinas),FLK,238,Falkland Islands (Malvinas)
+WPP_GLOBAL,World,,Faroe Islands,FRO,234,Faroe Islands
+WPP_GLOBAL,World,,Fiji,FJI,242,Fiji
+WPP_GLOBAL,World,,Finland,FIN,246,Finland
+WPP_GLOBAL,World,,France,FRA,250,France
+WPP_GLOBAL,World,,French Guiana,GUF,254,French Guiana
+WPP_GLOBAL,World,,French Polynesia,PYF,258,French Polynesia
+WPP_GLOBAL,World,,Gabon,GAB,266,Gabon
+WPP_GLOBAL,World,,Gambia,GMB,270,Gambia
+WPP_GLOBAL,World,,Georgia,GEO,268,Georgia
+WPP_GLOBAL,World,,Germany,DEU,276,Germany
+WPP_GLOBAL,World,,Ghana,GHA,288,Ghana
+WPP_GLOBAL,World,,Gibraltar,GIB,292,Gibraltar
+WPP_GLOBAL,World,,Greece,GRC,300,Greece
+WPP_GLOBAL,World,,Greenland,GRL,304,Greenland
+WPP_GLOBAL,World,,Grenada,GRD,308,Grenada
+WPP_GLOBAL,World,,Guadeloupe,GLP,312,Guadeloupe
+WPP_GLOBAL,World,,Guam,GUM,316,Guam
+WPP_GLOBAL,World,,Guatemala,GTM,320,Guatemala
+WPP_GLOBAL,World,,Guinea,GIN,324,Guinea
+WPP_GLOBAL,World,,Guinea-Bissau,GNB,624,Guinea-Bissau
+WPP_GLOBAL,World,,Guyana,GUY,328,Guyana
+WPP_GLOBAL,World,,Haiti,HTI,332,Haiti
+WPP_GLOBAL,World,,Holy See,VAT,336,Holy See
+WPP_GLOBAL,World,,Honduras,HND,340,Honduras
+WPP_GLOBAL,World,,Hungary,HUN,348,Hungary
+WPP_GLOBAL,World,,Iceland,ISL,352,Iceland
+WPP_GLOBAL,World,,India,IND,356,India
+WPP_GLOBAL,World,,Indonesia,IDN,360,Indonesia
+WPP_GLOBAL,World,,Iran (Islamic Republic of),IRN,364,Iran (Islamic Republic of)
+WPP_GLOBAL,World,,Iraq,IRQ,368,Iraq
+WPP_GLOBAL,World,,Ireland,IRL,372,Ireland
+WPP_GLOBAL,World,,Isle of Man,IMN,833,Isle of Man
+WPP_GLOBAL,World,,Israel,ISR,376,Israel
+WPP_GLOBAL,World,,Italy,ITA,380,Italy
+WPP_GLOBAL,World,,Jamaica,JAM,388,Jamaica
+WPP_GLOBAL,World,,Japan,JPN,392,Japan
+WPP_GLOBAL,World,,Jordan,JOR,400,Jordan
+WPP_GLOBAL,World,,Kazakhstan,KAZ,398,Kazakhstan
+WPP_GLOBAL,World,,Kenya,KEN,404,Kenya
+WPP_GLOBAL,World,,Kiribati,KIR,296,Kiribati
+WPP_GLOBAL,World,,Kosovo (UNSCR 1244),XKX,412,Kosovo (under UNSC res. 1244)
+WPP_GLOBAL,World,,Kuwait,KWT,414,Kuwait
+WPP_GLOBAL,World,,Kyrgyzstan,KGZ,417,Kyrgyzstan
+WPP_GLOBAL,World,,Lao People's Democratic Republic,LAO,418,Lao People's Democratic Republic
+WPP_GLOBAL,World,,Latvia,LVA,428,Latvia
+WPP_GLOBAL,World,,Lebanon,LBN,422,Lebanon
+WPP_GLOBAL,World,,Lesotho,LSO,426,Lesotho
+WPP_GLOBAL,World,,Liberia,LBR,430,Liberia
+WPP_GLOBAL,World,,Libya,LBY,434,Libya
+WPP_GLOBAL,World,,Liechtenstein,LIE,438,Liechtenstein
+WPP_GLOBAL,World,,Lithuania,LTU,440,Lithuania
+WPP_GLOBAL,World,,Luxembourg,LUX,442,Luxembourg
+WPP_GLOBAL,World,,Madagascar,MDG,450,Madagascar
+WPP_GLOBAL,World,,Malawi,MWI,454,Malawi
+WPP_GLOBAL,World,,Malaysia,MYS,458,Malaysia
+WPP_GLOBAL,World,,Maldives,MDV,462,Maldives
+WPP_GLOBAL,World,,Mali,MLI,466,Mali
+WPP_GLOBAL,World,,Malta,MLT,470,Malta
+WPP_GLOBAL,World,,Marshall Islands,MHL,584,Marshall Islands
+WPP_GLOBAL,World,,Martinique,MTQ,474,Martinique
+WPP_GLOBAL,World,,Mauritania,MRT,478,Mauritania
+WPP_GLOBAL,World,,Mauritius,MUS,480,Mauritius
+WPP_GLOBAL,World,,Mayotte,MYT,175,Mayotte
+WPP_GLOBAL,World,,Mexico,MEX,484,Mexico
+WPP_GLOBAL,World,,Micronesia (Federated States of),FSM,583,Micronesia (Fed. States of)
+WPP_GLOBAL,World,,Monaco,MCO,492,Monaco
+WPP_GLOBAL,World,,Mongolia,MNG,496,Mongolia
+WPP_GLOBAL,World,,Montenegro,MNE,499,Montenegro
+WPP_GLOBAL,World,,Montserrat,MSR,500,Montserrat
+WPP_GLOBAL,World,,Morocco,MAR,504,Morocco
+WPP_GLOBAL,World,,Mozambique,MOZ,508,Mozambique
+WPP_GLOBAL,World,,Myanmar,MMR,104,Myanmar
+WPP_GLOBAL,World,,Namibia,NAM,516,Namibia
+WPP_GLOBAL,World,,Nauru,NRU,520,Nauru
+WPP_GLOBAL,World,,Nepal,NPL,524,Nepal
+WPP_GLOBAL,World,,Netherlands (Kingdom of the),NLD,528,Netherlands
+WPP_GLOBAL,World,,New Caledonia,NCL,540,New Caledonia
+WPP_GLOBAL,World,,New Zealand,NZL,554,New Zealand
+WPP_GLOBAL,World,,Nicaragua,NIC,558,Nicaragua
+WPP_GLOBAL,World,,Niger,NER,562,Niger
+WPP_GLOBAL,World,,Nigeria,NGA,566,Nigeria
+WPP_GLOBAL,World,,Niue,NIU,570,Niue
+WPP_GLOBAL,World,,North Macedonia,MKD,807,North Macedonia
+WPP_GLOBAL,World,,Northern Mariana Islands,MNP,580,Northern Mariana Islands
+WPP_GLOBAL,World,,Norway,NOR,578,Norway
+WPP_GLOBAL,World,,Oman,OMN,512,Oman
+WPP_GLOBAL,World,,Pakistan,PAK,586,Pakistan
+WPP_GLOBAL,World,,Palau,PLW,585,Palau
+WPP_GLOBAL,World,,Panama,PAN,591,Panama
+WPP_GLOBAL,World,,Papua New Guinea,PNG,598,Papua New Guinea
+WPP_GLOBAL,World,,Paraguay,PRY,600,Paraguay
+WPP_GLOBAL,World,,Peru,PER,604,Peru
+WPP_GLOBAL,World,,Philippines,PHL,608,Philippines
+WPP_GLOBAL,World,,Poland,POL,616,Poland
+WPP_GLOBAL,World,,Portugal,PRT,620,Portugal
+WPP_GLOBAL,World,,Puerto Rico,PRI,630,Puerto Rico
+WPP_GLOBAL,World,,Qatar,QAT,634,Qatar
+WPP_GLOBAL,World,,Republic of Korea,KOR,410,Republic of Korea
+WPP_GLOBAL,World,,Republic of Moldova,MDA,498,Republic of Moldova
+WPP_GLOBAL,World,,Romania,ROU,642,Romania
+WPP_GLOBAL,World,,Russian Federation,RUS,643,Russian Federation
+WPP_GLOBAL,World,,Rwanda,RWA,646,Rwanda
+WPP_GLOBAL,World,,Réunion,REU,638,Réunion
+WPP_GLOBAL,World,,Saint Barthélemy,BLM,652,Saint Barthélemy
+WPP_GLOBAL,World,,"Saint Helena, Ascension and Tristan da Cunha",SHN,654,Saint Helena
+WPP_GLOBAL,World,,Saint Kitts and Nevis,KNA,659,Saint Kitts and Nevis
+WPP_GLOBAL,World,,Saint Lucia,LCA,662,Saint Lucia
+WPP_GLOBAL,World,,Saint Martin (French part),MAF,663,Saint Martin (French part)
+WPP_GLOBAL,World,,Saint Pierre and Miquelon,SPM,666,Saint Pierre and Miquelon
+WPP_GLOBAL,World,,Saint Vincent and the Grenadines,VCT,670,Saint Vincent and the Grenadines
+WPP_GLOBAL,World,,Samoa,WSM,882,Samoa
+WPP_GLOBAL,World,,San Marino,SMR,674,San Marino
+WPP_GLOBAL,World,,Sao Tome and Principe,STP,678,Sao Tome and Principe
+WPP_GLOBAL,World,,Saudi Arabia,SAU,682,Saudi Arabia
+WPP_GLOBAL,World,,Senegal,SEN,686,Senegal
+WPP_GLOBAL,World,,Serbia,SRB,688,Serbia
+WPP_GLOBAL,World,,Seychelles,SYC,690,Seychelles
+WPP_GLOBAL,World,,Sierra Leone,SLE,694,Sierra Leone
+WPP_GLOBAL,World,,Singapore,SGP,702,Singapore
+WPP_GLOBAL,World,,Sint Maarten,SXM,534,Sint Maarten (Dutch part)
+WPP_GLOBAL,World,,Slovakia,SVK,703,Slovakia
+WPP_GLOBAL,World,,Slovenia,SVN,705,Slovenia
+WPP_GLOBAL,World,,Solomon Islands,SLB,90,Solomon Islands
+WPP_GLOBAL,World,,Somalia,SOM,706,Somalia
+WPP_GLOBAL,World,,South Africa,ZAF,710,South Africa
+WPP_GLOBAL,World,,South Sudan,SSD,728,South Sudan
+WPP_GLOBAL,World,,Spain,ESP,724,Spain
+WPP_GLOBAL,World,,Sri Lanka,LKA,144,Sri Lanka
+WPP_GLOBAL,World,,State of Palestine,PSE,275,State of Palestine
+WPP_GLOBAL,World,,Sudan,SDN,729,Sudan
+WPP_GLOBAL,World,,Suriname,SUR,740,Suriname
+WPP_GLOBAL,World,,Sweden,SWE,752,Sweden
+WPP_GLOBAL,World,,Switzerland,CHE,756,Switzerland
+WPP_GLOBAL,World,,Syrian Arab Republic,SYR,760,Syrian Arab Republic
+WPP_GLOBAL,World,,Tajikistan,TJK,762,Tajikistan
+WPP_GLOBAL,World,,Thailand,THA,764,Thailand
+WPP_GLOBAL,World,,Timor-Leste,TLS,626,Timor-Leste
+WPP_GLOBAL,World,,Togo,TGO,768,Togo
+WPP_GLOBAL,World,,Tokelau,TKL,772,Tokelau
+WPP_GLOBAL,World,,Tonga,TON,776,Tonga
+WPP_GLOBAL,World,,Trinidad and Tobago,TTO,780,Trinidad and Tobago
+WPP_GLOBAL,World,,Tunisia,TUN,788,Tunisia
+WPP_GLOBAL,World,,Turkmenistan,TKM,795,Turkmenistan
+WPP_GLOBAL,World,,Turks and Caicos Islands,TCA,796,Turks and Caicos Islands
+WPP_GLOBAL,World,,Tuvalu,TUV,798,Tuvalu
+WPP_GLOBAL,World,,Türkiye,TUR,792,Türkiye
+WPP_GLOBAL,World,,Uganda,UGA,800,Uganda
+WPP_GLOBAL,World,,Ukraine,UKR,804,Ukraine
+WPP_GLOBAL,World,,United Arab Emirates,ARE,784,United Arab Emirates
+WPP_GLOBAL,World,,United Kingdom,GBR,826,United Kingdom
+WPP_GLOBAL,World,,United Republic of Tanzania,TZA,834,United Republic of Tanzania
+WPP_GLOBAL,World,,United States,USA,840,United States of America
+WPP_GLOBAL,World,,Uruguay,URY,858,Uruguay
+WPP_GLOBAL,World,,Uzbekistan,UZB,860,Uzbekistan
+WPP_GLOBAL,World,,Vanuatu,VUT,548,Vanuatu
+WPP_GLOBAL,World,,Venezuela (Bolivarian Republic of),VEN,862,Venezuela (Bolivarian Republic of)
+WPP_GLOBAL,World,,Viet Nam,VNM,704,Viet Nam
+WPP_GLOBAL,World,,Virgin Islands U.S.,VIR,850,United States Virgin Islands
+WPP_GLOBAL,World,,Wallis and Futuna,WLF,876,Wallis and Futuna Islands
+WPP_GLOBAL,World,,Yemen,YEM,887,Yemen
+WPP_GLOBAL,World,,Zambia,ZMB,894,Zambia
+WPP_GLOBAL,World,,Zimbabwe,ZWE,716,Zimbabwe
+UNICEF_SOWC,World,,Afghanistan,AFG,,
+UNICEF_SOWC,World,,Albania,ALB,,
+UNICEF_SOWC,World,,Algeria,DZA,,
+UNICEF_SOWC,World,,Andorra,AND,,
+UNICEF_SOWC,World,,Angola,AGO,,
+UNICEF_SOWC,World,,Anguilla,AIA,,
+UNICEF_SOWC,World,,Antigua and Barbuda,ATG,,
+UNICEF_SOWC,World,,Argentina,ARG,,
+UNICEF_SOWC,World,,Armenia,ARM,,
+UNICEF_SOWC,World,,Australia,AUS,,
+UNICEF_SOWC,World,,Austria,AUT,,
+UNICEF_SOWC,World,,Azerbaijan,AZE,,
+UNICEF_SOWC,World,,Bahamas,BHS,,
+UNICEF_SOWC,World,,Bahrain,BHR,,
+UNICEF_SOWC,World,,Bangladesh,BGD,,
+UNICEF_SOWC,World,,Barbados,BRB,,
+UNICEF_SOWC,World,,Belarus,BLR,,
+UNICEF_SOWC,World,,Belgium,BEL,,
+UNICEF_SOWC,World,,Belize,BLZ,,
+UNICEF_SOWC,World,,Benin,BEN,,
+UNICEF_SOWC,World,,Bhutan,BTN,,
+UNICEF_SOWC,World,,Bolivia (Plurinational State of),BOL,,
+UNICEF_SOWC,World,,Bosnia and Herzegovina,BIH,,
+UNICEF_SOWC,World,,Botswana,BWA,,
+UNICEF_SOWC,World,,Brazil,BRA,,
+UNICEF_SOWC,World,,British Virgin Islands,VGB,,
+UNICEF_SOWC,World,,Brunei Darussalam,BRN,,
+UNICEF_SOWC,World,,Bulgaria,BGR,,
+UNICEF_SOWC,World,,Burkina Faso,BFA,,
+UNICEF_SOWC,World,,Burundi,BDI,,
+UNICEF_SOWC,World,,Cabo Verde,CPV,,
+UNICEF_SOWC,World,,Cambodia,KHM,,
+UNICEF_SOWC,World,,Cameroon,CMR,,
+UNICEF_SOWC,World,,Canada,CAN,,
+UNICEF_SOWC,World,,Central African Republic,CAF,,
+UNICEF_SOWC,World,,Chad,TCD,,
+UNICEF_SOWC,World,,Chile,CHL,,
+UNICEF_SOWC,World,,China,CHN,,
+UNICEF_SOWC,World,,Colombia,COL,,
+UNICEF_SOWC,World,,Comoros,COM,,
+UNICEF_SOWC,World,,Congo,COG,,
+UNICEF_SOWC,World,,Cook Islands,COK,,
+UNICEF_SOWC,World,,Costa Rica,CRI,,
+UNICEF_SOWC,World,,Croatia,HRV,,
+UNICEF_SOWC,World,,Cuba,CUB,,
+UNICEF_SOWC,World,,Cyprus,CYP,,
+UNICEF_SOWC,World,,Czechia,CZE,,
+UNICEF_SOWC,World,,Côte d'Ivoire,CIV,,
+UNICEF_SOWC,World,,Democratic People's Republic of Korea,PRK,,
+UNICEF_SOWC,World,,Democratic Republic of the Congo,COD,,
+UNICEF_SOWC,World,,Denmark,DNK,,
+UNICEF_SOWC,World,,Djibouti,DJI,,
+UNICEF_SOWC,World,,Dominica,DMA,,
+UNICEF_SOWC,World,,Dominican Republic,DOM,,
+UNICEF_SOWC,World,,Ecuador,ECU,,
+UNICEF_SOWC,World,,Egypt,EGY,,
+UNICEF_SOWC,World,,El Salvador,SLV,,
+UNICEF_SOWC,World,,Equatorial Guinea,GNQ,,
+UNICEF_SOWC,World,,Eritrea,ERI,,
+UNICEF_SOWC,World,,Estonia,EST,,
+UNICEF_SOWC,World,,Eswatini,SWZ,,
+UNICEF_SOWC,World,,Ethiopia,ETH,,
+UNICEF_SOWC,World,,Fiji,FJI,,
+UNICEF_SOWC,World,,Finland,FIN,,
+UNICEF_SOWC,World,,France,FRA,,
+UNICEF_SOWC,World,,Gabon,GAB,,
+UNICEF_SOWC,World,,Gambia,GMB,,
+UNICEF_SOWC,World,,Georgia,GEO,,
+UNICEF_SOWC,World,,Germany,DEU,,
+UNICEF_SOWC,World,,Ghana,GHA,,
+UNICEF_SOWC,World,,Greece,GRC,,
+UNICEF_SOWC,World,,Grenada,GRD,,
+UNICEF_SOWC,World,,Guatemala,GTM,,
+UNICEF_SOWC,World,,Guinea,GIN,,
+UNICEF_SOWC,World,,Guinea-Bissau,GNB,,
+UNICEF_SOWC,World,,Guyana,GUY,,
+UNICEF_SOWC,World,,Haiti,HTI,,
+UNICEF_SOWC,World,,Holy See,VAT,,
+UNICEF_SOWC,World,,Honduras,HND,,
+UNICEF_SOWC,World,,Hungary,HUN,,
+UNICEF_SOWC,World,,Iceland,ISL,,
+UNICEF_SOWC,World,,India,IND,,
+UNICEF_SOWC,World,,Indonesia,IDN,,
+UNICEF_SOWC,World,,Iran (Islamic Republic of),IRN,,
+UNICEF_SOWC,World,,Iraq,IRQ,,
+UNICEF_SOWC,World,,Ireland,IRL,,
+UNICEF_SOWC,World,,Israel,ISR,,
+UNICEF_SOWC,World,,Italy,ITA,,
+UNICEF_SOWC,World,,Jamaica,JAM,,
+UNICEF_SOWC,World,,Japan,JPN,,
+UNICEF_SOWC,World,,Jordan,JOR,,
+UNICEF_SOWC,World,,Kazakhstan,KAZ,,
+UNICEF_SOWC,World,,Kenya,KEN,,
+UNICEF_SOWC,World,,Kiribati,KIR,,
+UNICEF_SOWC,World,,Kuwait,KWT,,
+UNICEF_SOWC,World,,Kyrgyzstan,KGZ,,
+UNICEF_SOWC,World,,Lao People's Democratic Republic,LAO,,
+UNICEF_SOWC,World,,Latvia,LVA,,
+UNICEF_SOWC,World,,Lebanon,LBN,,
+UNICEF_SOWC,World,,Lesotho,LSO,,
+UNICEF_SOWC,World,,Liberia,LBR,,
+UNICEF_SOWC,World,,Libya,LBY,,
+UNICEF_SOWC,World,,Liechtenstein,LIE,,
+UNICEF_SOWC,World,,Lithuania,LTU,,
+UNICEF_SOWC,World,,Luxembourg,LUX,,
+UNICEF_SOWC,World,,Madagascar,MDG,,
+UNICEF_SOWC,World,,Malawi,MWI,,
+UNICEF_SOWC,World,,Malaysia,MYS,,
+UNICEF_SOWC,World,,Maldives,MDV,,
+UNICEF_SOWC,World,,Mali,MLI,,
+UNICEF_SOWC,World,,Malta,MLT,,
+UNICEF_SOWC,World,,Marshall Islands,MHL,,
+UNICEF_SOWC,World,,Mauritania,MRT,,
+UNICEF_SOWC,World,,Mauritius,MUS,,
+UNICEF_SOWC,World,,Mexico,MEX,,
+UNICEF_SOWC,World,,Micronesia (Federated States of),FSM,,
+UNICEF_SOWC,World,,Monaco,MCO,,
+UNICEF_SOWC,World,,Mongolia,MNG,,
+UNICEF_SOWC,World,,Montenegro,MNE,,
+UNICEF_SOWC,World,,Montserrat,MSR,,
+UNICEF_SOWC,World,,Morocco,MAR,,
+UNICEF_SOWC,World,,Mozambique,MOZ,,
+UNICEF_SOWC,World,,Myanmar,MMR,,
+UNICEF_SOWC,World,,Namibia,NAM,,
+UNICEF_SOWC,World,,Nauru,NRU,,
+UNICEF_SOWC,World,,Nepal,NPL,,
+UNICEF_SOWC,World,,Netherlands (Kingdom of the),NLD,,
+UNICEF_SOWC,World,,New Zealand,NZL,,
+UNICEF_SOWC,World,,Nicaragua,NIC,,
+UNICEF_SOWC,World,,Niger,NER,,
+UNICEF_SOWC,World,,Nigeria,NGA,,
+UNICEF_SOWC,World,,Niue,NIU,,
+UNICEF_SOWC,World,,North Macedonia,MKD,,
+UNICEF_SOWC,World,,Norway,NOR,,
+UNICEF_SOWC,World,,Oman,OMN,,
+UNICEF_SOWC,World,,Pakistan,PAK,,
+UNICEF_SOWC,World,,Palau,PLW,,
+UNICEF_SOWC,World,,Panama,PAN,,
+UNICEF_SOWC,World,,Papua New Guinea,PNG,,
+UNICEF_SOWC,World,,Paraguay,PRY,,
+UNICEF_SOWC,World,,Peru,PER,,
+UNICEF_SOWC,World,,Philippines,PHL,,
+UNICEF_SOWC,World,,Poland,POL,,
+UNICEF_SOWC,World,,Portugal,PRT,,
+UNICEF_SOWC,World,,Qatar,QAT,,
+UNICEF_SOWC,World,,Republic of Korea,KOR,,
+UNICEF_SOWC,World,,Republic of Moldova,MDA,,
+UNICEF_SOWC,World,,Romania,ROU,,
+UNICEF_SOWC,World,,Russian Federation,RUS,,
+UNICEF_SOWC,World,,Rwanda,RWA,,
+UNICEF_SOWC,World,,Saint Kitts and Nevis,KNA,,
+UNICEF_SOWC,World,,Saint Lucia,LCA,,
+UNICEF_SOWC,World,,Saint Vincent and the Grenadines,VCT,,
+UNICEF_SOWC,World,,Samoa,WSM,,
+UNICEF_SOWC,World,,San Marino,SMR,,
+UNICEF_SOWC,World,,Sao Tome and Principe,STP,,
+UNICEF_SOWC,World,,Saudi Arabia,SAU,,
+UNICEF_SOWC,World,,Senegal,SEN,,
+UNICEF_SOWC,World,,Serbia,SRB,,
+UNICEF_SOWC,World,,Seychelles,SYC,,
+UNICEF_SOWC,World,,Sierra Leone,SLE,,
+UNICEF_SOWC,World,,Singapore,SGP,,
+UNICEF_SOWC,World,,Slovakia,SVK,,
+UNICEF_SOWC,World,,Slovenia,SVN,,
+UNICEF_SOWC,World,,Solomon Islands,SLB,,
+UNICEF_SOWC,World,,Somalia,SOM,,
+UNICEF_SOWC,World,,South Africa,ZAF,,
+UNICEF_SOWC,World,,South Sudan,SSD,,
+UNICEF_SOWC,World,,Spain,ESP,,
+UNICEF_SOWC,World,,Sri Lanka,LKA,,
+UNICEF_SOWC,World,,State of Palestine,PSE,,
+UNICEF_SOWC,World,,Sudan,SDN,,
+UNICEF_SOWC,World,,Suriname,SUR,,
+UNICEF_SOWC,World,,Sweden,SWE,,
+UNICEF_SOWC,World,,Switzerland,CHE,,
+UNICEF_SOWC,World,,Syrian Arab Republic,SYR,,
+UNICEF_SOWC,World,,Tajikistan,TJK,,
+UNICEF_SOWC,World,,Thailand,THA,,
+UNICEF_SOWC,World,,Timor-Leste,TLS,,
+UNICEF_SOWC,World,,Togo,TGO,,
+UNICEF_SOWC,World,,Tokelau,TKL,,
+UNICEF_SOWC,World,,Tonga,TON,,
+UNICEF_SOWC,World,,Trinidad and Tobago,TTO,,
+UNICEF_SOWC,World,,Tunisia,TUN,,
+UNICEF_SOWC,World,,Turkmenistan,TKM,,
+UNICEF_SOWC,World,,Turks and Caicos Islands,TCA,,
+UNICEF_SOWC,World,,Tuvalu,TUV,,
+UNICEF_SOWC,World,,Türkiye,TUR,,
+UNICEF_SOWC,World,,Uganda,UGA,,
+UNICEF_SOWC,World,,Ukraine,UKR,,
+UNICEF_SOWC,World,,United Arab Emirates,ARE,,
+UNICEF_SOWC,World,,United Kingdom,GBR,,
+UNICEF_SOWC,World,,United Republic of Tanzania,TZA,,
+UNICEF_SOWC,World,,United States,USA,,
+UNICEF_SOWC,World,,Uruguay,URY,,
+UNICEF_SOWC,World,,Uzbekistan,UZB,,
+UNICEF_SOWC,World,,Vanuatu,VUT,,
+UNICEF_SOWC,World,,Venezuela (Bolivarian Republic of),VEN,,
+UNICEF_SOWC,World,,Viet Nam,VNM,,
+UNICEF_SOWC,World,,Yemen,YEM,,
+UNICEF_SOWC,World,,Zambia,ZMB,,
+UNICEF_SOWC,World,,Zimbabwe,ZWE,,
