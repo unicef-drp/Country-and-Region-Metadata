@@ -22,7 +22,7 @@ We align all coding with the data warehouse structure:
 The output files from this project serve as inputs for downstream processes. The data is in a long format, where each region is mapped to all the `ISO3Code` values belonging to it.\
 **Format:**\
 `Regional_Grouping`: uppercase, only connected by underscore, no hyphen or space, e.g., "UNICEF_PROG_REG_GLOBAL"\
-`Region_Code`: same code as used by the data warehouse, uppercase, only connected by underscore, no hyphen or space, and led by `Regional_Grouping`. e.g., "AUREC_UMA"![image](https://github.com/user-attachments/assets/68087586-b0e1-4ca6-9d41-bd1c13066f32)
+`Region_Code`: same code as used by the data warehouse, uppercase, only connected by underscore, no hyphen or space, and led by `Regional_Grouping`. e.g., "AUREC_UMA"
 
 ### Default output columns
 
