@@ -28,11 +28,11 @@ unique(dt_in$`Country Group`) #
 dtr_level1 <- dt_in[`Country Group` != "",.(ISO3Code, `Country Group` , `Country Group Code` , `Group M49 Code` , `M49 Code` , Country )]
 setnames(dtr_level1, "Country Group", "Region")
 setnames(dtr_level1, "Country Group Code", "FAO_CODE")
-setnames(dtr_level1, "Group M49 Code", "GROUP_M49_CODE")
-setnames(dtr_level1, "M49 Code", "M49_CODE")
+setnames(dtr_level1, "Group M49 Code", "M49Region_Code")
+setnames(dtr_level1, "M49 Code", "M49_Code")
 setnames(dtr_level1, "Country", "FAO_COUNTRY")
 
-dtr_level1[GROUP_M49_CODE == 1 | GROUP_M49_CODE == "1", GROUP_M49_CODE := NA]
+dtr_level1[M49Region_Code == 1 | M49Region_Code == "1", M49Region_Code := NA]
 
 # Keep regions
 regions_to_keep <- c("Net Food Importing Developing Countries (NFIDCs)" , 
@@ -80,7 +80,7 @@ add.country.name.FAO <- function(dc, dcname){
   dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
   stopifnot("ISO3Code" %in% colnames(dc))
   dc <- dplyr::left_join(dc, dcname, by = c("ISO3Code" = "id"))
-  dc <- dc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, FAO_CODE, GROUP_M49_CODE, M49_CODE, FAO_COUNTRY)]
+  dc <- dc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, FAO_CODE, M49Region_Code, M49_Code, FAO_COUNTRY)]
   setorder(dc, Region, Country)
   return(dc)
 }

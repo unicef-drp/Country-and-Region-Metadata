@@ -45,4 +45,5 @@ dt_WHO[, Regional_Grouping := parent_code]
 dt_WHO <- add.country.name(dt_WHO)
 
 setorder(dt_WHO, Region, Country)
+
 fwrite(dt_WHO, "output/WHO_REG_GLOBAL.csv")

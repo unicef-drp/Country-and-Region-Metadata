@@ -10,7 +10,12 @@
 
 ## Setup
 
-We aim to align all the coding with the data warehouse. - **raw_data**: Contains the original input files for producing the "output", folder names should follow the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL" - **output**: Contains files for each regional grouping (or `parent`), named by the `regional_grouping`, e.g., "UNICEF_PROG_REG_GLOBAL.csv" - **script for output**: Contains the scripts to produce the output files, e.g., "UNICEF_PROG_REG_GLOBAL.R" - **R**: Contains general functions used by each script, e.g. "general_functions.R"
+We align all coding with the data warehouse structure:
+
+- **raw_data**: Original input files used to produce outputs. Folder names should follow the `regional_grouping` code (for example, `UNICEF_PROG_REG_GLOBAL`).
+- **output**: One output CSV per regional grouping (or `parent`). The filename is derived directly from the `regional_grouping` code: `{regional_grouping}.csv`. For example, `UNICEF_PROG_REG_GLOBAL.csv` is named this way because the `regional_grouping` code is `UNICEF_PROG_REG_GLOBAL`.
+- **script for output**: Scripts that generate each output file, typically named `{regional_grouping}.R` (for example, `UNICEF_PROG_REG_GLOBAL.R`).
+- **R**: Shared general functions used by output scripts (for example, `general_functions.R`).
 
 ## Output
 
@@ -18,6 +23,22 @@ The output files from this project serve as inputs for downstream processes. The
 **Format:**\
 `Regional_Grouping`: uppercase, only connected by underscore, no hyphen or space, e.g., "UNICEF_PROG_REG_GLOBAL"\
 `Region_Code`: same code as used by the data warehouse, uppercase, only connected by underscore, no hyphen or space, and led by `Regional_Grouping`. e.g., "AUREC_UMA"![image](https://github.com/user-attachments/assets/68087586-b0e1-4ca6-9d41-bd1c13066f32)
+
+### Default output columns
+
+The standard output uses **7 default columns**. Adding more columns is discouraged unless there is a strong downstream requirement.
+
+```r
+dtr_SDG[,.(Regional_Grouping, Region, Region_Code, M49Region_Code, Country, ISO3Code, M49_Code)]
+
+head(dtr_SDG)
+	Regional_Grouping Region  Region_Code M49Region_Code Country ISO3Code M49_Code
+			 <char> <char>       <char>          <int>  <char>   <char>    <int>
+1: UNSDG_REGION_GLOBAL Africa UNSDG_AFRICA              2 Algeria      DZA       12
+2: UNSDG_REGION_GLOBAL Africa UNSDG_AFRICA              2  Angola      AGO       24
+3: UNSDG_REGION_GLOBAL Africa UNSDG_AFRICA              2   Benin      BEN      204
+```
+
 
 ### All the *csv* outputs into one
 

@@ -144,5 +144,16 @@ setnames(dtr_SDG, "id", "Region_Code")
 
 setDT(dtr_SDG)[, Regional_Grouping := parent_code]
 dtr_SDG <- add.country.name(dtr_SDG)
+
+# add M49 code 
+dt_M49 <- fread("output/UNSDG/m49_mapping.csv")[,.(UNICEF_code, m49)]
+setnames(dt_M49, c("UNICEF_code", "m49"), c("Region_Code", "M49Region_Code"))
+dtr_SDG[!Region_Code %in% dt_M49$Region_Code, .(Region_Code, Region)] # none 
+dtr_SDG <- dplyr::left_join(dtr_SDG, dt_M49, by = "Region_Code")
+
+dtr_SDG <- dtr_SDG[,.(Regional_Grouping, Region, Region_Code, M49Region_Code, Country, ISO3Code, M49_Code)]
 fwrite(dtr_SDG, "output/UNSDG_REGION_GLOBAL.csv")
 
+
+create.code.book()
+dtall <- bind.all.output()

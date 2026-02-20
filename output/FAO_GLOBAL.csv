@@ -1,4 +1,4 @@
-Regional_Grouping,Region,Region_Code,Country,ISO3Code,FAO_CODE,GROUP_M49_CODE,M49_CODE,FAO_COUNTRY
+Regional_Grouping,Region,Region_Code,Country,ISO3Code,FAO_CODE,M49Region_Code,M49_Code,FAO_COUNTRY
 FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Afghanistan,AFG,5815,901,4,Afghanistan
 FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Benin,BEN,5815,901,204,Benin
 FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Burkina Faso,BFA,5815,901,854,Burkina Faso

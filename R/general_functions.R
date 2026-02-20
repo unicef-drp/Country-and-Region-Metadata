@@ -1,11 +1,13 @@
 # general functions
 
+library("data.table")
+
 # add country names. Format and sort output
 add.country.name <- function(dc, dcname){
   dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
   stopifnot("ISO3Code" %in% colnames(dc))
   dc <- dplyr::left_join(dc, dcname, by = c("ISO3Code" = "id"))
-  dc <- dc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code)]
+  dc <- dc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, M49_Code)]
   setorder(dc, Region, Country)
   return(dc)
 }
@@ -23,14 +25,30 @@ bind.all.output <- function(save_to_output = TRUE){
   }
   dt_bind <- data.table::rbindlist(lapply(dir_output, read.csv), fill = TRUE)
   dt_bind <- dt_bind[!duplicated(dt_bind)]
+  
+  required_cols <- c("Regional_Grouping", "Region_Code", "Region", "Country", "ISO3Code")
+  allowed_cols <- c(required_cols, "M49Region_Code", "M49_Code")
+  new_cols <- setdiff(colnames(dt_bind), allowed_cols)
+  if(length(new_cols) > 0){
+    warning("New columns detected in output files: ", paste(new_cols, collapse = ", "),
+            ". These columns will be appended at the end.")
+  }
+  missing_required_cols <- setdiff(required_cols, colnames(dt_bind))
+  if(length(missing_required_cols) > 0){
+    stop("Missing required columns in output files: ", paste(missing_required_cols, collapse = ", "))
+  }
+  col_order <- c(allowed_cols[allowed_cols %in% colnames(dt_bind)], new_cols)
+  dt_bind <- dt_bind[, col_order, with = FALSE]
   if(save_to_output)
     fwrite(dt_bind, "output/all_regions_long_format.csv")
+    message("binded all output files. Total rows: ", nrow(dt_bind), 
+            " Total unique regional groupings: ", length(unique(dt_bind$Regional_Grouping)))
   return(dt_bind)
 }
 
 create.code.book <- function(){
   dt_bind <- bind.all.output()
-  dt_code <- unique(dt_bind[,.(Regional_Grouping, Region_Code, Region, UNSD_Code)])
+  dt_code <- unique(dt_bind[,.(Regional_Grouping, Region_Code, Region, M49Region_Code)])
   fwrite(dt_code, "output/codebook_of_region_code_and_name.csv")
 }
 
