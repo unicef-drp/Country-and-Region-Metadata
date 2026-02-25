@@ -1,0 +1,123 @@
+Regional_Grouping,Region,Region_Code,Country,ISO3Code,FAO_CODE,M49Region_Code,M49_Code
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Afghanistan,AFG,5815,901,4
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Benin,BEN,5815,901,204
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Burkina Faso,BFA,5815,901,854
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Burundi,BDI,5815,901,108
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Cameroon,CMR,5815,901,120
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Central African Republic,CAF,5815,901,140
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Chad,TCD,5815,901,148
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Comoros,COM,5815,901,174
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Congo,COG,5815,901,178
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Democratic People's Republic of Korea,PRK,5815,901,408
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Democratic Republic of the Congo,COD,5815,901,180
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Eritrea,ERI,5815,901,232
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Ethiopia,ETH,5815,901,231
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Gambia,GMB,5815,901,270
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Guinea,GIN,5815,901,324
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Guinea-Bissau,GNB,5815,901,624
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Haiti,HTI,5815,901,332
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Kenya,KEN,5815,901,404
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Kyrgyzstan,KGZ,5815,901,417
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Lesotho,LSO,5815,901,426
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Liberia,LBR,5815,901,430
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Madagascar,MDG,5815,901,450
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Malawi,MWI,5815,901,454
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Mali,MLI,5815,901,466
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Mauritania,MRT,5815,901,478
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Mozambique,MOZ,5815,901,508
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Nepal,NPL,5815,901,524
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Nicaragua,NIC,5815,901,558
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Niger,NER,5815,901,562
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Rwanda,RWA,5815,901,646
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Sao Tome and Principe,STP,5815,901,678
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Senegal,SEN,5815,901,686
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Sierra Leone,SLE,5815,901,694
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Somalia,SOM,5815,901,706
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,South Sudan,SSD,5815,901,728
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Sudan,SDN,5815,901,729
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Syrian Arab Republic,SYR,5815,901,760
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Tajikistan,TJK,5815,901,762
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Togo,TGO,5815,901,768
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Uganda,UGA,5815,901,800
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,United Republic of Tanzania,TZA,5815,901,834
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Uzbekistan,UZB,5815,901,860
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Yemen,YEM,5815,901,887
+FAO_GLOBAL,Low Income Food Deficit Countries (LIFDCs),FAO_LIFDC,Zimbabwe,ZWE,5815,901,716
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Afghanistan,AFG,5817,902,4
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Angola,AGO,5817,902,24
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Antigua and Barbuda,ATG,5817,902,28
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Bangladesh,BGD,5817,902,50
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Barbados,BRB,5817,902,52
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Benin,BEN,5817,902,204
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Bhutan,BTN,5817,902,64
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Botswana,BWA,5817,902,72
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Burkina Faso,BFA,5817,902,854
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Burundi,BDI,5817,902,108
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Cambodia,KHM,5817,902,116
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Central African Republic,CAF,5817,902,140
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Chad,TCD,5817,902,148
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Comoros,COM,5817,902,174
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Cuba,CUB,5817,902,192
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Côte d'Ivoire,CIV,5817,902,384
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Democratic Republic of the Congo,COD,5817,902,180
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Djibouti,DJI,5817,902,262
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Dominica,DMA,5817,902,212
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Dominican Republic,DOM,5817,902,214
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Egypt,EGY,5817,902,818
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,El Salvador,SLV,5817,902,222
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Eritrea,ERI,5817,902,232
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Eswatini,SWZ,5817,902,748
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Ethiopia,ETH,5817,902,231
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Gabon,GAB,5817,902,266
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Gambia,GMB,5817,902,270
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Grenada,GRD,5817,902,308
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Guinea,GIN,5817,902,324
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Guinea-Bissau,GNB,5817,902,624
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Haiti,HTI,5817,902,332
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Honduras,HND,5817,902,340
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Jamaica,JAM,5817,902,388
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Jordan,JOR,5817,902,400
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Kenya,KEN,5817,902,404
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Kiribati,KIR,5817,902,296
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Lao People's Democratic Republic,LAO,5817,902,418
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Lesotho,LSO,5817,902,426
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Liberia,LBR,5817,902,430
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Madagascar,MDG,5817,902,450
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Malawi,MWI,5817,902,454
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Maldives,MDV,5817,902,462
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Mali,MLI,5817,902,466
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Mauritania,MRT,5817,902,478
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Mauritius,MUS,5817,902,480
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Mongolia,MNG,5817,902,496
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Morocco,MAR,5817,902,504
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Mozambique,MOZ,5817,902,508
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Myanmar,MMR,5817,902,104
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Namibia,NAM,5817,902,516
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Nepal,NPL,5817,902,524
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Niger,NER,5817,902,562
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Pakistan,PAK,5817,902,586
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Peru,PER,5817,902,604
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Rwanda,RWA,5817,902,646
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Saint Kitts and Nevis,KNA,5817,902,659
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Saint Lucia,LCA,5817,902,662
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Saint Vincent and the Grenadines,VCT,5817,902,670
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Samoa,WSM,5817,902,882
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Sao Tome and Principe,STP,5817,902,678
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Senegal,SEN,5817,902,686
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Sierra Leone,SLE,5817,902,694
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Solomon Islands,SLB,5817,902,90
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Somalia,SOM,5817,902,706
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,South Sudan,SSD,5817,902,728
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Sri Lanka,LKA,5817,902,144
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Sudan,SDN,5817,902,729
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Timor-Leste,TLS,5817,902,626
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Togo,TGO,5817,902,768
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Tonga,TON,5817,902,776
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Trinidad and Tobago,TTO,5817,902,780
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Tunisia,TUN,5817,902,788
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Tuvalu,TUV,5817,902,798
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Uganda,UGA,5817,902,800
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,United Republic of Tanzania,TZA,5817,902,834
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Venezuela (Bolivarian Republic of),VEN,5817,902,862
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Yemen,YEM,5817,902,887
+FAO_GLOBAL,Net Food Importing Developing Countries (NFIDCs),,Zambia,ZMB,5817,902,894
