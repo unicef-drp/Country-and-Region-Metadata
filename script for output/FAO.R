@@ -36,7 +36,7 @@ dtr_level1[M49Region_Code == 1 | M49Region_Code == "1", M49Region_Code := NA]
 
 # Keep regions
 regions_to_keep <- c("Net Food Importing Developing Countries (NFIDCs)" , 
-                     "Low Income Food Deficit Countries (LIFDCs)", "World" )  
+                     "Low Income Food Deficit Countries (LIFDCs)")  
 dtr_level1 <- dtr_level1[Region %in% regions_to_keep]
 
 dtr_level <- dtr_level1
@@ -79,8 +79,9 @@ setDT(dtr_FAO)[, Regional_Grouping := parent_code] # add Regional_Grouping varia
 add.country.name.FAO <- function(dc, dcname){
   dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
   stopifnot("ISO3Code" %in% colnames(dc))
+  if ("M49_Code" %in% colnames(dc)) dc[, M49_Code := NULL]
   dc <- dplyr::left_join(dc, dcname, by = c("ISO3Code" = "id"))
-  dc <- dc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, FAO_CODE, M49Region_Code, M49_Code, FAO_COUNTRY)]
+  dc <- dc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, FAO_CODE, M49Region_Code, M49_Code)]
   setorder(dc, Region, Country)
   return(dc)
 }

@@ -46,7 +46,6 @@ dt_in[, REF_AREA := "World"]
 # 
 dtr_level1 <- dt_in[REF_AREA != "",.(ISO3Code, SDMX_code , REF_AREA , Location )]
 setnames(dtr_level1, "REF_AREA", "Region")
-setnames(dtr_level1, "SDMX_code", "M49_CODE")
 setnames(dtr_level1, "Location", "WPP_COUNTRY")
 
 dtr_level <- dtr_level1
@@ -78,7 +77,7 @@ add.country.name.WPP <- function(dc, dcname){
   dcname <- readRDS("raw_data/SDMX_meta_info/country_name.rds")
   stopifnot("ISO3Code" %in% colnames(dc))
   dc <- dplyr::left_join(dc, dcname, by = c("ISO3Code" = "id"))
-  dc <- dc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, M49_CODE, WPP_COUNTRY)]
+  dc <- dc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, M49_Code)]
   setorder(dc, Region, Country)
   return(dc)
 }
@@ -89,10 +88,12 @@ dtr_WPP <- add.country.name.WPP(dtr_WPP)
 dt_sowc <- fread("raw_data/WORLD/UNICEF_SOWC.csv")
 setDT(dt_sowc)
 dt_sowc <- add.country.name(dt_sowc)
-dt_sowc[, `:=`(M49_CODE = NA, WPP_COUNTRY = NA)]
 
 # Combine WPP and SOWC into one output
 dt_out <- rbindlist(list(dtr_WPP, dt_sowc), fill = TRUE)
 
 fwrite(dt_out, "output/WORLD.csv")
+
+create.code.book()
+bind.all.output()
 
