@@ -36,7 +36,7 @@ dt_rec <- data.table(
     "Kenya", "Libya", "Madagascar", "Malawi", "Mauritius", "Rwanda", "Seychelles",
     "Somalia", "Sudan",  "Tunisia",  "Uganda", "Zambia", "Zimbabwe",
     
-    # CEN-SAD (29 or 24? countries corrected) UNSD says 24
+    # CEN-SAD UNSD says 24
     "Benin", "Burkina Faso", "Central African Republic", "Chad",
     "Comoros", "Côte d’Ivoire", "Djibouti", "Egypt", "Eritrea", "Gambia",
     "Ghana",  "Guinea Bissau","Libya", "Mali",
@@ -89,19 +89,10 @@ dt_rec <- add.country.name(dt_rec)
 
 # Burkina Faso, Mali and Niger will officially cease to be members of
 # ECOWAS as of January 29, 2025
-dt_rec_2025 <- copy(dt_rec)
-dt_rec_2025[Region_Code == "AUREC_ECOWAS" & ISO3Code %in% c("BFA", "MLI", "NER")]
-dt_rec_2025 <- dt_rec_2025[(Region_Code == "AUREC_ECOWAS" & !ISO3Code %in% c("BFA", "MLI", "NER"))]
-dt_rec_2025[, Region_Code := "AUREC_ECOWAS_202502"]
-dt_rec_2025[, Region := "Economic Community of West African States (ECOWAS) 202502"]
+dt_rec[Region_Code == "AUREC_ECOWAS" & ISO3Code %in% c("BFA", "MLI", "NER")]
+dt_rec <- dt_rec[!(Region_Code == "AUREC_ECOWAS" & ISO3Code %in% c("BFA", "MLI", "NER"))]
 
-dt_rec_new <- rbindlist(list(dt_rec, dt_rec_2025))
-dt_rec_new[, table(Region_Code)]
 # Save the data to output folder 
-fwrite(dt_rec_new, "output/AUREC.csv")
+fwrite(dt_rec, "output/AUREC.csv")
 
-
-# 
-# when need wide format
-dt_rec_w <- data.table::dcast(dt_rec, ISO3Code ~ Region_Code, value.var = "Region")
-
+create.code.book()
