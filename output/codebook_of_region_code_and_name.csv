@@ -5,14 +5,20 @@ AU,AU_EASTERN_AFRICA,Eastern Africa (African Union),
 AU,AU_NORTHERN_AFRICA,Northern Africa (African Union),
 AU,AU_SOUTHERN_AFRICA,Southern Africa (African Union),
 AU,AU_WESTERN_AFRICA,Western Africa (African Union),
-AUREC,AUREC_AMU,Arab Maghreb Union (AMU),
-AUREC,AUREC_COMESA,Common Market for Eastern and Southern Africa (COMESA),
-AUREC,AUREC_CEN_SAD,Community of Sahel-Saharan States (CEN-SAD),
-AUREC,AUREC_EAC,East African Community (EAC),
-AUREC,AUREC_ECCAS,Economic Community of Central African States (ECCAS),
-AUREC,AUREC_ECOWAS,Economic Community of West African States (ECOWAS),
-AUREC,AUREC_IGAD,Intergovernmental Authority on Development (IGAD),
-AUREC,AUREC_SADC,Southern African Development Community (SADC),
+AUREC,SDGRC_ECA_AMU,Arab Maghreb Union (AMU),98111
+AUREC,SDGRC_ECA_ALL,ECA_All countries,98100
+AUREC,SDGRC_ECA_CEN_SAD,Community of Sahel-Saharan States (CEN-SAD),98112
+AUREC,SDGRC_ECA_COMESA,Common Market for Eastern and Southern Africa (COMESA),98113
+AUREC,SDGRC_ECA_CA,ECA_Central Africa,98101
+AUREC,SDGRC_ECA_EAC,East African Community (EAC),98114
+AUREC,SDGRC_ECA_ECCAS,Economic Community of Central African States (ECCAS),98107
+AUREC,SDGRC_ECA_ECOWAS,Economic Community of West African States (ECOWAS),98108
+AUREC,SDGRC_ECA_EA,ECA_Eastern Africa,98102
+AUREC,SDGRC_ECA_IGAD,Intergovernmental Authority on Development (IGAD),98109
+AUREC,SDGRC_ECA_NA,ECA_North Africa,98103
+AUREC,SDGRC_ECA_SADC,Southern African Development Community (SADC),98110
+AUREC,SDGRC_ECA_SA,ECA_Southern Africa,98104
+AUREC,SDGRC_ECA_WA,ECA_West Africa,98105
 FAO_GLOBAL,FAO_LIFDC,Low Income Food Deficit Countries (LIFDCs),901
 FAO_GLOBAL,"",Net Food Importing Developing Countries (NFIDCs),902
 SDGRC,SDGRC_ECA_AMU,ECA_AMU,98111

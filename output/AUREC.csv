@@ -1,105 +1,213 @@
-Regional_Grouping,Region,Region_Code,Country,ISO3Code,M49_Code
-AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Algeria,DZA,12
-AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Libya,LBY,434
-AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Mauritania,MRT,478
-AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Morocco,MAR,504
-AUREC,Arab Maghreb Union (AMU),AUREC_AMU,Tunisia,TUN,788
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Burundi,BDI,108
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Comoros,COM,174
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Democratic Republic of the Congo,COD,180
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Djibouti,DJI,262
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Egypt,EGY,818
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Eritrea,ERI,232
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Eswatini,SWZ,748
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Ethiopia,ETH,231
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Kenya,KEN,404
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Libya,LBY,434
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Madagascar,MDG,450
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Malawi,MWI,454
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Mauritius,MUS,480
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Rwanda,RWA,646
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Seychelles,SYC,690
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Somalia,SOM,706
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Sudan,SDN,729
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Tunisia,TUN,788
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Uganda,UGA,800
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Zambia,ZMB,894
-AUREC,Common Market for Eastern and Southern Africa (COMESA),AUREC_COMESA,Zimbabwe,ZWE,716
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Benin,BEN,204
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Burkina Faso,BFA,854
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Central African Republic,CAF,140
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Chad,TCD,148
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Comoros,COM,174
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Côte d'Ivoire,CIV,384
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Djibouti,DJI,262
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Egypt,EGY,818
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Eritrea,ERI,232
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Gambia,GMB,270
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Ghana,GHA,288
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Guinea-Bissau,GNB,624
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Libya,LBY,434
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Mali,MLI,466
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Mauritania,MRT,478
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Morocco,MAR,504
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Niger,NER,562
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Nigeria,NGA,566
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Senegal,SEN,686
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Sierra Leone,SLE,694
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Somalia,SOM,706
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Sudan,SDN,729
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Togo,TGO,768
-AUREC,Community of Sahel-Saharan States (CEN-SAD),AUREC_CEN_SAD,Tunisia,TUN,788
-AUREC,East African Community (EAC),AUREC_EAC,Burundi,BDI,108
-AUREC,East African Community (EAC),AUREC_EAC,Democratic Republic of the Congo,COD,180
-AUREC,East African Community (EAC),AUREC_EAC,Kenya,KEN,404
-AUREC,East African Community (EAC),AUREC_EAC,Rwanda,RWA,646
-AUREC,East African Community (EAC),AUREC_EAC,South Sudan,SSD,728
-AUREC,East African Community (EAC),AUREC_EAC,Uganda,UGA,800
-AUREC,East African Community (EAC),AUREC_EAC,United Republic of Tanzania,TZA,834
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Angola,AGO,24
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Burundi,BDI,108
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Cameroon,CMR,120
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Central African Republic,CAF,140
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Chad,TCD,148
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Congo,COG,178
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Democratic Republic of the Congo,COD,180
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Equatorial Guinea,GNQ,226
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Gabon,GAB,266
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Rwanda,RWA,646
-AUREC,Economic Community of Central African States (ECCAS),AUREC_ECCAS,Sao Tome and Principe,STP,678
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Benin,BEN,204
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Cabo Verde,CPV,132
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Côte d'Ivoire,CIV,384
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Gambia,GMB,270
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Ghana,GHA,288
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Guinea,GIN,324
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Guinea-Bissau,GNB,624
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Liberia,LBR,430
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Nigeria,NGA,566
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Senegal,SEN,686
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Sierra Leone,SLE,694
-AUREC,Economic Community of West African States (ECOWAS),AUREC_ECOWAS,Togo,TGO,768
-AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Djibouti,DJI,262
-AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Eritrea,ERI,232
-AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Ethiopia,ETH,231
-AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Kenya,KEN,404
-AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Somalia,SOM,706
-AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,South Sudan,SSD,728
-AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Sudan,SDN,729
-AUREC,Intergovernmental Authority on Development (IGAD),AUREC_IGAD,Uganda,UGA,800
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Angola,AGO,24
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Botswana,BWA,72
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Comoros,COM,174
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Democratic Republic of the Congo,COD,180
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Eswatini,SWZ,748
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Lesotho,LSO,426
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Madagascar,MDG,450
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Malawi,MWI,454
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Mauritius,MUS,480
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Mozambique,MOZ,508
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Namibia,NAM,516
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Seychelles,SYC,690
-AUREC,Southern African Development Community (SADC),AUREC_SADC,South Africa,ZAF,710
-AUREC,Southern African Development Community (SADC),AUREC_SADC,United Republic of Tanzania,TZA,834
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Zambia,ZMB,894
-AUREC,Southern African Development Community (SADC),AUREC_SADC,Zimbabwe,ZWE,716
+Regional_Grouping,Region,Region_Code,M49Region_Code,Country,ISO3Code,M49_Code
+AUREC,Arab Maghreb Union (AMU),SDGRC_ECA_AMU,98111,Algeria,DZA,12
+AUREC,Arab Maghreb Union (AMU),SDGRC_ECA_AMU,98111,Libya,LBY,434
+AUREC,Arab Maghreb Union (AMU),SDGRC_ECA_AMU,98111,Mauritania,MRT,478
+AUREC,Arab Maghreb Union (AMU),SDGRC_ECA_AMU,98111,Morocco,MAR,504
+AUREC,Arab Maghreb Union (AMU),SDGRC_ECA_AMU,98111,Tunisia,TUN,788
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Algeria,DZA,12
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Angola,AGO,24
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Benin,BEN,204
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Botswana,BWA,72
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Burkina Faso,BFA,854
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Burundi,BDI,108
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Cabo Verde,CPV,132
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Cameroon,CMR,120
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Central African Republic,CAF,140
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Chad,TCD,148
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Comoros,COM,174
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Congo,COG,178
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Côte d'Ivoire,CIV,384
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Democratic Republic of the Congo,COD,180
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Djibouti,DJI,262
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Egypt,EGY,818
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Equatorial Guinea,GNQ,226
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Eritrea,ERI,232
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Eswatini,SWZ,748
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Ethiopia,ETH,231
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Gabon,GAB,266
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Gambia,GMB,270
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Ghana,GHA,288
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Guinea,GIN,324
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Guinea-Bissau,GNB,624
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Kenya,KEN,404
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Lesotho,LSO,426
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Liberia,LBR,430
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Libya,LBY,434
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Madagascar,MDG,450
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Malawi,MWI,454
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Mali,MLI,466
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Mauritania,MRT,478
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Mauritius,MUS,480
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Morocco,MAR,504
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Mozambique,MOZ,508
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Namibia,NAM,516
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Niger,NER,562
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Nigeria,NGA,566
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Rwanda,RWA,646
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Sao Tome and Principe,STP,678
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Senegal,SEN,686
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Seychelles,SYC,690
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Sierra Leone,SLE,694
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Somalia,SOM,706
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,South Africa,ZAF,710
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,South Sudan,SSD,728
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Sudan,SDN,729
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Togo,TGO,768
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Tunisia,TUN,788
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Uganda,UGA,800
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,United Republic of Tanzania,TZA,834
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Zambia,ZMB,894
+AUREC,ECA_All countries,SDGRC_ECA_ALL,98100,Zimbabwe,ZWE,716
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Benin,BEN,204
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Burkina Faso,BFA,854
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Central African Republic,CAF,140
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Chad,TCD,148
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Comoros,COM,174
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Côte d'Ivoire,CIV,384
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Djibouti,DJI,262
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Egypt,EGY,818
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Eritrea,ERI,232
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Gambia,GMB,270
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Ghana,GHA,288
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Guinea-Bissau,GNB,624
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Libya,LBY,434
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Mali,MLI,466
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Mauritania,MRT,478
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Morocco,MAR,504
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Niger,NER,562
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Nigeria,NGA,566
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Senegal,SEN,686
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Sierra Leone,SLE,694
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Somalia,SOM,706
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Sudan,SDN,729
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Togo,TGO,768
+AUREC,Community of Sahel-Saharan States (CEN-SAD),SDGRC_ECA_CEN_SAD,98112,Tunisia,TUN,788
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Burundi,BDI,108
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Comoros,COM,174
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Democratic Republic of the Congo,COD,180
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Djibouti,DJI,262
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Egypt,EGY,818
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Eritrea,ERI,232
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Eswatini,SWZ,748
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Ethiopia,ETH,231
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Kenya,KEN,404
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Libya,LBY,434
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Madagascar,MDG,450
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Malawi,MWI,454
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Mauritius,MUS,480
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Rwanda,RWA,646
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Seychelles,SYC,690
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Somalia,SOM,706
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Sudan,SDN,729
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Tunisia,TUN,788
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Uganda,UGA,800
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Zambia,ZMB,894
+AUREC,Common Market for Eastern and Southern Africa (COMESA),SDGRC_ECA_COMESA,98113,Zimbabwe,ZWE,716
+AUREC,ECA_Central Africa,SDGRC_ECA_CA,98101,Cameroon,CMR,120
+AUREC,ECA_Central Africa,SDGRC_ECA_CA,98101,Central African Republic,CAF,140
+AUREC,ECA_Central Africa,SDGRC_ECA_CA,98101,Chad,TCD,148
+AUREC,ECA_Central Africa,SDGRC_ECA_CA,98101,Congo,COG,178
+AUREC,ECA_Central Africa,SDGRC_ECA_CA,98101,Equatorial Guinea,GNQ,226
+AUREC,ECA_Central Africa,SDGRC_ECA_CA,98101,Gabon,GAB,266
+AUREC,ECA_Central Africa,SDGRC_ECA_CA,98101,Sao Tome and Principe,STP,678
+AUREC,East African Community (EAC),SDGRC_ECA_EAC,98114,Burundi,BDI,108
+AUREC,East African Community (EAC),SDGRC_ECA_EAC,98114,Democratic Republic of the Congo,COD,180
+AUREC,East African Community (EAC),SDGRC_ECA_EAC,98114,Kenya,KEN,404
+AUREC,East African Community (EAC),SDGRC_ECA_EAC,98114,Rwanda,RWA,646
+AUREC,East African Community (EAC),SDGRC_ECA_EAC,98114,South Sudan,SSD,728
+AUREC,East African Community (EAC),SDGRC_ECA_EAC,98114,Uganda,UGA,800
+AUREC,East African Community (EAC),SDGRC_ECA_EAC,98114,United Republic of Tanzania,TZA,834
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Angola,AGO,24
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Burundi,BDI,108
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Cameroon,CMR,120
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Central African Republic,CAF,140
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Chad,TCD,148
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Congo,COG,178
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Democratic Republic of the Congo,COD,180
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Equatorial Guinea,GNQ,226
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Gabon,GAB,266
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Rwanda,RWA,646
+AUREC,Economic Community of Central African States (ECCAS),SDGRC_ECA_ECCAS,98107,Sao Tome and Principe,STP,678
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Benin,BEN,204
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Cabo Verde,CPV,132
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Côte d'Ivoire,CIV,384
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Gambia,GMB,270
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Ghana,GHA,288
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Guinea,GIN,324
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Guinea-Bissau,GNB,624
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Liberia,LBR,430
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Nigeria,NGA,566
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Senegal,SEN,686
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Sierra Leone,SLE,694
+AUREC,Economic Community of West African States (ECOWAS),SDGRC_ECA_ECOWAS,98108,Togo,TGO,768
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Burundi,BDI,108
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Comoros,COM,174
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Democratic Republic of the Congo,COD,180
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Djibouti,DJI,262
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Eritrea,ERI,232
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Ethiopia,ETH,231
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Kenya,KEN,404
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Madagascar,MDG,450
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Rwanda,RWA,646
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Seychelles,SYC,690
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Somalia,SOM,706
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,South Sudan,SSD,728
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,Uganda,UGA,800
+AUREC,ECA_Eastern Africa,SDGRC_ECA_EA,98102,United Republic of Tanzania,TZA,834
+AUREC,Intergovernmental Authority on Development (IGAD),SDGRC_ECA_IGAD,98109,Djibouti,DJI,262
+AUREC,Intergovernmental Authority on Development (IGAD),SDGRC_ECA_IGAD,98109,Eritrea,ERI,232
+AUREC,Intergovernmental Authority on Development (IGAD),SDGRC_ECA_IGAD,98109,Ethiopia,ETH,231
+AUREC,Intergovernmental Authority on Development (IGAD),SDGRC_ECA_IGAD,98109,Kenya,KEN,404
+AUREC,Intergovernmental Authority on Development (IGAD),SDGRC_ECA_IGAD,98109,Somalia,SOM,706
+AUREC,Intergovernmental Authority on Development (IGAD),SDGRC_ECA_IGAD,98109,South Sudan,SSD,728
+AUREC,Intergovernmental Authority on Development (IGAD),SDGRC_ECA_IGAD,98109,Sudan,SDN,729
+AUREC,Intergovernmental Authority on Development (IGAD),SDGRC_ECA_IGAD,98109,Uganda,UGA,800
+AUREC,ECA_North Africa,SDGRC_ECA_NA,98103,Algeria,DZA,12
+AUREC,ECA_North Africa,SDGRC_ECA_NA,98103,Egypt,EGY,818
+AUREC,ECA_North Africa,SDGRC_ECA_NA,98103,Libya,LBY,434
+AUREC,ECA_North Africa,SDGRC_ECA_NA,98103,Mauritania,MRT,478
+AUREC,ECA_North Africa,SDGRC_ECA_NA,98103,Morocco,MAR,504
+AUREC,ECA_North Africa,SDGRC_ECA_NA,98103,Sudan,SDN,729
+AUREC,ECA_North Africa,SDGRC_ECA_NA,98103,Tunisia,TUN,788
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Angola,AGO,24
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Botswana,BWA,72
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Comoros,COM,174
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Democratic Republic of the Congo,COD,180
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Eswatini,SWZ,748
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Lesotho,LSO,426
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Madagascar,MDG,450
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Malawi,MWI,454
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Mauritius,MUS,480
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Mozambique,MOZ,508
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Namibia,NAM,516
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Seychelles,SYC,690
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,South Africa,ZAF,710
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,United Republic of Tanzania,TZA,834
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Zambia,ZMB,894
+AUREC,Southern African Development Community (SADC),SDGRC_ECA_SADC,98110,Zimbabwe,ZWE,716
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Angola,AGO,24
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Botswana,BWA,72
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Eswatini,SWZ,748
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Lesotho,LSO,426
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Malawi,MWI,454
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Mauritius,MUS,480
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Mozambique,MOZ,508
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Namibia,NAM,516
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,South Africa,ZAF,710
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Zambia,ZMB,894
+AUREC,ECA_Southern Africa,SDGRC_ECA_SA,98104,Zimbabwe,ZWE,716
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Benin,BEN,204
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Burkina Faso,BFA,854
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Cabo Verde,CPV,132
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Côte d'Ivoire,CIV,384
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Gambia,GMB,270
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Ghana,GHA,288
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Guinea,GIN,324
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Guinea-Bissau,GNB,624
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Liberia,LBR,430
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Mali,MLI,466
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Niger,NER,562
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Nigeria,NGA,566
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Senegal,SEN,686
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Sierra Leone,SLE,694
+AUREC,ECA_West Africa,SDGRC_ECA_WA,98105,Togo,TGO,768
