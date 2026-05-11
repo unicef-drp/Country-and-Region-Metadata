@@ -9,3 +9,4 @@ temp
 .venv
 .pyc
 __pycache__
+.positai
