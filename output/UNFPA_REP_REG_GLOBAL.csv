@@ -1,0 +1,155 @@
+Regional_Grouping,Region,Region_Code,Country,ISO3Code,M49_Code
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Algeria,DZA,12
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Djibouti,DJI,262
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Egypt,EGY,818
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Iraq,IRQ,368
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Jordan,JOR,400
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Lebanon,LBN,422
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Libya,LBY,434
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Morocco,MAR,504
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Oman,OMN,512
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Palestine,PSE,275
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Somalia,SOM,706
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Sudan,SDN,729
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Syrian Arab Republic,SYR,760
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Tunisia,TUN,788
+UNFPA_REP_REG_GLOBAL,Arab States,UNFPA_ARAB,Yemen,YEM,887
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Afghanistan,AFG,4
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Bangladesh,BGD,50
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Bhutan,BTN,64
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Cambodia,KHM,116
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,China,CHN,156
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Cook Islands,COK,184
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Fiji,FJI,242
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,India,IND,356
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Indonesia,IDN,360
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Iran (Islamic Republic of),IRN,364
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Kiribati,KIR,296
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,"Korea, Democratic People’s Republic of",PRK,408
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Lao People’s Democratic Republic,LAO,418
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Malaysia,MYS,458
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Maldives,MDV,462
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Marshall Islands,MHL,584
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Micronesia (Federated States of),FSM,583
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Mongolia,MNG,496
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Myanmar,MMR,104
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Nauru,NRU,520
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Nepal,NPL,524
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Niue,NIU,570
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Pakistan,PAK,586
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Palau,PLW,585
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Papua New Guinea,PNG,598
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Philippines,PHL,608
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Samoa,WSM,882
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Solomon Islands,SLB,90
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Sri Lanka,LKA,144
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Thailand,THA,764
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Timor-Leste,TLS,626
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Tokelau,TKL,772
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Tonga,TON,776
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Tuvalu,TUV,798
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Vanuatu,VUT,548
+UNFPA_REP_REG_GLOBAL,Asia and Pacific,UNFPA_EAP,Viet Nam,VNM,704
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Angola,AGO,24
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Botswana,BWA,72
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Burundi,BDI,108
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Comoros,COM,174
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Democratic Republic of the Congo,COD,180
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Eritrea,ERI,232
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Eswatini,SWZ,748
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Ethiopia,ETH,231
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Kenya,KEN,404
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Lesotho,LSO,426
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Madagascar,MDG,450
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Malawi,MWI,454
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Mauritius,MUS,480
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Mozambique,MOZ,508
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Namibia,NAM,516
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Rwanda,RWA,646
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,South South Africa,ZAF,710
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,South Sudan,SSD,728
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Uganda,UGA,800
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,United Republic of Tanzania,TZA,834
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Zambia,ZMB,894
+UNFPA_REP_REG_GLOBAL,East and Southern Africa,UNFPA_ESA,Zimbabwe,ZWE,716
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Albania,ALB,8
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Armenia,ARM,51
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Azerbaijan,AZE,31
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Belarus,BLR,112
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Bosnia and Herzegovina,BIH,70
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Georgia,GEO,268
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Kazakhstan,KAZ,398
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Kyrgyzstan,KGZ,417
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,North Macedonia,MKD,807
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Republic of Moldova,MDA,498
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Serbia,SRB,688
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Tajikistan,TJK,762
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Turkmenistan,TKM,795
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Türkiye,TUR,792
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Ukraine,UKR,804
+UNFPA_REP_REG_GLOBAL,Eastern Europe and Central Asia,UNFPA_EECA,Uzbekistan,UZB,860
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Anguilla,AIA,660
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Antigua and Barbuda,ATG,28
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Argentina,ARG,32
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Aruba,ABW,533
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Bahamas,BHS,44
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Barbados,BRB,52
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Belize,BLZ,84
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Bermuda,BMU,60
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Bolivia (Plurinational State of),BOL,68
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Brazil,BRA,76
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,British Virgin Islands,VGB,92
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Cayman Islands,CYM,136
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Chile,CHL,152
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Colombia,COL,170
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Costa Rica,CRI,188
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Cuba,CUB,192
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Curaçao,CUW,531
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Dominica,DMA,212
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Dominican Republic,DOM,214
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Ecuador,ECU,218
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,El Salvador,SLV,222
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Grenada,GRD,308
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Guatemala,GTM,320
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Guyana,GUY,328
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Haiti,HTI,332
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Honduras,HND,340
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Jamaica,JAM,388
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Mexico,MEX,484
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Montserrat,MSR,500
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Nicaragua,NIC,558
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Panama,PAN,591
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Paraguay,PRY,600
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Peru,PER,604
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Saint Kitts and Nevis,KNA,659
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Saint Lucia,LCA,662
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Saint Vincent and the Grenadines,VCT,670
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Sint Maarten,SXM,534
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Suriname,SUR,740
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Trinidad and Tobago,TTO,780
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Turks and Caicos Islands,TCA,796
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Uruguay,URY,858
+UNFPA_REP_REG_GLOBAL,Latin America and Caribbean,UNFPA_LAC,Venezuela (Bolivarian Republic of),VEN,862
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Benin,BEN,204
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Burkina Faso,BFA,854
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Cameroon,CMR,120
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Cape Verde,CPV,132
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Central African Republic,CAF,140
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Chad,TCD,148
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Congo,COG,178
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Côte d’Ivoire,CIV,384
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Equatorial Guinea,GNQ,226
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Gabon,GAB,266
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Gambia,GMB,270
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Ghana,GHA,288
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Guinea,GIN,324
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Guinea-Bissau,GNB,624
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Liberia,LBR,430
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Mali,MLI,466
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Mauritania,MRT,478
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Niger,NER,562
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Nigeria,NGA,566
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Sao Tome and Principe,STP,678
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Senegal,SEN,686
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Sierra Leone,SLE,694
+UNFPA_REP_REG_GLOBAL,West and Central Africa,UNFPA_WCA,Togo,TGO,768

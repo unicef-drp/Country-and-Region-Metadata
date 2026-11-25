@@ -69,9 +69,9 @@ unique(dt_rc[Country!=Name,.(Country, Name)])
 # 8:                          Kosovo (UNSCR 1244)                                               Kosovo
 # 9:                            Wallis and Futuna                            Wallis and Futuna Islands
 
-dt_rc <- dt_rc[,.(Regional_Grouping, Region, Region_Code, Country, ISO3Code, RC_UNSDCode)]
+dt_rc <- dt_rc[,.(Regional_Grouping, Region, Region_Code, RC_UNSDCode, Country, ISO3Code, M49_Code)]
 setorder(dt_rc, Region, Country)
-setnames(dt_rc, "RC_UNSDCode", "UNSD_Code")
+setnames(dt_rc, "RC_UNSDCode", "M49Region_Code")
 
 dt_rc[, Region_Code := toupper(Region_Code)]
 dt_rc[, Region_Code := gsub(" ", "_", Region_Code)]
