@@ -1,44 +1,44 @@
 name: Repository QA
 
-# Manual dispatch only: checks run locally, and this workflow never runs on
-# every push or pull request.
+# Manual dispatch only: checks run locally with `sh tools/qa.sh` (see
+# CONTRIBUTING.md), and this workflow never runs on every push or pull request.
+# When started by hand it runs that same script.
 on:
   workflow_dispatch: {}
+
+permissions:
+  contents: read
 
 jobs:
   qa:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      # gitleaks CLI, pinned by version and SHA-256. The CLI is MIT-licensed and
+      # needs no GITLEAKS_LICENSE, unlike gitleaks/gitleaks-action on
+      # organisation repositories.
+      GITLEAKS_VERSION: '8.30.1'
+      GITLEAKS_SHA256: '551f6fc83ea457d62a0d98237cbad105af8d557003051f41f3e7ca7b3f2470eb'
     steps:
-      - name: Checkout
+      - name: Checkout (full history, for the secret scan)
         uses: actions/checkout@v4
-
-      - name: Basic file presence
-        run: |
-          test -f README.md
-          test -f .gitignore
-
-      - name: Secret scanning (gitleaks)
-        uses: gitleaks/gitleaks-action@v2
         with:
-          args: detect --source . --no-banner --redact
+          fetch-depth: 0
 
-      - name: Python quick checks
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Compile Python scripts if present
-        run: |
-          set -e
-          shopt -s globstar || true
-          files=(Python/**/*.py)
-          if [ -e "${files[0]}" ]; then
-            python -m pip install --upgrade pip
-            python -m py_compile ${files[@]}
-          else
-            echo "No Python scripts found; skipping compile"
-          fi
 
-      - name: Markdown lint (mdl) [optional]
-        if: ${{ false }}
+      - name: Install gitleaks CLI
         run: |
-          echo "Enable a markdown linter if desired"
+          set -eu
+          f="gitleaks_${GITLEAKS_VERSION}_linux_x64.tar.gz"
+          curl -sSfLO "https://github.com/gitleaks/gitleaks/releases/download/v${GITLEAKS_VERSION}/${f}"
+          echo "${GITLEAKS_SHA256}  ${f}" | sha256sum -c -
+          mkdir -p "$RUNNER_TEMP/bin"
+          tar -xzf "$f" -C "$RUNNER_TEMP/bin" gitleaks
+          echo "$RUNNER_TEMP/bin" >> "$GITHUB_PATH"
+
+      - name: Run tools/qa.sh
+        run: sh tools/qa.sh
